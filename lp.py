@@ -3,6 +3,8 @@ from data import filter_data, calc_pop
 from pulp import *
 import pandas
 
+import pprint
+
 area_msq = 4046.86
 prob = LpProblem("GrowthOpt", LpMaximize)
 
@@ -116,6 +118,41 @@ prob += eval(cn_full_str)
 # Shade tolerant, limit max height to groundcover
 
 
+
+for index, value in enumerate(variable_names):
+	temp_shade_tol = variable_dict[value]['sun']
+	temp_height = variable_dict[value]['size']
+
+	temp_growth = variable_dict[value]['growth']
+
+	if temp_growth == "Slow":
+		temp_growth = _slow
+	if temp_growth == "Moderate":
+		temp_growth = _norm
+	if temp_growth == "Rapid":
+		temp_growth = _fast
+	
+	if temp_shade_tol == "Intolerant":
+
+		for j_index, j_value in enumerate(variable_names):
+			j_temp_height = variable_dict[j_value]['size']
+
+			j_temp_growth = variable_dict[value]['growth']
+
+			if j_temp_growth == "Slow":
+				j_temp_growth = _slow
+			if j_temp_growth == "Moderate":
+				j_temp_growth = _norm
+			if j_temp_growth == "Rapid":
+				j_temp_growth = _fast
+
+			print(str(temp_height) + " : " + str(temp_height*temp_growth*1.5) + " : " + str(j_temp_height*j_temp_growth))
+
+			if j_temp_height*j_temp_growth > temp_height*temp_growth*1.5:
+				height_constraint = value + "+" + j_value + "<= 0"
+				prob += eval(height_constraint)
+
+
 # -----
 ## Root depth constraint
 # Occupy all laters fully
@@ -132,7 +169,6 @@ prob += eval(cn_full_str)
 # 37-48"
 
 # > 48"
-
 
 # Solve
 
@@ -153,5 +189,6 @@ print('\Objective: ')
 print(prob.objective)
 
 print('\nOUTPUT: ')
-print(output)
+pp = pprint.PrettyPrinter(indent=4)
+pp.pprint(output)
 print(len(output))

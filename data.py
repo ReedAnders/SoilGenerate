@@ -4,7 +4,7 @@ import numpy as np
 # Load soil data
 
 def filter_data():
-	df = pd.read_csv('plants-full.csv', encoding="utf-8")
+	df = pd.read_csv('plants-deer-full.csv', encoding="utf-8")
 
 	# 21B—Coloma-Tatches complex, 0 to 6 percent slopes 
 
@@ -36,11 +36,12 @@ def filter_data():
 	is_cn_med = df['C:N Ratio'] == 'Medium'
 	is_cn_high = df['C:N Ratio'] == 'High'
 
-	df = df[is_cn_low | is_cn_med | is_cn_high]
+	df = df[is_cn_low | is_cn_med]
 
 	# Filter soil
 	is_medium = df['Adapted to Medium Textured Soils'] == 'Yes'
 	is_course = df['Adapted to Coarse Textured Soils'] == 'Yes'
+	# is_not_marsh = df['Moisture Use'] != 'High'
 
 	df = df[is_medium & is_course]
 

@@ -31,6 +31,11 @@ def filter_data():
 	is_not_invasive = pd.isnull(df['Invasive'])
 	df = df[is_not_invasive]
 
+	# Filter deer
+	is_not_browse = df['Palatable Browse Animal'] == 'Low'
+	is_some_browse = df['Palatable Browse Animal'] == 'Medium'
+	df = df[is_not_browse | is_some_browse]
+
 	# Filter C:N
 	is_cn_low = df['C:N Ratio'] == 'Low'
 	is_cn_med = df['C:N Ratio'] == 'Medium'

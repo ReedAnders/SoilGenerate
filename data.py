@@ -33,8 +33,9 @@ def filter_data():
 
 	# Filter deer
 	is_not_browse = df['Palatable Browse Animal'] == 'Low'
-	is_some_browse = df['Palatable Browse Animal'] == 'Medium'
-	df = df[is_not_browse | is_some_browse]
+	# is_some_browse = df['Palatable Browse Animal'] == 'Medium'
+	# is_browse = df['Palatable Browse Animal'] == 'High'
+	df = df[is_not_browse]
 
 	# Filter C:N
 	is_cn_low = df['C:N Ratio'] == 'Low'

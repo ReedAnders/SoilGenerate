@@ -217,6 +217,9 @@ if thirty_more_depth:
 
 # Solve
 
+# NOTES:
+# Querk with browsing and root depth. Including 'high' browse makes root opt infeasible
+
 GLPK().solve(prob)
 
 v = prob.variables()

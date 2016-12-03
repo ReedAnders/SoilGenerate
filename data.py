@@ -4,7 +4,7 @@ import numpy as np
 # Load soil data
 
 def filter_data():
-	df = pd.read_csv('plants-deer-full.csv', encoding="utf-8")
+	df = pd.read_csv('full_deer_sheffields.csv', encoding="utf-8")
 
 	# 21B—Coloma-Tatches complex, 0 to 6 percent slopes 
 
@@ -23,8 +23,16 @@ def filter_data():
 	# Hardiness 5b								-10.0
 	# ------------------------------------------------
 
+	# Filter seed
+	# is_seed = df['Propogated by Seed'] == "Yes"
+	is_aval = df['Commercial Availability'] == "Routinely Available"
+	df = df[is_aval]
+
 	# Filter nan
 	is_not_nan = pd.notnull(df['Growth Rate'])
+	df = df[is_not_nan]
+
+	is_not_nan = pd.notnull(df['Height at Base Age, Maximum (feet)'])
 	df = df[is_not_nan]
 
 	# Filter invasive
@@ -33,29 +41,34 @@ def filter_data():
 
 	# Filter deer
 	is_not_browse = df['Palatable Browse Animal'] == 'Low'
-	# is_some_browse = df['Palatable Browse Animal'] == 'Medium'
-	# is_browse = df['Palatable Browse Animal'] == 'High'
-	df = df[is_not_browse]
+	is_some_browse = df['Palatable Browse Animal'] == 'Medium'
+	is_browse = df['Palatable Browse Animal'] == 'High'
+	df = df[is_not_browse | is_some_browse | is_browse]
 
 	# Filter C:N
 	is_cn_low = df['C:N Ratio'] == 'Low'
 	is_cn_med = df['C:N Ratio'] == 'Medium'
 	is_cn_high = df['C:N Ratio'] == 'High'
 
-	df = df[is_cn_low | is_cn_med]
+	df = df[is_cn_low | is_cn_med | is_cn_high]
 
 	# Filter soil
 	is_medium = df['Adapted to Medium Textured Soils'] == 'Yes'
 	is_course = df['Adapted to Coarse Textured Soils'] == 'Yes'
-	# is_not_marsh = df['Moisture Use'] != 'High'
+	is_not_marsh = df['Moisture Use'] != 'High'
 
-	df = df[is_medium & is_course]
+	df = df[is_course | is_medium | is_not_marsh]
 
 	# Filter hardiness
 
 	is_above = df['Temperature, Minimum (°F)'] <= -10.0
 
 	df = df[is_above]
+
+	# Filter light
+	is_tol = df['Shade Tolerance'] != "Intolerant"
+
+	df = df[is_tol]
 
 	# Filter rainfall
 

@@ -1,11 +1,12 @@
 from data import filter_data, calc_pop
 
-from pulp import *
+from pulp import LpProblem, LpVariable, LpMaximize, GLPK
+from pulp import value as pulp_value
 import pandas
 
 import pprint
 
-area_msq = 4046.86
+area_msq = 15.24
 prob = LpProblem("GrowthOpt", LpMaximize)
 
 # Import variables with Pandas and create
@@ -25,7 +26,7 @@ for throwaway, row in df.iterrows():
 	info['sun'] = row['Shade Tolerance']
 	info['root'] = row['Root Depth, Minimum (inches)']
 	info['growth'] = row['Growth Rate']
-	info['size'] = row['Height, Mature (feet)']*0.3048
+	info['size'] = row['Height at Base Age, Maximum (feet)']*0.3048
 
 	max_population = calc_pop(area_msq, row['Height, Mature (feet)'])
 	# globals()[variable_names[df_index]] = LpVariable(info['sci_name'], 0, max_population, cat="Integer")
@@ -74,7 +75,7 @@ _med = 1/41
 _high = 1/91
 
 _cn_max = 1/24
-_cn_ideal = 1/30
+_cn_ideal = 1/41
 
 cn_ideal_list = ['_cn_ideal*{}'.format(var) for var in variable_names]
 cn_ideal_str = " + ".join(cn_ideal_list)
@@ -162,7 +163,7 @@ nine_15_depth = []
 fifteen_30_depth = []
 thirty_more_depth = []
 
-root_area = (area_msq/5)*0.8
+root_area = (area_msq/5)
 
 for index, value in enumerate(variable_names):
 	temp_root = variable_dict[value]['root']
@@ -188,31 +189,46 @@ for index, value in enumerate(variable_names):
 	if temp_root >= 9.0 and temp_root < 15.0:
 		nine_15_depth.append(str_rate)
 
-	if temp_root >= 9.0 and temp_root < 15.0:
+	if temp_root >= 15.0 and temp_root < 30.0:
 		fifteen_30_depth.append(str_rate)
 
 	if temp_root >= 30.0:
 		thirty_more_depth.append(str_rate)
 
 if zero_4_depth:
-	zero = " + ".join(zero_4_depth) + ">=" + str(root_area)
-	prob += eval(zero)
+	print ("\nzero", zero_4_depth)
+	# zero_lb = " + ".join(zero_4_depth) + ">=" + str(root_area*0.5)
+	zero_ub = " + ".join(zero_4_depth) + "<=" + str(area_msq)
+	# prob += eval(zero_lb)
+	prob += eval(zero_ub)
 
 if four_9_depth:
-	four = " + ".join(four_9_depth) + ">=" + str(root_area)
-	prob += eval(four)
+	print ("\nfour", four_9_depth)
+	# four_lb = " + ".join(four_9_depth) + ">=" + str(root_area*0.5)
+	four_ub = " + ".join(four_9_depth) + "<=" + str(area_msq)
+	# prob += eval(four_lb)
+	prob += eval(four_ub)
 
 if nine_15_depth:
-	nine = " + ".join(nine_15_depth) + ">=" + str(root_area)
-	prob += eval(nine)
+	print ("\nnine", nine_15_depth)
+	# nine_lb = " + ".join(nine_15_depth) + ">=" + str(root_area*0.5)
+	nine_ub = " + ".join(nine_15_depth) + "<=" + str(area_msq)
+	# prob += eval(nine_lb)
+	prob += eval(nine_ub)
 
 if fifteen_30_depth:
-	fifteen = " + ".join(fifteen_30_depth) + ">=" + str(root_area)
-	prob += eval(fifteen)
+	print ("\nfifteen", fifteen_30_depth)
+	# fifteen_lb = " + ".join(fifteen_30_depth) + ">=" + str(root_area*0.5)
+	fifteen_ub = " + ".join(fifteen_30_depth) + "<=" + str(area_msq)
+	# prob += eval(fifteen_lb)
+	prob += eval(fifteen_ub)
 
 if thirty_more_depth:
-	thirty = " + ".join(thirty_more_depth) + ">=" + str(root_area)
-	prob += eval(thirty)
+	print ("\nthirty", thirty_more_depth)
+	# thirty_lb = " + ".join(thirty_more_depth) + ">=" + str(root_area*0.5)
+	thirty_ub = " + ".join(thirty_more_depth) + "<=" + str(area_msq)
+	# prob += eval(thirty_lb)
+	prob += eval(thirty_ub)
 
 
 # Solve
@@ -228,13 +244,26 @@ output = []
 
 for solution in v:
 	_value = solution.varValue	
-	_name = solution.name
+	_name = ' '.join(solution.name.split('_'))
+	_height = None
+	_light = None
+	_root = None
 
-	if _value > 0:
-		output.append((_name, round(_value)))
+	for index, value in enumerate(variable_names):
+		if _name == variable_dict[value]['sci_name']:
+			_height = variable_dict[value]['size']
+			_light = variable_dict[value]['sun']
+			_root = variable_dict[value]['root']
+			break
 
-print('\Objective: ')
+	if _value > 1:
+		output.append((_name, round(_value), _height, _light, _root))
+
+print('\nObjective: ')
 print(prob.objective)
+
+print('\nResult:')
+print(pulp_value(prob.objective))
 
 print('\nOUTPUT: ')
 pp = pprint.PrettyPrinter(indent=4)

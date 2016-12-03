@@ -1,0 +1,1100 @@
+,Accepted Symbol,Synonym Symbol,Scientific Name,Invasive,C:N Ratio,Growth Rate,"Height at Base Age, Maximum (feet)","Height, Mature (feet)",Leaf Retention,Nitrogen Fixation,Adapted to Coarse Textured Soils,Adapted to Medium Textured Soils,"Frost Free Days, Minimum",Moisture Use,pH (Minimum),pH (Maximum),Precipitation (Minimum),Precipitation (Maximum),"Root Depth, Minimum (inches)",Shade Tolerance,"Temperature, Minimum (°F)",Commercial Availability,Propogated by Seed,Palatable Browse Animal,Sheffields Aval
+0,ABGR4,,Abelia ×grandiflora,,High,Rapid,6.0,6.0,Yes,None,Yes,Yes,150.0,Medium,5.7,7.0,28.0,60.0,12.0,Tolerant,-13.0,Routinely Available,No,Low,False
+1,ABAM,,Abies amabilis,,High,Slow,20.0,165.0,Yes,None,Yes,Yes,90.0,Medium,3.3,6.0,38.0,260.0,36.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+2,ABBA,,Abies balsamea,,High,Slow,18.0,60.0,Yes,None,Yes,Yes,80.0,Medium,4.0,6.0,13.0,60.0,20.0,Tolerant,-43.0,Routinely Available,Yes,Medium,True
+3,ABCO,,Abies concolor,,High,Slow,20.0,120.0,Yes,None,Yes,Yes,80.0,Medium,5.5,7.8,18.0,80.0,40.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+4,ABFR,,Abies fraseri,,High,Moderate,20.0,55.0,Yes,None,Yes,Yes,90.0,Medium,3.5,5.5,45.0,100.0,6.0,Tolerant,-23.0,Routinely Available,Yes,Low,True
+5,ABLA,,Abies lasiocarpa,,High,Slow,15.0,90.0,Yes,None,Yes,Yes,120.0,Medium,4.0,6.5,20.0,150.0,40.0,Tolerant,-51.0,Routinely Available,Yes,Low,True
+6,ACKO,,Acacia koa,,Low,Moderate,100.0,110.0,Yes,High,Yes,Yes,365.0,Medium,5.0,7.0,50.0,200.0,30.0,Intolerant,31.0,Routinely Available,Yes,High,False
+7,ACLO,,Acacia longifolia,,High,Rapid,20.0,20.0,Yes,Medium,Yes,Yes,180.0,Medium,6.0,8.3,16.0,40.0,24.0,Intolerant,14.0,Routinely Available,Yes,Low,False
+8,ACGI,,Acer ginnala,WI,High,Rapid,15.0,20.0,No,None,Yes,Yes,130.0,Medium,6.1,7.5,30.0,60.0,24.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+9,ACGL,,Acer glabrum,,High,Rapid,15.0,30.0,No,None,Yes,Yes,180.0,Low,5.8,7.5,9.0,60.0,24.0,Intermediate,-43.0,Routinely Available,Yes,Medium,True
+10,ACGR3,,Acer grandidentatum,,High,Moderate,20.0,38.0,No,None,Yes,Yes,100.0,Medium,6.0,8.0,16.0,30.0,24.0,Intermediate,-31.0,Routinely Available,Yes,Low,False
+11,ACNE2,,Acer negundo,N'EAST,High,Rapid,35.0,60.0,No,None,Yes,Yes,100.0,Medium,5.0,7.8,15.0,75.0,40.0,Tolerant,-46.0,Routinely Available,Yes,Low,False
+12,ACPL,,Acer platanoides,"N'EAST, WI",High,Rapid,25.0,50.0,No,None,No,Yes,130.0,Medium,4.8,7.2,32.0,50.0,40.0,Intermediate,-28.0,Routinely Available,Yes,Low,True
+13,ACRU,,Acer rubrum,N'EAST,High,Rapid,35.0,68.0,No,None,Yes,Yes,80.0,High,4.7,7.3,25.0,80.0,30.0,Intermediate,-47.0,Routinely Available,Yes,Medium,True
+14,ACSA2,,Acer saccharinum,,High,Rapid,45.0,90.0,No,None,Yes,Yes,120.0,Medium,4.0,7.3,20.0,70.0,32.0,Intermediate,-47.0,Routinely Available,Yes,Low,False
+15,ACSA3,,Acer saccharum,,High,Slow,20.0,100.0,No,None,Yes,Yes,80.0,Medium,3.7,7.9,22.0,80.0,40.0,Tolerant,-47.0,Routinely Available,Yes,Medium,True
+16,ACMI2,,Achillea millefolium,"KY, N'EAST, NE&GP, SWSS",Medium,Moderate,,3.0,No,None,No,Yes,120.0,Medium,6.0,8.0,8.0,60.0,8.0,Intermediate,-38.0,Routinely Available,Yes,Medium,True
+17,ACMIO,,Achillea millefolium var. occidentalis,,Medium,Moderate,,3.0,No,None,Yes,Yes,100.0,Medium,6.0,8.0,8.0,26.0,8.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+18,ACHY,,Achnatherum hymenoides,,Medium,Moderate,,2.0,No,None,Yes,Yes,90.0,Low,6.6,8.6,6.0,16.0,18.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+19,ACCO4,,Aconitum columbianum,,Medium,Moderate,,5.0,No,None,Yes,Yes,110.0,High,5.4,7.2,12.0,50.0,10.0,Intermediate,-28.0,Routinely Available,Yes,Low,False
+20,ACAM,,Acorus americanus,,,Moderate,,3.9,No,None,No,Yes,120.0,High,5.6,7.2,16.0,65.0,10.0,Intolerant,-38.0,Routinely Available,No,,False
+21,ACCA4,,Acorus calamus,,High,Moderate,,5.0,No,None,Yes,Yes,90.0,High,5.2,7.2,32.0,60.0,12.0,Intolerant,-38.0,Routinely Available,No,Low,False
+22,ADCA,,Adiantum capillus-veneris,,,Moderate,,1.7,No,None,No,Yes,120.0,High,6.0,8.0,10.0,60.0,2.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+23,AEGL,,Aesculus glabra,,High,Rapid,25.0,68.0,No,None,No,Yes,145.0,Medium,5.0,7.1,30.0,60.0,36.0,Tolerant,-33.0,Routinely Available,Yes,Low,True
+24,AGDE2,,Agropyron desertorum,,Medium,Moderate,,2.0,No,None,No,Yes,90.0,Medium,6.0,8.5,6.0,16.0,10.0,Intolerant,-43.0,Routinely Available,Yes,Low,False
+25,AGFR,,Agropyron fragile,,Medium,Rapid,,3.0,No,None,Yes,Yes,90.0,Low,5.6,9.0,6.0,25.0,10.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+26,AGCA4,,Agrostis canina,,Low,Moderate,,1.5,No,None,Yes,Yes,90.0,High,5.0,7.5,30.0,60.0,10.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+27,AGCA5,,Agrostis capillaris,,Low,Rapid,,2.0,No,None,Yes,Yes,120.0,High,4.9,7.5,32.0,60.0,12.0,Intolerant,-53.0,Routinely Available,Yes,Low,False
+28,AGGI2,,Agrostis gigantea,,Medium,Rapid,,2.0,No,None,No,Yes,90.0,Medium,4.5,8.0,28.0,60.0,14.0,Intolerant,-38.0,Routinely Available,Yes,High,False
+29,AGHY,,Agrostis hyemalis,,Low,Moderate,,3.5,No,None,No,Yes,130.0,High,5.0,7.5,20.0,45.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+30,AGST2,,Agrostis stolonifera,"NE&GP, WSWS",Medium,Rapid,,2.0,No,None,No,Yes,110.0,High,5.1,7.5,32.0,60.0,12.0,Intolerant,-53.0,Routinely Available,Yes,Low,False
+31,AIAL,,Ailanthus altissima,"Cal-IPC, SEEPPC, STATE, WI",Medium,Rapid,50.0,55.0,No,None,Yes,Yes,150.0,Medium,4.1,7.9,14.0,90.0,30.0,Intolerant,-18.0,Routinely Available,Yes,Medium,True
+32,AJRE,,Ajuga reptans,,Medium,Rapid,,0.3,No,None,No,Yes,160.0,High,5.5,7.5,35.0,65.0,10.0,Tolerant,-23.0,Routinely Available,No,Low,False
+33,ALJU,,Albizia julibrissin,"FLEPPC, SEEPPC",Low,Rapid,20.0,20.0,No,Medium,Yes,Yes,200.0,Medium,4.8,7.3,30.0,60.0,30.0,Intolerant,2.0,Routinely Available,Yes,Low,True
+34,ALMO,,Aleurites moluccanus,,,,,,,,,,,,,,,,,,,,,,False
+35,ALMO,ALMO2,Aleurites moluccana,,High,Moderate,50.0,50.0,Yes,None,Yes,Yes,365.0,Medium,5.5,7.0,40.0,200.0,36.0,Intermediate,49.0,Routinely Available,Yes,,False
+36,ALPL,,Alisma plantago-aquatica,,,Moderate,,3.0,No,None,No,No,110.0,High,6.3,7.5,20.0,65.0,16.0,Intolerant,-33.0,Routinely Available,Yes,Medium,False
+37,ALSU,,Alisma subcordatum,,Medium,Moderate,,0.5,No,None,No,Yes,90.0,High,5.0,7.0,35.0,60.0,8.0,Intolerant,-33.0,Routinely Available,Yes,,False
+38,ALGL2,,Alnus glutinosa,"SEEPPC, WI",Low,Rapid,40.0,45.0,No,High,Yes,Yes,130.0,Medium,4.4,7.2,20.0,65.0,16.0,Intermediate,-18.0,Routinely Available,Yes,Low,True
+39,ALIN2,,Alnus incana,,High,Rapid,15.0,25.0,No,Medium,Yes,Yes,100.0,High,5.0,7.0,32.0,60.0,24.0,Intermediate,-33.0,Routinely Available,Yes,Medium,True
+40,ALINR,,Alnus incana ssp. rugosa,,High,Moderate,16.0,16.0,No,Low,No,Yes,80.0,Medium,4.8,7.7,21.0,65.0,24.0,Intermediate,-47.0,Routinely Available,Yes,Low,False
+41,ALINT,,Alnus incana ssp. tenuifolia,,High,Rapid,20.0,20.0,No,Medium,Yes,Yes,130.0,High,5.5,7.0,10.0,20.0,18.0,Intermediate,-62.0,Routinely Available,Yes,Low,False
+42,ALMA7,,Alnus maritima,,Medium,Moderate,20.0,30.0,No,Medium,Yes,Yes,185.0,High,5.0,7.0,36.0,50.0,20.0,Intermediate,2.0,Routinely Available,Yes,Medium,False
+43,ALRH2,,Alnus rhombifolia,,High,Rapid,50.0,65.0,No,Low,Yes,Yes,200.0,High,4.8,7.5,20.0,125.0,12.0,Tolerant,-24.0,Routinely Available,Yes,Low,True
+44,ALRU2,,Alnus rubra,,High,Rapid,50.0,90.0,No,High,Yes,Yes,180.0,High,4.3,7.3,24.0,220.0,25.0,Intolerant,-22.0,Routinely Available,Yes,Medium,True
+45,ALSE2,,Alnus serrulata,,High,Rapid,12.0,30.0,No,Medium,Yes,Yes,120.0,High,5.0,7.0,32.0,60.0,24.0,Intolerant,-23.0,Routinely Available,Yes,Medium,True
+46,ALVIC,,Alnus viridis ssp. crispa,,High,Moderate,10.0,10.0,No,Low,Yes,Yes,80.0,High,4.8,7.0,12.0,60.0,20.0,Intermediate,-62.0,Routinely Available,Yes,Low,False
+47,ALVIS,,Alnus viridis ssp. sinuata,,High,Slow,10.0,16.0,No,Low,Yes,Yes,90.0,High,5.0,7.5,16.0,200.0,10.0,Intermediate,-48.0,Routinely Available,Yes,Low,False
+48,ALAR,,Alopecurus arundinaceus,,High,Rapid,,3.0,No,None,No,Yes,30.0,Medium,5.5,8.4,18.0,70.0,12.0,Intolerant,-43.0,Routinely Available,Yes,High,True
+49,ALGE2,,Alopecurus geniculatus,,,Moderate,,2.0,No,None,Yes,Yes,100.0,High,4.0,7.5,20.0,45.0,12.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+50,ALPR3,,Alopecurus pratensis,,Medium,Rapid,,3.0,No,None,No,Yes,90.0,High,5.8,8.0,18.0,60.0,12.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+51,AMAL2,,Amelanchier alnifolia,,Medium,Moderate,15.0,15.0,No,None,Yes,Yes,100.0,Medium,4.8,8.4,12.0,140.0,24.0,Intermediate,-62.0,Routinely Available,Yes,Medium,True
+52,AMCA4,,Amelanchier canadensis,,Medium,Moderate,20.0,23.0,No,None,Yes,Yes,110.0,Medium,5.5,7.5,30.0,60.0,20.0,Intermediate,-33.0,Routinely Available,Yes,High,True
+53,AMUT,,Amelanchier utahensis,,Medium,Rapid,10.0,15.0,No,None,Yes,Yes,110.0,Medium,5.6,8.4,12.0,45.0,24.0,Intermediate,-28.0,Routinely Available,Yes,High,False
+54,AMAR4,,Ammophila arenaria,Cal-IPC,Low,Moderate,,2.0,No,None,Yes,Yes,175.0,Medium,6.0,8.5,30.0,60.0,20.0,Intolerant,7.0,Routinely Available,No,Medium,False
+55,AMBR,,Ammophila breviligulata,,High,Rapid,,2.5,Yes,None,Yes,Yes,130.0,Medium,5.8,7.8,35.0,60.0,20.0,Intolerant,-28.0,Routinely Available,No,Medium,False
+56,AMCA6,,Amorpha canescens,,Medium,Moderate,4.0,4.0,No,Medium,Yes,Yes,100.0,Low,5.5,8.0,20.0,45.0,20.0,Tolerant,-38.0,Routinely Available,Yes,High,True
+57,AMFR,,Amorpha fruticosa,STATE,High,Slow,6.0,15.0,No,Medium,Yes,Yes,100.0,Low,5.0,8.5,10.0,65.0,24.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+58,ANCO30,,Ananas comosus,,Medium,Slow,,3.0,No,None,Yes,Yes,365.0,Medium,4.0,6.0,30.0,80.0,24.0,Tolerant,32.0,Routinely Available,No,,False
+59,ANIN,,Andira inermis,,High,Rapid,120.0,90.0,Yes,Medium,Yes,Yes,365.0,Low,,,98.0,256.0,36.0,Intolerant,32.0,Routinely Available,Yes,Low,False
+60,ANGE,,Andropogon gerardii,SWSS,Medium,Moderate,,6.0,No,None,Yes,Yes,155.0,Low,6.0,7.5,12.0,55.0,20.0,Intolerant,-46.0,Routinely Available,Yes,Medium,True
+61,ANGL2,,Andropogon glomeratus,,Medium,Moderate,,6.3,No,None,Yes,Yes,160.0,High,5.0,6.3,35.0,70.0,12.0,Intolerant,-23.0,Routinely Available,Yes,Medium,False
+62,ANHA,,Andropogon hallii,,Medium,Moderate,,6.1,No,None,Yes,No,120.0,Medium,5.6,8.4,10.0,32.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+63,ANVI2,,Andropogon virginicus,"HEAR, KY, N'EAST, STATE, SWSS",High,Slow,,3.0,No,None,No,Yes,135.0,Medium,4.9,7.0,30.0,45.0,14.0,Intolerant,-18.0,Routinely Available,Yes,Low,True
+64,ANCA10,,Anemopsis californica,,Low,Moderate,,1.5,No,None,No,Yes,280.0,High,6.5,9.0,6.0,18.0,6.0,Intolerant,22.0,Routinely Available,Yes,,False
+65,ANAR3,,Angelica arguta,,High,Rapid,,6.0,No,None,No,Yes,165.0,High,6.5,7.5,12.0,20.0,10.0,Intermediate,-18.0,Routinely Available,Yes,,False
+66,ANMU2,,Annona muricata,,High,Moderate,20.0,20.0,Yes,None,Yes,Yes,365.0,Medium,5.0,7.0,60.0,90.0,60.0,Intermediate,17.0,Routinely Available,Yes,Medium,True
+67,ANRE,,Annona reticulata,,Medium,,26.0,20.0,No,None,Yes,No,365.0,,,,32.0,98.0,36.0,Intolerant,40.0,Routinely Available,Yes,Medium,False
+68,ANSQ,,Annona squamosa,,Medium,,30.0,20.0,Yes,None,Yes,Yes,365.0,,,,32.0,98.0,24.0,Intolerant,27.0,Routinely Available,Yes,Medium,False
+69,APAM,,Apios americana,,Low,Rapid,,1.0,No,Medium,Yes,Yes,140.0,Medium,6.0,7.5,28.0,55.0,8.0,Tolerant,-23.0,Routinely Available,Yes,Medium,False
+70,AQCO,,Aquilegia coerulea,,,,,,,,,,,,,,,,,,,,,,False
+71,AQCO,AQCA2,Aquilegia caerulea,,Medium,Moderate,,2.0,No,None,Yes,Yes,130.0,Medium,6.2,8.4,12.0,40.0,10.0,Tolerant,-28.0,Routinely Available,Yes,Low,True
+72,ARSP2,,Aralia spinosa,,High,Moderate,20.0,20.0,No,None,Yes,Yes,160.0,High,4.8,6.6,35.0,80.0,30.0,Intolerant,-25.0,Routinely Available,Yes,Low,True
+73,ARME,,Arbutus menziesii,,High,Slow,25.0,80.0,Yes,None,Yes,Yes,200.0,Low,4.5,7.4,15.0,163.0,24.0,Intermediate,13.0,Routinely Available,Yes,Medium,True
+74,ARNE,,Arctostaphylos nevadensis,,High,Slow,2.0,2.0,Yes,None,Yes,Yes,180.0,Low,6.0,8.4,16.0,80.0,30.0,Tolerant,-13.0,Routinely Available,Yes,Low,True
+75,ARPA6,,Arctostaphylos patula,,High,Slow,5.0,6.0,Yes,None,Yes,Yes,120.0,Medium,5.5,7.6,13.0,60.0,20.0,Intermediate,-28.0,Routinely Available,Yes,Low,True
+76,ARUV,,Arctostaphylos uva-ursi,,High,Moderate,,0.5,Yes,None,Yes,Yes,140.0,Low,5.5,8.0,14.0,45.0,10.0,Intermediate,-33.0,Routinely Available,No,Low,True
+77,ARPLP,,Argemone pleiacantha ssp. pinnatisecta,,High,Moderate,,0.6,No,None,Yes,Yes,200.0,Low,7.0,9.0,6.0,12.0,16.0,Intolerant,7.0,Routinely Available,Yes,,False
+78,ARAN7,,Argentina anserina,,Low,Rapid,,0.5,No,None,Yes,Yes,200.0,High,7.0,8.0,11.0,40.0,6.0,Tolerant,-23.0,Routinely Available,No,Medium,False
+79,ARTR,,Arisaema triphyllum,,High,Moderate,,1.5,No,None,Yes,Yes,175.0,High,4.8,7.0,34.0,50.0,8.0,Tolerant,-18.0,Routinely Available,Yes,Low,True
+80,ARMA6,,Armeria maritima,,High,Moderate,,0.9,Yes,None,Yes,Yes,110.0,Medium,4.7,7.5,32.0,60.0,10.0,Intolerant,-28.0,Routinely Available,No,Low,False
+81,ARAR7,,Aronia arbutifolia,,,,,,,,,,,,,,,,,,,,,,True
+82,ARAR7,PHPY4,Photinia pyrifolia,,High,Moderate,5.0,5.0,No,None,No,Yes,130.0,High,5.5,7.5,34.0,60.0,20.0,Intolerant,-18.0,Routinely Available,Yes,Low,False
+83,ARCA13,,Artemisia cana,WSWS,Medium,Moderate,5.0,5.0,No,None,Yes,Yes,90.0,Low,5.2,9.0,8.0,40.0,20.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+84,ARFR4,,Artemisia frigida,"NE&GP, WSWS",High,Rapid,,2.0,No,None,Yes,Yes,90.0,Low,7.0,9.0,10.0,40.0,8.0,Intermediate,-43.0,Routinely Available,Yes,High,False
+85,ARLU,,Artemisia ludoviciana,NE&GP,High,Moderate,,3.0,No,None,Yes,Yes,70.0,Low,6.0,9.0,10.0,60.0,8.0,Intolerant,-33.0,Routinely Available,Yes,Medium,False
+86,ARNO4,,Artemisia nova,,Medium,Moderate,2.0,2.0,No,None,Yes,Yes,90.0,Low,7.0,8.5,6.0,20.0,10.0,Intolerant,-23.0,Routinely Available,Yes,Medium,False
+87,ARTI,,Artemisia tilesii,,Low,Moderate,54.0,36.0,No,None,Yes,No,120.0,Medium,5.0,7.5,10.0,32.0,12.0,Tolerant,-62.0,Routinely Available,Yes,Low,False
+88,ARTR2,,Artemisia tridentata,WSWS,Low,Slow,3.0,4.0,Yes,None,No,Yes,90.0,Medium,6.0,8.2,6.0,16.0,20.0,Intolerant,-43.0,Routinely Available,Yes,Low,False
+89,ARTRT,,Artemisia tridentata ssp. tridentata,,High,Slow,9.0,9.0,Yes,None,Yes,Yes,90.0,Low,6.5,8.5,6.0,35.0,16.0,Intolerant,-13.0,Routinely Available,Yes,Medium,False
+90,ARTRV,,Artemisia tridentata ssp. vaseyana,,Medium,Slow,5.0,7.0,No,None,Yes,Yes,90.0,Low,6.0,8.5,11.0,45.0,16.0,Intolerant,-43.0,Routinely Available,Yes,Low,False
+91,ARAL7,,Artocarpus altilis,,High,Rapid,60.0,60.0,Yes,None,Yes,Yes,365.0,High,4.0,7.0,60.0,100.0,60.0,Intermediate,17.0,Routinely Available,Yes,Low,False
+92,ARGI,,Arundinaria gigantea,,High,Rapid,,25.0,No,None,Yes,Yes,180.0,Medium,5.0,6.9,24.0,100.0,18.0,Intolerant,-23.0,Routinely Available,No,Medium,False
+93,ARDO4,,Arundo donax,"Cal-IPC, HEAR, SEEPPC, STATE",High,Rapid,,9.0,No,None,No,Yes,220.0,High,4.8,7.0,35.0,65.0,24.0,Intermediate,7.0,Routinely Available,No,Low,False
+94,ASIN,,Asclepias incarnata,"NE&GP, WSWS",,Moderate,,4.9,No,None,No,Yes,107.0,High,5.0,8.0,15.0,65.0,18.0,Intolerant,-38.0,Routinely Available,Yes,,True
+95,ASSP,,Asclepias speciosa,WSWS,High,Moderate,,6.0,No,None,Yes,Yes,90.0,Medium,5.0,7.0,16.0,30.0,18.0,Intolerant,-33.0,Routinely Available,Yes,,False
+96,ASTU,,Asclepias tuberosa,,Low,Slow,,2.0,No,None,Yes,Yes,135.0,Low,4.8,6.8,28.0,45.0,16.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+97,ASTR,,Asimina triloba,,High,Slow,25.0,25.0,No,None,Yes,Yes,160.0,Medium,4.7,7.2,36.0,80.0,20.0,Tolerant,-27.0,Routinely Available,Yes,Low,True
+98,ASAL3,,Aster alpinus,,Medium,Slow,,0.3,No,None,No,Yes,90.0,Medium,6.0,7.5,18.0,36.0,15.0,Intermediate,-28.0,Routinely Available,Yes,Low,False
+99,ASCA11,,Astragalus canadensis,,Medium,Moderate,,0.5,No,Low,No,Yes,175.0,Medium,6.0,8.0,20.0,50.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+100,ASCI4,,Astragalus cicer,,Low,Moderate,,3.0,No,High,No,Yes,115.0,High,6.0,8.5,16.0,60.0,16.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+101,ATFI,,Athyrium filix-femina,,Medium,Moderate,,3.0,No,None,No,Yes,80.0,Medium,4.5,7.0,30.0,60.0,12.0,Tolerant,-38.0,Routinely Available,No,,False
+102,ATCA2,,Atriplex canescens,,Medium,Slow,4.0,4.0,No,None,Yes,Yes,115.0,Medium,6.5,9.5,5.0,18.0,20.0,Intolerant,-43.0,Routinely Available,Yes,High,True
+103,ATCO,,Atriplex confertifolia,,High,Slow,3.0,3.0,No,None,Yes,Yes,165.0,Medium,7.5,9.0,4.0,12.0,10.0,Intolerant,-38.0,Routinely Available,Yes,High,True
+104,ATGA,,Atriplex gardneri,,Medium,Slow,4.0,4.0,No,None,Yes,Yes,110.0,Low,6.6,9.0,5.0,12.0,20.0,Intolerant,-38.0,Routinely Available,Yes,High,False
+105,ATLE,,Atriplex lentiformis,,High,Moderate,10.0,10.0,No,None,No,Yes,195.0,Low,7.0,10.0,4.0,20.0,20.0,Intolerant,7.0,Routinely Available,Yes,Medium,False
+106,ATNU,,Atriplex nummularia,,High,Slow,9.0,9.0,No,None,Yes,Yes,150.0,Low,6.0,9.0,7.0,17.0,20.0,Intolerant,-8.0,Routinely Available,Yes,Medium,False
+107,AVSA,,Avena sativa,SWSS,Low,Rapid,,2.0,No,None,Yes,Yes,90.0,Medium,5.3,8.5,25.0,100.0,8.0,Intolerant,-23.0,Routinely Available,Yes,Medium,True
+108,AVGE,,Avicennia germinans,,High,Rapid,50.0,30.0,Yes,None,No,Yes,328.0,High,6.0,8.0,34.0,81.0,24.0,Intolerant,10.0,Routinely Available,Yes,Low,False
+109,BAHA,,Baccharis halimifolia,,High,Moderate,10.0,10.0,No,None,Yes,Yes,180.0,High,5.5,7.8,36.0,60.0,20.0,Intermediate,-3.0,Routinely Available,Yes,,True
+110,BAPI,,Baccharis pilularis,,High,Moderate,10.0,10.0,Yes,None,Yes,Yes,210.0,Low,6.0,8.5,12.0,30.0,20.0,Intolerant,22.0,Routinely Available,Yes,Low,False
+111,BASA4,,Baccharis salicifolia,,High,Rapid,10.0,10.0,No,None,Yes,Yes,160.0,Medium,7.0,8.5,10.0,18.0,12.0,Intolerant,-3.0,Routinely Available,Yes,Low,False
+112,BASA3,,Balsamorhiza sagittata,,Medium,Moderate,,2.0,No,None,No,Yes,150.0,Medium,6.5,8.0,8.0,25.0,14.0,Intermediate,-38.0,Routinely Available,Yes,High,False
+113,BAVU2,,Bambusa vulgaris,,High,Rapid,,50.0,Yes,None,Yes,Yes,365.0,Medium,4.0,7.0,60.0,100.0,24.0,Intolerant,17.0,Routinely Available,Yes,Low,False
+114,BAMA5,,Batis maritima,,Low,Moderate,,0.1,No,None,Yes,Yes,200.0,Medium,4.0,7.9,28.0,60.0,6.0,Intolerant,17.0,Routinely Available,Yes,Low,False
+115,BEJU4,,Berberis julianae,,,,,,,,,,,,,,,,,,,,,,False
+116,BEJU4,BEJU3,Berberis julianiae,,High,Moderate,7.0,7.0,Yes,None,Yes,Yes,180.0,Medium,5.0,7.5,32.0,55.0,14.0,Intolerant,-3.0,Routinely Available,Yes,Low,False
+117,BETH,,Berberis thunbergii,"SEEPPC, WI",High,Moderate,6.0,6.0,No,None,Yes,Yes,180.0,Medium,5.5,7.2,30.0,60.0,18.0,Intolerant,-28.0,Routinely Available,Yes,Low,False
+118,BENI,,Betula nigra,,Medium,Rapid,35.0,70.0,No,None,Yes,Yes,150.0,High,3.0,6.5,30.0,80.0,20.0,Intolerant,-31.0,Routinely Available,Yes,Medium,True
+119,BEOC2,,Betula occidentalis,,Medium,Rapid,25.0,25.0,No,None,Yes,Yes,140.0,High,5.5,7.8,10.0,70.0,20.0,Intermediate,-62.0,Routinely Available,Yes,Medium,True
+120,BEPA,,Betula papyrifera,,Medium,Rapid,40.0,70.0,No,None,Yes,Yes,80.0,High,4.2,7.4,12.0,60.0,24.0,Intolerant,-62.0,Routinely Available,Yes,High,True
+121,BEPE3,,Betula pendula,,Medium,Rapid,40.0,60.0,No,None,Yes,Yes,90.0,High,5.0,7.5,30.0,55.0,24.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+122,BEPO,,Betula populifolia,,Medium,Rapid,25.0,25.0,No,None,Yes,Yes,90.0,Low,3.5,6.5,36.0,65.0,18.0,Intermediate,-35.0,Routinely Available,Yes,Medium,True
+123,BEPU4,,Betula pumila,,High,Moderate,20.0,20.0,No,None,No,Yes,90.0,Medium,5.1,8.5,16.0,60.0,18.0,Intolerant,-38.0,Routinely Available,Yes,High,True
+124,BIAR,,Bidens aristosa,KY,Medium,Rapid,,3.5,No,None,No,Yes,140.0,High,5.0,7.0,22.0,55.0,8.0,Intermediate,52.0,Routinely Available,Yes,Low,False
+125,BICE,,Bidens cernua,"NE&GP, WSWS",Medium,Rapid,,3.2,No,None,Yes,Yes,85.0,High,5.1,7.0,32.0,55.0,8.0,Intermediate,47.0,Routinely Available,Yes,Low,True
+126,BICO5,,Bidens connata,,Medium,Rapid,,3.2,No,None,Yes,Yes,115.0,High,5.2,7.1,32.0,55.0,8.0,Intermediate,47.0,Routinely Available,Yes,Low,False
+127,BICO,,Bidens coronata,,Medium,Rapid,,3.4,No,None,Yes,Yes,145.0,High,5.2,7.1,32.0,55.0,8.0,Intermediate,52.0,Routinely Available,Yes,Low,False
+128,BIFR,,Bidens frondosa,"N'EAST, NE&GP",High,Rapid,,4.0,No,None,Yes,Yes,80.0,Medium,5.2,7.2,24.0,60.0,8.0,Intermediate,47.0,Routinely Available,Yes,Low,False
+129,BILA,,Bidens laevis,,Medium,Rapid,,3.3,No,None,Yes,Yes,145.0,High,5.0,7.0,24.0,55.0,8.0,Intermediate,52.0,Routinely Available,Yes,Low,False
+130,BOFL3,,Bolboschoenus fluviatilis,,,,,,,,,,,,,,,,,,,,,,False
+131,BOFL3,SCFL11,Schoenoplectus fluviatilis,,,Moderate,,6.6,No,None,No,Yes,110.0,Medium,4.0,7.5,18.0,60.0,16.0,Intolerant,-38.0,Routinely Available,Yes,,False
+132,BOMA7,,Bolboschoenus maritimus,,,,,,,,,,,,,,,,,,,,,,False
+133,BOMA7,SCMA8,Schoenoplectus maritimus,,,Moderate,,3.2,No,None,Yes,Yes,110.0,Medium,4.0,7.0,40.0,60.0,12.0,Intolerant,-23.0,Routinely Available,Yes,,False
+134,BORO5,,Bolboschoenus robustus,,,,,,,,,,,,,,,,,,,,,,False
+135,BORO5,SCRO5,Schoenoplectus robustus,,Medium,Rapid,,4.9,No,None,No,Yes,120.0,High,6.4,8.4,16.0,35.0,16.0,Intolerant,7.0,Routinely Available,Yes,,False
+136,BOAS,,Boltonia asteroides,,Medium,Rapid,,8.0,No,None,Yes,Yes,80.0,Medium,5.3,7.0,22.0,55.0,12.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+137,BOFR,,Borrichia frutescens,,Medium,Rapid,,2.6,No,None,Yes,Yes,200.0,Medium,6.1,7.5,28.0,60.0,14.0,Intolerant,17.0,Routinely Available,Yes,Medium,False
+138,BOBA3,,Bothriochloa barbinodis,,Medium,Rapid,,4.0,No,None,Yes,Yes,180.0,Medium,7.0,8.2,12.0,20.0,10.0,Intolerant,2.0,Routinely Available,Yes,Low,False
+139,BOBL,,Bothriochloa bladhii,,Medium,Rapid,,3.0,No,None,No,Yes,150.0,Medium,5.0,8.0,20.0,50.0,18.0,Intolerant,-23.0,Routinely Available,Yes,Low,False
+140,BOISI,,Bothriochloa ischaemum var. ischaemum,,Medium,Rapid,,2.0,No,None,No,Yes,160.0,Medium,5.0,8.5,16.0,30.0,12.0,Intolerant,-3.0,Routinely Available,Yes,High,False
+141,BOPE2,,Bothriochloa pertusa,,Medium,Rapid,,3.0,Yes,None,Yes,Yes,365.0,Low,5.0,7.5,20.0,80.0,12.0,Intolerant,17.0,Routinely Available,Yes,High,False
+142,BOCU,,Bouteloua curtipendula,,Medium,Moderate,,3.0,No,None,Yes,Yes,90.0,Medium,5.5,8.5,6.0,25.0,12.0,Intolerant,-43.0,Routinely Available,Yes,Medium,True
+143,BODA2,,Bouteloua dactyloides,,,,,,,,,,,,,,,,,,,,,,False
+144,BODA2,BUDA,Buchloe dactyloides,SWSS,Medium,Moderate,,0.5,No,None,No,Yes,145.0,Medium,6.5,8.0,7.0,32.0,12.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+145,BOER4,,Bouteloua eriopoda,,Medium,Moderate,,2.0,No,None,Yes,Yes,155.0,Low,7.0,8.7,7.0,19.0,12.0,Intolerant,-23.0,Routinely Available,Yes,High,False
+146,BOGR2,,Bouteloua gracilis,,Medium,Rapid,,1.0,No,None,Yes,Yes,142.0,Medium,6.6,8.4,8.0,22.0,16.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+147,BRRA,,Brassica rapa,"SWSS, WSWS",Medium,Rapid,,3.0,No,None,Yes,Yes,125.0,High,5.0,8.0,35.0,55.0,12.0,Intermediate,-13.0,Routinely Available,Yes,High,True
+148,BRPI4,,Bromelia pinguin,,Medium,Moderate,,4.0,No,None,Yes,Yes,360.0,Low,4.5,6.5,33.0,79.0,12.0,Tolerant,28.0,Routinely Available,Yes,Medium,False
+149,BRCA5,,Bromus carinatus,WSWS,Low,Rapid,,4.0,No,None,Yes,Yes,150.0,Low,5.5,8.0,8.0,20.0,8.0,Intolerant,17.0,Routinely Available,Yes,High,False
+150,BRCA6,,Bromus catharticus,"SEEPPC, SWSS, WSWS",Low,Rapid,,3.0,No,None,Yes,Yes,80.0,High,5.5,8.0,18.0,28.0,12.0,Intolerant,7.0,Routinely Available,Yes,Low,False
+151,BRCI2,,Bromus ciliatus,,Medium,Moderate,,4.0,No,None,Yes,No,175.0,Medium,5.5,7.5,12.0,40.0,16.0,Tolerant,-3.0,Routinely Available,Yes,Medium,False
+152,BRHOH,,Bromus hordeaceus ssp. hordeaceus,,Low,Rapid,,2.0,No,None,Yes,Yes,90.0,Medium,5.5,8.0,12.0,20.0,10.0,Intermediate,17.0,Routinely Available,Yes,High,False
+153,BRIN2,,Bromus inermis,"NE&GP, SEEPPC, WI",Medium,Moderate,,2.5,No,None,No,Yes,90.0,Medium,5.5,8.0,18.0,60.0,12.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+154,BRMA4,,Bromus marginatus,,Medium,Rapid,,4.0,No,None,Yes,Yes,150.0,High,5.5,8.0,10.0,20.0,20.0,Intolerant,-28.0,Routinely Available,Yes,Medium,False
+155,BRRU2,,Bromus rubens,Cal-IPC,Medium,Rapid,,1.3,No,None,Yes,Yes,65.0,Low,6.0,8.2,5.0,16.0,8.0,Intolerant,22.0,Routinely Available,Yes,Low,False
+156,BUBU,,Bucida buceras,,,Rapid,75.0,50.0,Yes,None,Yes,Yes,365.0,,4.0,8.0,50.0,200.0,36.0,Tolerant,32.0,Routinely Available,Yes,Low,False
+157,CACA,,Cabomba caroliniana,STATE,,Rapid,,,No,None,Yes,Yes,140.0,High,5.7,9.2,40.0,60.0,12.0,Intermediate,-23.0,Routinely Available,Yes,Medium,False
+158,CACA27,,Cajanus cajan,,Medium,Moderate,10.0,10.0,Yes,Medium,Yes,Yes,365.0,Low,5.0,8.3,25.0,150.0,16.0,Intermediate,31.0,Routinely Available,Yes,High,False
+159,CACA4,,Calamagrostis canadensis,,,Moderate,,4.9,No,None,No,Yes,102.0,Medium,4.5,8.0,14.0,65.0,16.0,Intolerant,-33.0,Routinely Available,Yes,Medium,True
+160,CACO71,,Calamagrostis coarctata,,,Moderate,,4.9,No,None,No,Yes,110.0,Medium,4.0,7.0,35.0,65.0,6.0,Intolerant,-28.0,Routinely Available,Yes,,False
+161,CARU,,Calamagrostis rubescens,,Medium,Slow,,3.0,No,None,No,Yes,100.0,Medium,5.5,8.0,16.0,26.0,7.0,Tolerant,-28.0,Routinely Available,Yes,High,False
+162,CASTI3,,Calamagrostis stricta ssp. inexpansa,,Medium,Moderate,,3.0,No,None,No,Yes,90.0,High,5.5,8.0,26.0,60.0,7.0,Intermediate,-38.0,Routinely Available,Yes,Medium,False
+163,CALO,,Calamovilfa longifolia,,Medium,Moderate,,4.5,No,None,Yes,Yes,135.0,Medium,5.6,8.4,12.0,22.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+164,CAAM2,,Callicarpa americana,,High,Moderate,6.0,6.0,No,None,Yes,Yes,175.0,Low,4.8,7.0,35.0,60.0,14.0,Intermediate,-8.0,Routinely Available,Yes,High,True
+165,CADE27,,Calocedrus decurrens,,High,Slow,12.0,100.0,Yes,None,Yes,Yes,100.0,Low,4.6,7.1,20.0,80.0,60.0,Intermediate,-25.0,Routinely Available,Yes,Low,True
+166,CAAN22,,Calophyllum antillanum,FLEPPC,High,Slow,60.0,65.0,Yes,None,Yes,Yes,365.0,Low,5.0,7.0,39.0,197.0,40.0,Intermediate,36.0,Routinely Available,Yes,Low,False
+167,CAIN4,,Calophyllum inophyllum,,Low,Slow,60.0,40.0,Yes,None,Yes,Yes,365.0,Medium,,,,,36.0,Intermediate,40.0,Routinely Available,Yes,Low,False
+168,CALE4,,Caltha leptosepala,,Medium,Moderate,,1.0,No,None,Yes,Yes,80.0,High,6.6,8.2,16.0,40.0,8.0,Intolerant,-33.0,Routinely Available,Yes,Medium,False
+169,CAPA5,,Caltha palustris,,High,Slow,,2.0,No,None,No,Yes,80.0,High,4.9,6.8,30.0,60.0,8.0,Intolerant,-38.0,Routinely Available,Yes,,False
+170,CAQU2,,Camassia quamash,,Medium,Moderate,,2.3,No,None,Yes,Yes,110.0,High,5.7,7.0,16.0,55.0,10.0,Tolerant,-28.0,Routinely Available,Yes,,False
+171,CASC5,,Camassia scilloides,,Medium,Moderate,,2.5,No,None,No,Yes,100.0,Medium,4.2,6.5,30.0,55.0,10.0,Tolerant,-28.0,Routinely Available,Yes,,False
+172,CARA2,,Campsis radicans,"KY, N'EAST, SWSS",High,Rapid,,2.0,No,None,Yes,Yes,165.0,Low,4.9,6.8,32.0,60.0,14.0,Intolerant,-13.0,Routinely Available,Yes,,True
+173,CAWI,,Canella winterana,,,,49.0,33.0,Yes,None,Yes,No,365.0,,,,,,36.0,,40.0,Routinely Available,Yes,Low,False
+174,CAAR18,,Caragana arborescens,,Medium,Rapid,12.0,12.0,No,Medium,Yes,Yes,150.0,Medium,5.0,8.5,12.0,55.0,16.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+175,CAAB5,,Carex abscondita,,Medium,Slow,,0.7,No,None,No,Yes,165.0,High,4.8,6.8,36.0,55.0,6.0,Tolerant,-3.0,Routinely Available,Yes,Low,False
+176,CAAL5,,Carex albolutescens,,,Moderate,,3.9,No,None,No,Yes,120.0,Medium,4.3,7.8,16.0,65.0,16.0,Intermediate,-38.0,Routinely Available,Yes,,False
+177,CAAP3,,Carex aperta,,High,Moderate,,2.0,No,None,No,Yes,60.0,High,5.5,7.0,24.0,60.0,14.0,Intolerant,-18.0,Routinely Available,Yes,Medium,False
+178,CAAQ,,Carex aquatilis,,,Moderate,,2.9,No,None,No,Yes,120.0,High,4.0,7.5,15.0,65.0,14.0,Intolerant,-38.0,Routinely Available,Yes,,False
+179,CAAT2,,Carex atherodes,,Medium,Moderate,,5.0,No,None,No,Yes,85.0,High,4.5,7.2,12.0,60.0,8.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+180,CAAT3,,Carex athrostachya,,Medium,Slow,,2.0,No,None,Yes,Yes,85.0,High,5.8,7.2,14.0,40.0,8.0,Intermediate,-33.0,Routinely Available,Yes,High,False
+181,CAAT4,,Carex atlantica,,Medium,Moderate,,1.8,No,None,No,Yes,130.0,High,4.5,6.0,40.0,55.0,12.0,Intermediate,-18.0,Routinely Available,Yes,Low,False
+182,CAAU3,,Carex aurea,,Medium,Slow,,1.2,No,None,Yes,Yes,85.0,High,5.5,7.2,14.0,40.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+183,CABE2,,Carex bebbii,,Medium,Moderate,,3.0,No,None,No,Yes,80.0,High,4.6,7.0,14.0,55.0,8.0,Tolerant,-38.0,Routinely Available,Yes,Low,False
+184,CABI3,,Carex bicknellii,,Medium,Moderate,,3.4,No,None,Yes,Yes,85.0,Low,4.5,6.6,14.0,55.0,8.0,Tolerant,-38.0,Routinely Available,Yes,Low,False
+185,CABL,,Carex blanda,,Medium,Slow,,2.0,No,None,No,Yes,95.0,High,4.4,7.0,36.0,60.0,8.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+186,CACA11,,Carex canescens,,Medium,Slow,,2.0,No,None,Yes,Yes,85.0,High,5.1,7.2,14.0,40.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+187,CACE,,Carex cephalophora,,Medium,Moderate,,2.6,No,None,Yes,Yes,90.0,Low,4.8,7.0,36.0,55.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+188,CACO8,,Carex comosa,,Medium,Slow,,5.0,No,None,No,Yes,90.0,High,4.6,7.5,14.0,55.0,8.0,Intermediate,-28.0,Routinely Available,Yes,Low,False
+189,CACR6,,Carex crinita,,,Moderate,,5.2,No,None,No,Yes,144.0,Medium,4.0,7.5,36.0,65.0,18.0,Intermediate,-33.0,Routinely Available,Yes,,False
+190,CACR7,,Carex cristatella,,Medium,Moderate,,3.0,No,None,No,Yes,85.0,High,4.9,6.8,32.0,55.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+191,CACR8,,Carex crus-corvi,,,Moderate,,3.0,No,None,No,Yes,125.0,Medium,3.5,7.0,35.0,60.0,16.0,Intermediate,-28.0,Routinely Available,Yes,,False
+192,CADE5,,Carex debilis,,Medium,Moderate,,3.0,No,None,Yes,Yes,180.0,High,4.6,6.6,36.0,55.0,8.0,Tolerant,-13.0,Routinely Available,Yes,Low,False
+193,CADI6,,Carex disperma,,Low,Moderate,,2.0,No,None,No,Yes,80.0,High,4.5,6.5,14.0,55.0,8.0,Intermediate,-38.0,Routinely Available,Yes,Medium,False
+194,CAFL3,,Carex flaccosperma,,Medium,Slow,,1.0,No,None,No,Yes,175.0,High,4.6,7.1,36.0,55.0,8.0,Tolerant,-8.0,Routinely Available,Yes,Low,False
+195,CAFR3,,Carex frankii,,Medium,Slow,,2.0,No,None,No,Yes,140.0,High,5.9,7.2,18.0,55.0,9.0,Tolerant,-23.0,Routinely Available,Yes,Low,False
+196,CAGR2,,Carex gracillima,,Medium,Slow,,3.0,No,None,No,Yes,85.0,Medium,4.7,6.9,36.0,55.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+197,CAGR3,,Carex granularis,,Medium,Slow,,2.5,No,None,No,Yes,120.0,High,6.0,7.2,14.0,55.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+198,CAGR5,,Carex grayi,,Medium,Slow,,3.0,No,None,No,Yes,85.0,High,5.7,7.2,36.0,55.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+199,CAIN12,,Carex intumescens,,Medium,Moderate,,3.0,No,None,No,Yes,85.0,High,4.8,6.9,36.0,55.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+200,CALA16,,Carex lacustris,,High,Rapid,,5.0,No,None,No,Yes,90.0,High,5.6,6.8,32.0,55.0,12.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+201,CALU4,,Carex lupulina,,,Moderate,,4.3,No,None,No,Yes,107.0,Medium,6.2,7.0,26.0,65.0,18.0,Intermediate,-38.0,Routinely Available,Yes,,False
+202,CALU5,,Carex lurida,,,Moderate,,3.2,No,None,Yes,Yes,120.0,Medium,4.9,6.8,20.0,65.0,16.0,Intermediate,-33.0,Routinely Available,Yes,,True
+203,CAMI7,,Carex microptera,,Medium,Slow,,2.0,No,None,Yes,Yes,85.0,High,5.6,7.4,10.0,24.0,8.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+204,CAMO11,,Carex molesta,,Medium,Slow,,3.0,No,None,Yes,Yes,85.0,Medium,4.9,7.0,24.0,55.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+205,CAMU9,,Carex muskingumensis,,Medium,Slow,,3.0,No,None,No,Yes,85.0,High,4.7,6.9,36.0,60.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+206,CANE2,,Carex nebrascensis,,Medium,Moderate,,3.0,No,None,Yes,Yes,85.0,High,5.7,7.4,14.0,32.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+207,CANO,,Carex normalis,,High,Rapid,,5.0,No,None,No,Yes,85.0,High,4.7,6.7,32.0,55.0,12.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+208,CAOB3,,Carex obnupta,,High,Rapid,,3.0,No,None,No,Yes,60.0,High,5.5,7.0,40.0,65.0,12.0,Intermediate,-3.0,Routinely Available,Yes,Medium,False
+209,CAPR5,,Carex praegracilis,,Medium,Moderate,,2.0,No,None,Yes,Yes,80.0,Medium,5.3,6.8,10.0,24.0,10.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+210,CAPR12,,Carex prasina,,Medium,Moderate,,2.3,No,None,No,Yes,95.0,Medium,4.8,6.8,34.0,55.0,8.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+211,CAPR9,,Carex projecta,,Medium,Slow,,2.0,No,None,No,Yes,80.0,Medium,4.8,7.0,32.0,55.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+212,CARO6,,Carex rostrata,,Medium,Moderate,,3.5,No,None,No,Yes,80.0,High,4.5,7.0,10.0,40.0,16.0,Tolerant,-38.0,Routinely Available,Yes,Low,False
+213,CASC11,,Carex scoparia,,Medium,Moderate,,2.5,No,None,No,Yes,85.0,High,4.6,6.9,20.0,55.0,8.0,Tolerant,-38.0,Routinely Available,Yes,Low,False
+214,CASC12,,Carex scopulorum,,Medium,Moderate,,1.3,No,None,Yes,Yes,80.0,High,6.8,7.5,8.0,20.0,8.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+215,CASH2,,Carex shortiana,,Medium,Moderate,,3.0,No,None,No,Yes,145.0,High,4.7,6.9,32.0,55.0,8.0,Intermediate,-18.0,Routinely Available,Yes,Low,False
+216,CASI2,,Carex simulata,,Medium,Slow,,1.5,No,None,Yes,Yes,85.0,High,6.0,7.5,8.0,24.0,10.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+217,CASQ2,,Carex squarrosa,,Medium,Slow,,3.0,No,None,No,Yes,110.0,Medium,5.6,7.3,34.0,55.0,8.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+218,CAST5,,Carex stipata,,Medium,Slow,,3.5,No,None,No,Yes,80.0,Medium,4.9,7.9,12.0,50.0,8.0,Tolerant,-38.0,Routinely Available,Yes,Medium,False
+219,CAST8,,Carex stricta,,,Moderate,,4.2,No,None,Yes,Yes,110.0,Medium,3.5,7.0,32.0,65.0,18.0,Tolerant,-38.0,Routinely Available,Yes,,False
+220,CATO4,,Carex torta,,Medium,Slow,,2.8,No,None,Yes,Yes,90.0,Medium,5.0,7.0,32.0,50.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+221,CATR7,,Carex tribuloides,,Medium,Slow,,3.0,No,None,No,Yes,85.0,Medium,4.8,7.0,32.0,50.0,8.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+222,CATR8,,Carex trichocarpa,,High,Rapid,,3.5,No,None,No,Yes,85.0,High,5.7,7.0,18.0,55.0,10.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+223,CATY,,Carex typhina,,Medium,Moderate,,2.0,No,None,No,Yes,90.0,High,5.7,7.0,32.0,55.0,8.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+224,CAVE6,,Carex vesicaria,,Medium,Moderate,,3.0,No,None,Yes,Yes,80.0,High,4.5,7.5,8.0,40.0,16.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+225,CAVI5,,Carex viridula,,Medium,Moderate,,1.5,No,None,No,Yes,80.0,High,4.5,7.5,8.0,40.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+226,CAVU2,,Carex vulpinoidea,,,Moderate,,3.2,No,None,No,Yes,110.0,Medium,6.8,8.9,12.0,65.0,16.0,Intermediate,-38.0,Routinely Available,Yes,,True
+227,CAPA23,,Carica papaya,,High,Rapid,,20.0,Yes,None,No,Yes,365.0,High,5.0,8.0,60.0,80.0,40.0,Intolerant,32.0,Routinely Available,Yes,,False
+228,CAPA53,,Carphephorus paniculatus,,Medium,Rapid,,3.0,No,None,No,Yes,110.0,Low,5.8,7.0,30.0,60.0,12.0,Tolerant,7.0,Routinely Available,Yes,Low,False
+229,CACA18,,Carpinus caroliniana,,High,Slow,18.0,30.0,No,None,Yes,Yes,80.0,Medium,4.0,7.4,23.0,80.0,20.0,Tolerant,-34.0,Routinely Available,Yes,Low,True
+230,CAAQ2,,Carya aquatica,,High,Slow,30.0,85.0,No,None,Yes,Yes,200.0,Medium,4.0,7.3,35.0,70.0,48.0,Intermediate,-18.0,Routinely Available,Yes,Low,True
+231,CACO15,,Carya cordiformis,,High,Slow,30.0,75.0,No,None,Yes,Yes,120.0,Medium,4.8,7.4,25.0,70.0,50.0,Intolerant,-47.0,Routinely Available,Yes,Low,True
+232,CAIL2,,Carya illinoinensis,,High,Slow,35.0,120.0,No,None,Yes,Yes,180.0,High,4.5,7.5,28.0,79.0,32.0,Intolerant,-21.0,Routinely Available,Yes,Low,True
+233,CALA21,,Carya laciniosa,,High,Slow,35.0,100.0,No,None,Yes,Yes,150.0,High,5.0,6.6,30.0,60.0,60.0,Tolerant,-22.0,Routinely Available,Yes,Low,False
+234,CAMY,,Carya myristiciformis,,High,Slow,30.0,95.0,No,None,No,Yes,240.0,Medium,4.7,6.5,40.0,60.0,48.0,Intolerant,-10.0,Routinely Available,Yes,Low,False
+235,CAOV2,,Carya ovata,,High,Slow,15.0,75.0,No,None,Yes,Yes,140.0,Medium,4.0,7.3,29.0,80.0,48.0,Intermediate,-40.0,Routinely Available,Yes,Low,True
+236,CAMO83,,Castanea mollissima,,,Rapid,25.0,50.0,No,None,Yes,Yes,180.0,Medium,5.0,7.5,35.0,50.0,36.0,Intolerant,-20.0,Routinely Available,Yes,Low,True
+237,CACO17,,Castilleja coccinea,,Low,Rapid,,1.6,No,None,No,Yes,75.0,Medium,4.9,6.8,25.0,55.0,8.0,Tolerant,-28.0,Routinely Available,Yes,,False
+238,CASE5,,Castilleja sessiliflora,,Medium,Moderate,,1.3,No,None,Yes,Yes,120.0,Low,6.0,7.4,16.0,32.0,10.0,Intolerant,-38.0,Routinely Available,Yes,,False
+239,CACU8,,Casuarina cunninghamiana,,High,Rapid,50.0,100.0,Yes,Low,Yes,Yes,300.0,Medium,6.5,7.9,25.0,60.0,24.0,Intolerant,22.0,Routinely Available,Yes,,True
+240,CAEQ,,Casuarina equisetifolia,"FLEPPC, HEAR",High,Rapid,50.0,100.0,Yes,Low,Yes,Yes,300.0,Medium,6.2,8.8,25.0,60.0,24.0,Intolerant,22.0,Routinely Available,Yes,,True
+241,CAGL11,,Casuarina glauca,"FLEPPC, HEAR",High,Rapid,40.0,60.0,Yes,Low,Yes,Yes,280.0,Medium,6.5,7.5,25.0,60.0,24.0,Intolerant,17.0,Routinely Available,Yes,,False
+242,CABI8,,Catalpa bignonioides,,,Rapid,66.0,66.0,No,None,Yes,Yes,140.0,Low,5.5,7.5,30.0,65.0,36.0,Intermediate,-18.0,Routinely Available,Yes,Medium,True
+243,CASP8,,Catalpa speciosa,,High,Rapid,20.0,60.0,No,Low,Yes,Yes,90.0,Low,5.5,7.0,20.0,80.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+244,CEAM,,Ceanothus americanus,,High,Slow,3.0,3.0,No,Low,Yes,Yes,120.0,Low,4.3,6.5,25.0,60.0,14.0,Tolerant,-28.0,Routinely Available,Yes,Medium,True
+245,CECO,,Ceanothus cordulatus,,Low,Slow,4.0,8.0,No,Low,Yes,Yes,90.0,Low,7.0,8.5,16.0,46.0,20.0,Intolerant,-23.0,Routinely Available,Yes,High,False
+246,CEPR,,Ceanothus prostratus,,High,Slow,,0.5,Yes,Low,Yes,Yes,120.0,Low,7.1,8.5,16.0,40.0,14.0,Tolerant,-23.0,Routinely Available,Yes,Low,False
+247,CEDE2,,Cedrus deodara,,High,Rapid,35.0,60.0,Yes,None,Yes,Yes,160.0,Low,6.0,7.5,20.0,80.0,20.0,Tolerant,-15.0,Routinely Available,Yes,Medium,True
+248,CEOR7,,Celastrus orbiculatus,"N'EAST, SEEPPC, STATE, WI",High,Rapid,30.0,30.0,No,None,Yes,Yes,100.0,High,5.0,7.5,30.0,60.0,18.0,Tolerant,-38.0,Routinely Available,Yes,Low,False
+249,CESC,,Celastrus scandens,,High,Rapid,,15.0,No,None,Yes,Yes,110.0,High,5.0,7.5,30.0,60.0,18.0,Tolerant,-38.0,Routinely Available,Yes,Low,True
+250,CELA,,Celtis laevigata,,High,Moderate,35.0,80.0,No,None,No,Yes,150.0,High,4.4,7.7,20.0,80.0,24.0,Tolerant,-21.0,Routinely Available,Yes,Low,True
+251,CELAR,,Celtis laevigata var. reticulata,,High,Rapid,8.0,20.0,No,None,Yes,Yes,150.0,Low,5.9,8.3,7.0,55.0,12.0,Intolerant,-42.0,Routinely Available,Yes,Medium,False
+252,CEOC,,Celtis occidentalis,,High,Rapid,26.0,60.0,No,None,Yes,Yes,120.0,Low,6.0,7.8,14.0,60.0,36.0,Tolerant,-47.0,Routinely Available,Yes,Medium,False
+253,CEOC2,,Cephalanthus occidentalis,,Medium,Moderate,15.0,15.0,No,None,Yes,Yes,150.0,High,4.7,8.6,20.0,80.0,14.0,Tolerant,-33.0,Routinely Available,Yes,Low,True
+254,CEDE4,,Ceratophyllum demersum,,,Rapid,,,No,None,Yes,Yes,110.0,High,6.0,8.6,10.0,55.0,0.0,Intermediate,-38.0,Routinely Available,Yes,,False
+255,CECA4,,Cercis canadensis,,Medium,Slow,25.0,30.0,No,None,No,Yes,170.0,Low,5.0,7.9,20.0,80.0,24.0,Tolerant,-28.0,Routinely Available,Yes,Medium,True
+256,CECAT,,Cercis canadensis var. texensis,,High,Rapid,12.0,12.0,No,None,No,Yes,180.0,Low,6.0,8.0,16.0,80.0,20.0,Tolerant,-8.0,Routinely Available,Yes,Medium,False
+257,CELE3,,Cercocarpus ledifolius,,Medium,Moderate,20.0,20.0,No,Low,Yes,Yes,90.0,Low,5.5,8.7,10.0,45.0,20.0,Intermediate,-47.0,Routinely Available,Yes,High,True
+258,CEMO2,,Cercocarpus montanus,,Medium,Slow,15.0,15.0,No,Low,Yes,Yes,90.0,Low,6.0,8.0,9.0,80.0,20.0,Intermediate,-41.0,Routinely Available,Yes,High,True
+259,CHFA2,,Chamaecrista fasciculata,,Low,Rapid,,2.4,No,Medium,Yes,Yes,130.0,Medium,5.5,7.5,14.0,45.0,14.0,Tolerant,-3.0,Routinely Available,Yes,High,False
+260,CHLA,,Chamaecyparis lawsoniana,,High,Moderate,40.0,200.0,Yes,None,Yes,Yes,173.0,Medium,4.2,7.5,49.0,110.0,60.0,Tolerant,-12.0,Routinely Available,Yes,Low,True
+261,CHTH2,,Chamaecyparis thyoides,,High,Moderate,20.0,50.0,Yes,None,Yes,Yes,140.0,Low,3.5,6.3,40.0,70.0,16.0,Intermediate,-36.0,Routinely Available,Yes,High,True
+262,CHCA2,,Chamaedaphne calyculata,,Medium,Moderate,4.0,4.0,Yes,None,Yes,Yes,110.0,High,5.0,6.0,35.0,70.0,8.0,Intermediate,-28.0,Routinely Available,Yes,Medium,False
+263,CHLA5,,Chasmanthium latifolium,,,Moderate,,4.6,No,None,Yes,Yes,160.0,Medium,5.0,7.0,24.0,65.0,10.0,Tolerant,-33.0,Routinely Available,Yes,High,True
+264,CHLA6,,Chasmanthium laxum,,,Moderate,,3.3,No,None,Yes,Yes,160.0,Medium,4.5,7.0,35.0,60.0,10.0,Tolerant,-33.0,Routinely Available,Yes,High,False
+265,CHLI2,,Chilopsis linearis,,Medium,Rapid,15.0,25.0,No,None,Yes,No,150.0,Low,6.6,10.0,4.0,37.0,12.0,Intermediate,-23.0,Routinely Available,Yes,Low,True
+266,CHGA2,,Chloris gayana,,Medium,Moderate,,3.0,No,None,No,Yes,180.0,Low,5.0,7.0,30.0,60.0,6.0,Intolerant,-8.0,Routinely Available,Yes,Medium,False
+267,CHVI8,,Chrysothamnus viscidiflorus,WSWS,High,Moderate,3.0,3.0,No,None,Yes,Yes,160.0,Low,7.0,8.5,7.0,24.0,14.0,Intolerant,-23.0,Routinely Available,Yes,Low,False
+268,CICH,,Cibotium chamissoi,,High,Slow,23.0,10.0,Yes,None,No,No,365.0,Medium,6.5,7.5,30.0,90.0,12.0,Intermediate,40.0,Routinely Available,No,Low,False
+269,CIGL,,Cibotium glaucum,,High,Slow,12.0,8.0,Yes,None,No,No,365.0,Medium,6.5,7.5,30.0,90.0,12.0,Intermediate,40.0,Routinely Available,No,Low,False
+270,CIIN,,Cichorium intybus,"KY, N'EAST, NE&GP, SEEPPC, STATE, SWSS, WSWS",Medium,Rapid,,2.0,No,None,Yes,Yes,90.0,High,6.0,7.5,20.0,60.0,8.0,Intolerant,-43.0,Routinely Available,Yes,Low,True
+271,CIAR2,,Cinna arundinacea,,High,Moderate,,4.9,No,None,Yes,Yes,130.0,Low,4.0,8.5,18.0,60.0,16.0,Tolerant,-33.0,Routinely Available,Yes,,False
+272,CIPA3,,Citrus ×paradisi,,High,Moderate,20.0,20.0,Yes,None,No,Yes,365.0,Medium,4.0,7.5,40.0,100.0,60.0,Intermediate,31.0,Routinely Available,Yes,,False
+273,CISI3,,Citrus ×sinensis,,,,,,,,,,,,,,,,,,,,,,False
+274,CISI3,CISI,Citrus sinensis,,High,Moderate,30.0,30.0,Yes,None,Yes,Yes,365.0,Medium,5.0,7.0,60.0,100.0,60.0,Intermediate,17.0,Routinely Available,Yes,Low,False
+275,CLMAJ,,Cladium mariscus ssp. jamaicense,,Medium,Moderate,,8.2,No,None,Yes,Yes,200.0,Medium,4.5,8.6,35.0,60.0,16.0,Intolerant,12.0,Routinely Available,Yes,,False
+276,CLKE,,Cladrastis kentukea,,High,Moderate,25.0,40.0,No,None,Yes,Yes,180.0,Low,4.8,7.5,36.0,55.0,24.0,Intermediate,-32.0,Routinely Available,Yes,,False
+277,CLLI2,,Clematis ligusticifolia,,Medium,Moderate,,1.0,No,None,Yes,Yes,120.0,Medium,5.6,8.4,12.0,20.0,16.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+278,CLAL3,,Clethra alnifolia,,High,Moderate,16.0,16.0,No,None,Yes,Yes,150.0,High,4.5,7.0,35.0,60.0,16.0,Intermediate,-23.0,Routinely Available,Yes,Medium,True
+279,CODI8,,Coccoloba diversifolia,,,Moderate,38.0,25.0,Yes,None,Yes,Yes,365.0,,,,,,36.0,Tolerant,40.0,Routinely Available,Yes,Medium,False
+280,COUV,,Coccoloba uvifera,,High,Slow,25.0,25.0,Yes,None,Yes,Yes,365.0,Low,5.0,8.0,20.0,60.0,60.0,Intermediate,17.0,Routinely Available,Yes,Low,False
+281,CONU,,Cocos nucifera,,High,Moderate,60.0,60.0,Yes,None,Yes,Yes,365.0,Low,4.0,8.0,20.0,80.0,60.0,Intolerant,18.0,Routinely Available,Yes,Low,False
+282,COAR2,,Coffea arabica,,High,Moderate,,15.0,Yes,None,Yes,Yes,365.0,High,4.0,7.5,60.0,100.0,40.0,Tolerant,17.0,Routinely Available,Yes,,True
+283,COCO13,,Conoclinium coelestinum,,,Moderate,,3.2,No,None,No,Yes,170.0,Medium,5.5,7.5,24.0,60.0,14.0,Tolerant,-13.0,Routinely Available,Yes,,False
+284,COMA7,,Convallaria majalis,WI,High,Slow,,0.8,No,None,No,Yes,130.0,Medium,5.5,7.5,32.0,65.0,10.0,Tolerant,-33.0,Routinely Available,No,Low,False
+285,COFR2,,Cordyline fruticosa,,Medium,Moderate,10.0,10.0,Yes,None,Yes,Yes,365.0,Medium,5.5,7.7,40.0,200.0,18.0,Intermediate,35.0,Routinely Available,No,,False
+286,COLA5,,Coreopsis lanceolata,,Low,Moderate,,2.0,No,None,No,Yes,180.0,Medium,6.0,7.0,30.0,60.0,6.0,Intolerant,-8.0,Routinely Available,Yes,Low,True
+287,COTI3,,Coreopsis tinctoria,"NE&GP, SWSS",Medium,Rapid,,3.0,No,None,No,Yes,90.0,High,5.2,7.8,20.0,55.0,8.0,Intermediate,52.0,Routinely Available,Yes,,False
+288,COAM2,,Cornus amomum,,High,Moderate,7.0,10.0,No,None,Yes,Yes,110.0,High,5.0,7.0,36.0,60.0,16.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+289,CODR,,Cornus drummondii,,High,Rapid,25.0,20.0,No,None,No,Yes,110.0,Low,4.5,7.5,32.0,55.0,20.0,Intermediate,-28.0,Routinely Available,Yes,High,True
+290,COFL2,,Cornus florida,,High,Moderate,20.0,30.0,No,None,Yes,Yes,160.0,Low,4.8,7.7,28.0,80.0,18.0,Tolerant,-28.0,Routinely Available,Yes,Medium,True
+291,COFO,,Cornus foemina,,Medium,Moderate,16.0,16.0,No,None,No,Yes,240.0,Medium,5.8,7.2,36.0,60.0,16.0,Intermediate,-3.0,Routinely Available,Yes,Medium,False
+292,COMA21,,Cornus mas,,High,Slow,20.0,26.0,No,None,Yes,Yes,130.0,Medium,5.0,7.5,30.0,50.0,30.0,Intermediate,-27.0,Routinely Available,Yes,Medium,True
+293,CORA6,,Cornus racemosa,,High,Moderate,6.0,10.0,No,None,No,Yes,130.0,Medium,4.8,7.4,24.0,60.0,16.0,Tolerant,-47.0,Routinely Available,Yes,Medium,True
+294,COSEO,,Cornus sericea ssp. occidentalis,,High,Moderate,15.0,16.0,No,None,Yes,Yes,100.0,Medium,4.8,7.5,18.0,60.0,16.0,Intermediate,-35.0,Routinely Available,Yes,Medium,False
+295,COSES,,Cornus sericea ssp. sericea,,High,Moderate,12.0,12.0,No,None,Yes,Yes,90.0,High,4.8,7.5,18.0,60.0,20.0,Intolerant,-38.0,Routinely Available,Yes,High,False
+296,COAM3,,Corylus americana,,High,Moderate,10.0,10.0,No,None,No,Yes,100.0,Medium,5.0,7.0,32.0,60.0,20.0,Intermediate,-33.0,Routinely Available,Yes,Medium,True
+297,COCO6,,Corylus cornuta,,,Moderate,15.0,15.0,No,None,No,Yes,90.0,Medium,4.8,7.5,20.0,80.0,16.0,Tolerant,-47.0,Routinely Available,Yes,Medium,True
+298,COAC2,,Cotoneaster acutifolius,,High,Moderate,6.0,13.0,No,None,Yes,Yes,120.0,Medium,5.5,7.5,32.0,60.0,16.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+299,COAP3,,Cotoneaster apiculatus,,High,Rapid,4.0,5.0,No,None,No,Yes,90.0,Medium,5.0,7.5,24.0,50.0,14.0,Intermediate,-33.0,Routinely Available,Yes,Low,True
+300,COHO80,,Cotoneaster horizontalis,,High,Rapid,1.0,4.0,Yes,None,No,Yes,100.0,Medium,5.5,7.0,32.0,60.0,16.0,Tolerant,-28.0,Routinely Available,No,Low,True
+301,CRAE,,Crataegus aestivalis,,Medium,Slow,26.0,26.0,No,None,No,Yes,180.0,High,4.3,7.3,34.0,60.0,18.0,Intolerant,-8.0,Routinely Available,Yes,High,False
+302,CRCR2,,Crataegus crus-galli,,High,Moderate,30.0,30.0,No,None,Yes,Yes,90.0,Low,4.5,7.2,24.0,60.0,24.0,Intolerant,-33.0,Routinely Available,Yes,Medium,True
+303,CRDO2,,Crataegus douglasii,,High,Moderate,15.0,15.0,No,None,Yes,Yes,120.0,High,4.8,7.5,16.0,260.0,12.0,Intermediate,-47.0,Routinely Available,Yes,High,True
+304,CRMA5,,Crataegus marshallii,,Medium,Moderate,25.0,25.0,No,None,No,Yes,240.0,Medium,5.8,7.2,34.0,60.0,18.0,Tolerant,-3.0,Routinely Available,Yes,High,True
+305,CRPH,,Crataegus phaenopyrum,,Medium,Moderate,25.0,30.0,No,None,No,Yes,160.0,Medium,4.3,7.0,32.0,60.0,30.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+306,CRVI2,,Crataegus viridis,,Medium,Moderate,24.0,30.0,No,None,No,Yes,180.0,High,4.3,7.3,36.0,60.0,18.0,Intolerant,-24.0,Routinely Available,Yes,High,True
+307,CRCU,,Crescentia cujete,,,Slow,49.0,33.0,Yes,None,Yes,No,365.0,,,,,,36.0,,40.0,Routinely Available,Yes,Low,False
+308,CRJA3,,Cryptomeria japonica,,High,Rapid,35.0,55.0,Yes,None,No,Yes,180.0,Medium,5.5,7.0,36.0,55.0,24.0,Intolerant,-8.0,Routinely Available,Yes,,True
+309,CYOB2,,Cydonia oblonga,,,Slow,16.0,16.0,No,None,Yes,Yes,120.0,Medium,5.0,6.5,24.0,60.0,30.0,Intolerant,-23.0,Routinely Available,Yes,,False
+310,CYDA,,Cynodon dactylon,"KY, N'EAST, STATE, SWSS, WSWS",Low,Rapid,,1.4,No,None,Yes,Yes,160.0,High,5.0,8.0,32.0,100.0,14.0,Intolerant,-8.0,Routinely Available,Yes,Medium,True
+311,CYES,,Cyperus esculentus,"KY, N'EAST, NE&GP, STATE, SWSS, WSWS",Medium,Rapid,,0.7,No,None,Yes,Yes,90.0,Low,5.0,7.0,14.0,55.0,10.0,Intolerant,42.0,Routinely Available,No,,False
+312,CYHA,,Cyperus haspan,HEAR,High,Moderate,,3.2,No,None,Yes,Yes,230.0,Medium,4.5,7.5,35.0,60.0,16.0,Intolerant,7.0,Routinely Available,No,,False
+313,CYOD,,Cyperus odoratus,SWSS,Medium,Moderate,,2.0,No,None,Yes,Yes,80.0,Medium,5.0,8.3,18.0,55.0,8.0,Intolerant,42.0,Routinely Available,No,,False
+314,CYST,,Cyperus strigosus,SWSS,High,Moderate,,3.2,No,None,No,Yes,100.0,Medium,6.4,7.0,16.0,60.0,16.0,Intolerant,-33.0,Routinely Available,No,,False
+315,CYSC4,,Cytisus scoparius,"Cal-IPC, STATE, WSWS",Low,Rapid,7.0,7.0,No,High,Yes,Yes,150.0,Low,5.5,7.0,30.0,60.0,16.0,Intolerant,-13.0,Routinely Available,Yes,Low,True
+316,DAGL,,Dactylis glomerata,"N'EAST, NE&GP",Low,Moderate,,3.0,No,None,No,Yes,120.0,Medium,5.0,7.5,32.0,65.0,12.0,Tolerant,-33.0,Routinely Available,Yes,Medium,True
+317,DACAC,,Dalea candida var. candida,,Medium,Moderate,,2.0,No,High,Yes,Yes,90.0,Medium,6.0,8.0,12.0,20.0,14.0,Intermediate,-38.0,Routinely Available,Yes,High,False
+318,DAPUP,,Dalea purpurea var. purpurea,,Medium,Moderate,,3.0,No,Low,Yes,Yes,120.0,Medium,6.0,8.0,16.0,24.0,16.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+319,DACA3,,Danthonia californica,,,Moderate,,2.0,No,None,No,Yes,90.0,Medium,6.0,7.0,6.0,40.0,16.0,Intolerant,17.0,Routinely Available,Yes,Low,False
+320,DAIN,,Danthonia intermedia,,Medium,Moderate,,1.5,No,None,Yes,No,80.0,Low,6.0,7.8,6.0,20.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+321,DAFRF,,Dasiphora fruticosa ssp. floribunda,,,,,,,,,,,,,,,,,,,,,,False
+322,DAFRF,DAFL3,Dasiphora floribunda,,High,Slow,,2.5,No,None,Yes,Yes,180.0,Low,5.0,8.0,16.0,40.0,18.0,Intermediate,-28.0,Routinely Available,Yes,Medium,False
+323,DEVE,,Decodon verticillatus,,High,Rapid,,8.0,No,None,Yes,Yes,145.0,High,4.9,8.6,30.0,60.0,10.0,Intermediate,-23.0,Routinely Available,Yes,,False
+324,DERE,,Delonix regia,,High,Rapid,50.0,50.0,No,Low,Yes,Yes,365.0,Medium,4.0,7.0,40.0,100.0,60.0,Intermediate,31.0,Routinely Available,Yes,,False
+325,DEGL3,,Delphinium glaucum,,Medium,Rapid,,8.0,No,None,Yes,Yes,120.0,High,5.6,7.0,55.0,125.0,6.0,Tolerant,-28.0,Routinely Available,Yes,High,False
+326,DECE,,Deschampsia cespitosa,,,,,,,,,,,,,,,,,,,,,,True
+327,DECE,DECA18,Deschampsia caespitosa,,Medium,Moderate,,3.4,No,None,Yes,Yes,100.0,Low,4.8,7.2,14.0,24.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+328,DEDA,,Deschampsia danthonioides,,Medium,Moderate,,1.5,No,None,Yes,Yes,145.0,Medium,5.8,7.2,12.0,30.0,6.0,Intermediate,52.0,Routinely Available,Yes,Low,False
+329,DEEL,,Deschampsia elongata,,Medium,Moderate,,3.0,No,None,Yes,Yes,90.0,Low,6.0,7.8,10.0,24.0,8.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+330,DEIL,,Desmanthus illinoensis,SWSS,Medium,Moderate,,3.0,No,Low,Yes,Yes,130.0,Medium,5.0,8.0,16.0,24.0,12.0,Intolerant,-18.0,Routinely Available,Yes,High,False
+331,DEVI3,,Desmanthus virgatus,,Low,Slow,,2.0,Yes,Medium,Yes,Yes,365.0,Low,5.0,8.0,30.0,80.0,24.0,Tolerant,17.0,Routinely Available,Yes,High,False
+332,DEHE9,,Desmodium heterophyllum,,Low,Rapid,1.0,0.5,Yes,Low,Yes,No,365.0,Medium,5.0,7.0,16.0,59.0,12.0,Tolerant,12.0,Routinely Available,Yes,High,False
+333,DEIN3,,Desmodium incanum,,Low,Moderate,10.0,4.0,Yes,Low,Yes,No,269.0,Medium,5.0,7.0,39.0,118.0,12.0,Intolerant,6.0,Routinely Available,Yes,High,False
+334,DIFO,,Dicentra formosa,,Low,Rapid,,1.5,No,None,Yes,Yes,200.0,Low,5.5,6.0,55.0,155.0,6.0,Tolerant,-23.0,Routinely Available,Yes,Low,False
+335,DICL,,Dichanthelium clandestinum,,Medium,Slow,,2.0,No,None,Yes,Yes,130.0,Low,4.0,7.5,32.0,65.0,16.0,Intolerant,-33.0,Routinely Available,Yes,High,False
+336,DIAR5,,Dichanthium aristatum,,Medium,Rapid,,3.0,No,None,Yes,Yes,120.0,Medium,5.5,7.0,24.0,60.0,18.0,Intolerant,22.0,Routinely Available,Yes,Low,False
+337,DIER,,Digitaria eriantha,,Medium,Moderate,,2.0,No,None,Yes,Yes,180.0,Low,5.0,7.0,40.0,60.0,6.0,Intolerant,17.0,Routinely Available,No,Medium,False
+338,DIVI5,,Diospyros virginiana,,High,Slow,25.0,55.0,No,None,Yes,Yes,200.0,Medium,4.7,7.5,30.0,80.0,36.0,Tolerant,-21.0,Routinely Available,Yes,Medium,True
+339,DISP,,Distichlis spicata,"NE&GP, WSWS",High,Slow,,1.1,No,None,No,Yes,80.0,Medium,6.4,10.0,5.0,70.0,2.0,Intolerant,-35.0,Routinely Available,No,Low,False
+340,DOPU,,Dodecatheon pulchellum,,Medium,,,2.0,No,None,Yes,Yes,100.0,Medium,6.0,7.8,12.0,30.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+341,DOVI,,Dodonaea viscosa,,High,Rapid,15.0,15.0,Yes,None,Yes,Yes,310.0,Low,6.5,9.2,8.0,32.0,18.0,Intermediate,18.0,Routinely Available,Yes,,False
+342,DRFR2,,Dracaena fragrans,,High,Slow,26.0,17.0,No,None,No,No,365.0,,,,,,12.0,Tolerant,40.0,Routinely Available,Yes,,False
+343,DRAM,,Dracopis amplexicaulis,,Medium,Rapid,,2.0,No,None,Yes,Yes,120.0,High,6.0,7.5,10.0,60.0,6.0,Intolerant,32.0,Routinely Available,Yes,Low,False
+344,DROC,,Dryas octopetala,,Medium,Rapid,1.0,0.3,Yes,Medium,Yes,No,120.0,Low,6.0,9.0,14.0,32.0,12.0,Intermediate,-62.0,Routinely Available,Yes,Low,False
+345,DRCR4,,Dryopteris cristata,,,Moderate,,1.6,No,None,No,Yes,120.0,High,3.5,6.5,15.0,55.0,12.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+346,DUAR3,,Dulichium arundinaceum,,High,Moderate,,2.6,No,None,Yes,Yes,100.0,High,4.7,7.5,16.0,60.0,18.0,Intermediate,-38.0,Routinely Available,Yes,,False
+347,ECPA,,Echinacea pallida,,Medium,Moderate,,1.2,No,None,Yes,Yes,90.0,Medium,6.5,7.2,14.0,40.0,14.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+348,ECPU,,Echinacea purpurea,,Medium,Moderate,,1.2,No,None,Yes,Yes,90.0,Medium,6.5,7.2,14.0,40.0,24.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+349,ECFR,,Echinochloa frumentacea,,High,Rapid,,3.9,No,None,No,Yes,150.0,Medium,4.7,7.4,18.0,60.0,8.0,Intolerant,37.0,Routinely Available,Yes,Medium,False
+350,ELAN,,Elaeagnus angustifolia,"Cal-IPC, NE&GP, STATE, WI, WSWS",Medium,Rapid,35.0,35.0,No,High,Yes,Yes,100.0,High,6.0,9.5,12.0,40.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+351,ELAC,,Eleocharis acicularis,,Medium,Moderate,,0.7,No,None,No,Yes,110.0,Medium,4.5,7.0,14.0,50.0,10.0,Intolerant,-23.0,Routinely Available,Yes,,False
+352,ELCE,,Eleocharis cellulosa,,Medium,Moderate,,2.6,No,None,Yes,Yes,230.0,High,5.7,8.8,36.0,60.0,10.0,Intolerant,12.0,Routinely Available,Yes,,False
+353,ELEQ,,Eleocharis equisetoides,,High,Moderate,,3.2,No,None,Yes,Yes,90.0,High,5.0,7.0,35.0,60.0,8.0,Intolerant,-33.0,Routinely Available,Yes,,False
+354,ELOB2,,Eleocharis obtusa,,High,Moderate,,1.6,No,None,Yes,Yes,120.0,Medium,4.1,8.7,18.0,60.0,10.0,Intolerant,37.0,Routinely Available,Yes,,False
+355,ELOV,,Eleocharis ovata,,High,Moderate,,1.5,No,None,Yes,Yes,90.0,Medium,4.6,6.8,32.0,60.0,6.0,Intolerant,47.0,Routinely Available,Yes,,False
+356,ELPA3,,Eleocharis palustris,,High,Moderate,,1.3,No,None,Yes,No,100.0,High,4.0,8.0,16.0,60.0,14.0,Intolerant,-38.0,Routinely Available,Yes,,False
+357,ELPA5,,Eleocharis parvula,,High,Moderate,,1.2,No,None,Yes,Yes,80.0,Medium,6.0,8.0,18.0,60.0,10.0,Intolerant,-38.0,Routinely Available,Yes,,False
+358,ELQU,,Eleocharis quadrangulata,,High,Moderate,,4.0,No,None,Yes,Yes,150.0,High,5.8,7.2,24.0,60.0,8.0,Intolerant,-28.0,Routinely Available,Yes,,False
+359,ELCA7,,Elodea canadensis,SWSS,High,Rapid,,,No,None,No,No,160.0,High,4.8,7.8,12.0,60.0,0.0,Intolerant,-33.0,Routinely Available,Yes,,False
+360,ELCA4,,Elymus canadensis,,Medium,Rapid,,3.0,No,None,Yes,Yes,90.0,Medium,5.0,7.9,20.0,45.0,16.0,Tolerant,-43.0,Routinely Available,Yes,Medium,True
+361,ELGL,,Elymus glaucus,,Medium,Rapid,,3.3,No,None,Yes,Yes,110.0,Low,5.8,8.5,16.0,60.0,12.0,Tolerant,-38.0,Routinely Available,Yes,Low,False
+362,ELLAL,,Elymus lanceolatus ssp. lanceolatus,,Medium,Moderate,,2.3,No,None,Yes,Yes,90.0,Low,6.6,8.4,8.0,25.0,16.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+363,ELRI,,Elymus riparius,,Medium,Moderate,,4.5,No,None,Yes,Yes,100.0,High,4.5,7.2,24.0,55.0,10.0,Tolerant,-33.0,Routinely Available,Yes,,True
+364,ELTRT,,Elymus trachycaulus ssp. trachycaulus,,Medium,Rapid,,3.0,No,None,No,Yes,90.0,Medium,5.6,9.0,8.0,25.0,16.0,Intolerant,-38.0,Routinely Available,Yes,High,False
+365,ELVI3,,Elymus virginicus,,Medium,Moderate,,2.5,No,None,Yes,Yes,130.0,Medium,5.0,7.0,36.0,55.0,16.0,Tolerant,-28.0,Routinely Available,Yes,High,True
+366,EMNI,,Empetrum nigrum,,High,Slow,1.0,1.0,No,None,No,Yes,90.0,Low,4.3,7.8,16.0,55.0,16.0,Intolerant,-43.0,Routinely Available,Yes,,False
+367,EPCO,,Epilobium coloratum,,,Moderate,,3.3,No,None,No,Yes,100.0,High,4.5,7.5,20.0,55.0,10.0,Intermediate,-33.0,Routinely Available,Yes,Medium,False
+368,EQAR,,Equisetum arvense,"N'EAST, NE&GP, WSWS",,Rapid,,0.9,No,None,Yes,Yes,100.0,High,4.0,7.0,20.0,100.0,6.0,Intermediate,-43.0,Routinely Available,Yes,Low,False
+369,EQFL,,Equisetum fluviatile,,High,Rapid,,3.0,No,None,Yes,Yes,100.0,High,4.5,6.0,30.0,55.0,6.0,Intolerant,-33.0,Routinely Available,No,,False
+370,EQSY,,Equisetum sylvaticum,,,Rapid,,0.9,No,None,Yes,Yes,100.0,Low,4.0,6.5,20.0,100.0,6.0,Tolerant,-43.0,Routinely Available,Yes,Low,False
+371,ERCU2,,Eragrostis curvula,,High,Rapid,,3.0,No,None,Yes,Yes,160.0,Medium,4.5,8.5,15.0,40.0,14.0,Intolerant,-8.0,Routinely Available,Yes,Low,False
+372,ERLE,,Eragrostis lehmanniana,,Medium,Rapid,,2.5,No,None,Yes,Yes,210.0,Low,5.0,8.5,10.0,30.0,10.0,Intolerant,8.0,Routinely Available,Yes,Low,False
+373,ERSU,,Eragrostis superba,,Medium,Rapid,,3.5,No,None,Yes,Yes,210.0,Medium,4.5,8.0,10.0,40.0,16.0,Intolerant,12.0,Routinely Available,Yes,Medium,False
+374,ERTR3,,Eragrostis trichodes,,Medium,Rapid,,3.5,No,None,Yes,No,120.0,Medium,6.0,8.5,14.0,35.0,16.0,Intolerant,-23.0,Routinely Available,Yes,High,False
+375,EROP,,Eremochloa ophiuroides,,High,Rapid,,0.4,No,None,Yes,Yes,200.0,Medium,5.0,7.5,34.0,60.0,12.0,Intermediate,12.0,Routinely Available,No,Low,False
+376,ERNAN5,,Ericameria nauseosa ssp. nauseosa var. nauseosa,,High,Slow,4.0,4.0,No,None,Yes,Yes,150.0,Medium,7.5,8.7,6.0,20.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+377,ERPE3,,Erigeron peregrinus,,Medium,Moderate,,2.0,No,None,Yes,Yes,80.0,High,6.4,7.5,12.0,20.0,8.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+378,ERPH,,Erigeron philadelphicus,SWSS,Medium,Moderate,,2.8,No,None,No,Yes,110.0,Medium,4.8,7.8,18.0,55.0,10.0,Intermediate,-28.0,Routinely Available,Yes,,False
+379,ERDE5,,Eriocaulon decangulare,,High,Moderate,,2.6,No,None,Yes,Yes,160.0,Medium,4.0,7.6,40.0,60.0,18.0,Intolerant,-8.0,Routinely Available,Yes,,False
+380,ERFA2,,Eriogonum fasciculatum,,High,Moderate,3.0,3.0,No,None,Yes,Yes,180.0,Low,7.5,8.5,8.0,20.0,10.0,Intolerant,7.0,Routinely Available,Yes,Medium,False
+381,ERNI2,,Eriogonum niveum,,High,Slow,1.0,1.5,No,None,Yes,Yes,120.0,Low,6.5,8.0,6.0,18.0,12.0,Intermediate,-23.0,Routinely Available,Yes,High,False
+382,ERUM,,Eriogonum umbellatum,,High,Slow,1.0,1.0,No,None,Yes,Yes,140.0,Low,6.5,9.0,8.0,18.0,20.0,Intolerant,7.0,Routinely Available,Yes,Medium,False
+383,ERAN6,,Eriophorum angustifolium,,High,Moderate,,2.0,No,None,Yes,Yes,100.0,High,4.0,6.5,24.0,55.0,10.0,Intolerant,-43.0,Routinely Available,Yes,,False
+384,ERSA11,,Erythrina sandwicensis,,Low,Moderate,30.0,30.0,No,High,Yes,Yes,365.0,Medium,5.5,7.0,25.0,35.0,36.0,Intermediate,50.0,Routinely Available,Yes,,False
+385,ESCA2,,Eschscholzia californica,SEEPPC,Medium,Moderate,,1.2,No,None,No,Yes,120.0,Low,5.8,7.5,8.0,18.0,10.0,Intermediate,7.0,Routinely Available,Yes,Low,True
+386,EURA14,,Eubotrys racemosus,,,,,,,,,,,,,,,,,,,,,,False
+387,EURA14,LERA4,Leucothoe racemosa,,High,Moderate,13.0,13.0,No,None,No,Yes,210.0,Medium,4.5,6.0,45.0,50.0,12.0,Tolerant,-33.0,Routinely Available,Yes,Medium,False
+388,EUCA2,,Eucalyptus camaldulensis,,High,Rapid,60.0,120.0,Yes,None,Yes,Yes,180.0,High,5.0,8.5,20.0,100.0,20.0,Intermediate,17.0,Routinely Available,Yes,Low,True
+389,EUGL,,Eucalyptus globulus,"Cal-IPC, HEAR",High,Rapid,80.0,160.0,Yes,None,Yes,Yes,240.0,High,5.0,6.8,21.0,60.0,24.0,Intolerant,17.0,Routinely Available,Yes,Low,True
+390,EURO2,,Eucalyptus robusta,HEAR,High,Rapid,85.0,160.0,Yes,None,Yes,Yes,340.0,Medium,4.5,6.5,40.0,250.0,24.0,Intolerant,16.0,Routinely Available,Yes,Low,True
+391,EUSA,,Eucalyptus saligna,,High,Rapid,130.0,160.0,Yes,None,Yes,Yes,340.0,Medium,4.0,6.0,60.0,200.0,24.0,Intolerant,21.0,Routinely Available,Yes,Low,False
+392,EUAM9,,Euonymus americanus,,,,,,,,,,,,,,,,,,,,,,False
+393,EUAM9,EUAM7,Euonymus americana,,Medium,Moderate,8.0,6.0,No,None,Yes,Yes,120.0,High,5.0,6.0,35.0,70.0,8.0,Intermediate,-23.0,Routinely Available,Yes,Low,False
+394,EUGL19,,Eurybia glauca,,Medium,Moderate,,2.0,No,None,Yes,Yes,130.0,Medium,5.9,8.0,10.0,20.0,10.0,Intolerant,-43.0,Routinely Available,Yes,Low,False
+395,EUMA27,,Eurybia macrophylla,,High,Moderate,,4.6,No,None,No,Yes,90.0,Medium,4.9,6.9,35.0,55.0,10.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+396,EUFI14,,Eutrochium fistulosum,,,,,,,,,,,,,,,,,,,,,,True
+397,EUFI14,EUFI,Eupatorium fistulosum,KY,High,Rapid,,6.0,No,None,No,Yes,120.0,High,4.5,7.0,35.0,50.0,16.0,Intermediate,-28.0,Routinely Available,No,Low,False
+398,EUMAM4,,Eutrochium maculatum var. maculatum,,,,,,,,,,,,,,,,,,,,,,False
+399,EUMAM4,EUMAM,Eupatorium maculatum var. maculatum,,High,Rapid,,6.0,No,None,No,Yes,120.0,High,5.5,7.0,35.0,50.0,16.0,Intermediate,-28.0,Routinely Available,No,Low,False
+400,FATA,,Fagopyrum tataricum,SWSS,Medium,Rapid,,1.4,No,None,Yes,Yes,155.0,Low,4.6,6.5,35.0,55.0,8.0,Intolerant,42.0,Routinely Available,Yes,Medium,False
+401,FAGR,,Fagus grandifolia,,High,Slow,30.0,80.0,No,None,Yes,Yes,92.0,Medium,4.1,7.2,28.0,80.0,32.0,Tolerant,-44.0,Routinely Available,Yes,Low,True
+402,FEAR2,,Festuca arizonica,,High,Slow,,2.0,No,None,No,No,150.0,Low,6.5,7.5,10.0,16.0,10.0,Intolerant,-23.0,Routinely Available,Yes,Medium,False
+403,FEBR7,,Festuca brevipila,,,,,,,,,,,,,,,,,,,,,,False
+404,FEBR7,FETR3,Festuca trachyphylla,,High,Slow,,0.5,No,None,Yes,Yes,90.0,Low,4.5,8.5,12.0,26.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+405,FEHE2,,Festuca heteromalla,,High,Moderate,,2.1,No,None,No,Yes,100.0,Low,5.0,8.0,24.0,50.0,12.0,Tolerant,-43.0,Routinely Available,Yes,Low,False
+406,FEOV,,Festuca ovina,,Medium,Moderate,,0.5,No,None,Yes,Yes,90.0,Low,5.5,7.5,12.0,30.0,10.0,Intermediate,-43.0,Routinely Available,Yes,Medium,True
+407,FERU2,,Festuca rubra,,Medium,Moderate,,2.0,No,None,No,Yes,90.0,Medium,5.0,7.5,30.0,70.0,12.0,Tolerant,-43.0,Routinely Available,Yes,Medium,True
+408,FOAC,,Forestiera acuminata,,,Moderate,30.0,33.0,No,None,No,Yes,140.0,High,6.0,8.0,35.0,50.0,12.0,Tolerant,-18.0,Routinely Available,Yes,,False
+409,FOSU,,Forsythia suspensa,,High,Rapid,6.0,6.0,No,None,No,Yes,100.0,Medium,5.0,7.5,32.0,60.0,16.0,Intolerant,-43.0,Routinely Available,No,Low,True
+410,FOGA,,Fothergilla gardenii,,Medium,Moderate,4.0,4.0,No,None,No,Yes,120.0,High,5.0,6.0,35.0,90.0,12.0,Intermediate,-8.0,Routinely Available,Yes,Low,False
+411,FRCAC5,,Frangula californica ssp. californica,,Low,Rapid,5.0,5.0,Yes,None,Yes,Yes,180.0,Medium,6.0,8.3,14.0,24.0,16.0,Intolerant,7.0,Routinely Available,Yes,Low,False
+412,FRAL,,Franklinia alatamaha,,High,Moderate,30.0,30.0,No,None,Yes,Yes,200.0,High,5.5,7.0,32.0,60.0,24.0,Intermediate,-3.0,Routinely Available,Yes,Low,True
+413,FRAM2,,Fraxinus americana,N'EAST,High,Moderate,40.0,90.0,No,None,Yes,Yes,90.0,High,4.7,7.5,28.0,80.0,40.0,Intolerant,-34.0,Routinely Available,Yes,Medium,True
+414,FRCA3,,Fraxinus caroliniana,,,Moderate,39.0,39.0,No,None,Yes,Yes,200.0,High,3.5,6.0,36.0,65.0,12.0,Tolerant,2.0,Routinely Available,Yes,Low,True
+415,FRLA,,Fraxinus latifolia,,High,Moderate,35.0,70.0,No,None,Yes,Yes,180.0,Medium,4.8,7.0,20.0,118.0,24.0,Intermediate,-8.0,Routinely Available,Yes,Low,False
+416,FRNI,,Fraxinus nigra,,Medium,Slow,20.0,65.0,No,None,Yes,Yes,80.0,High,4.4,8.2,20.0,50.0,40.0,Intolerant,-47.0,Routinely Available,Yes,Medium,False
+417,FRPE,,Fraxinus pennsylvanica,N'EAST,High,Rapid,35.0,80.0,No,None,Yes,Yes,120.0,Medium,4.7,8.1,15.0,71.0,40.0,Tolerant,-47.0,Routinely Available,Yes,Medium,True
+418,FRPR,,Fraxinus profunda,,High,Rapid,65.0,120.0,No,None,No,Yes,180.0,High,4.5,7.3,36.0,70.0,28.0,Intermediate,-24.0,Routinely Available,Yes,Medium,True
+419,FRVE2,,Fraxinus velutina,,High,Moderate,30.0,40.0,No,None,No,No,160.0,Low,5.8,7.5,12.0,20.0,24.0,Intolerant,-13.0,Routinely Available,Yes,Low,True
+420,GAAR,,Gaillardia aristata,,Medium,Moderate,,2.0,No,None,Yes,Yes,100.0,Medium,5.5,7.9,16.0,30.0,16.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+421,GAPU,,Gaillardia pulchella,,Medium,Rapid,,2.0,No,None,Yes,Yes,160.0,Medium,7.0,8.5,7.0,18.0,12.0,Intolerant,32.0,Routinely Available,Yes,Medium,False
+422,GEAN,,Gentiana andrewsii,,Medium,Moderate,,2.0,No,None,No,Yes,100.0,Medium,5.8,7.2,36.0,60.0,6.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+423,GECA,,Gentiana calycosa,,Medium,Rapid,,0.6,No,None,No,Yes,120.0,Medium,5.6,7.5,25.0,60.0,6.0,Tolerant,7.0,Routinely Available,Yes,Medium,False
+424,GECL,,Gentiana clausa,,Medium,Rapid,,1.5,No,None,No,Yes,100.0,Medium,5.8,7.2,36.0,60.0,6.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+425,GEER2,,Geranium erianthum,,Medium,Moderate,,3.0,No,None,No,No,120.0,,4.0,7.5,20.0,276.0,12.0,Intolerant,-20.0,Routinely Available,Yes,Low,False
+426,GEVI2,,Geranium viscosissimum,,Medium,Rapid,,3.0,No,None,No,Yes,140.0,Low,7.0,8.0,10.0,19.0,6.0,Tolerant,-13.0,Routinely Available,Yes,Medium,False
+427,GELA,,Geum laciniatum,,Medium,Rapid,,3.1,No,None,Yes,Yes,130.0,Medium,5.0,7.0,36.0,55.0,12.0,Intermediate,-23.0,Routinely Available,Yes,,False
+428,GEMA4,,Geum macrophyllum,,Medium,Moderate,,2.0,No,None,Yes,Yes,100.0,Medium,5.0,7.0,12.0,55.0,12.0,Tolerant,-33.0,Routinely Available,Yes,,False
+429,GERI2,,Geum rivale,,Medium,Moderate,,3.0,No,None,Yes,Yes,95.0,High,4.8,7.0,30.0,55.0,12.0,Intolerant,-33.0,Routinely Available,Yes,,False
+430,GLTR,,Gleditsia triacanthos,"N'EAST, NE&GP",Medium,Rapid,35.0,70.0,No,None,No,Yes,150.0,Medium,4.8,8.0,20.0,70.0,48.0,Intolerant,-36.0,Routinely Available,Yes,Medium,True
+431,GLSE2,,Gliricidia sepium,,High,Rapid,65.0,65.0,Yes,High,Yes,Yes,365.0,Medium,5.0,7.0,60.0,80.0,60.0,Intolerant,17.0,Routinely Available,No,High,False
+432,GLCA,,Glyceria canadensis,,,Moderate,,3.2,No,None,Yes,Yes,100.0,Medium,5.0,8.5,20.0,50.0,16.0,Intolerant,-33.0,Routinely Available,No,,True
+433,GLME2,,Glyceria melicaria,,,Moderate,,3.9,No,None,No,Yes,100.0,Medium,4.5,8.0,35.0,50.0,16.0,Intolerant,-33.0,Routinely Available,No,,False
+434,GLOB,,Glyceria obtusa,,,Rapid,,3.3,No,None,No,Yes,140.0,High,4.0,7.0,40.0,50.0,4.0,Tolerant,-8.0,Routinely Available,No,Medium,False
+435,GLST,,Glyceria striata,,,Moderate,,5.7,No,None,No,Yes,100.0,Medium,4.0,8.0,10.0,60.0,4.0,Tolerant,-35.0,Routinely Available,No,Low,False
+436,GLMA4,,Glycine max,SWSS,Low,Rapid,,3.0,No,Medium,Yes,Yes,140.0,Medium,5.5,7.8,16.0,59.0,8.0,Intolerant,-28.0,Routinely Available,Yes,High,False
+437,GOLA,,Gordonia lasianthus,,High,Slow,40.0,65.0,Yes,None,Yes,Yes,230.0,High,4.5,6.3,44.0,70.0,20.0,Tolerant,-4.0,Routinely Available,Yes,High,False
+438,GOTO,,Gossypium tomentosum,,High,Moderate,6.0,6.0,Yes,None,Yes,Yes,365.0,Medium,6.0,7.0,15.0,35.0,16.0,Intermediate,50.0,Routinely Available,Yes,,False
+439,GRRO,,Grevillea robusta,HEAR,High,Rapid,100.0,105.0,Yes,None,Yes,Yes,365.0,Medium,5.3,7.0,30.0,95.0,36.0,Intolerant,17.0,Routinely Available,Yes,,True
+440,GUOF,,Guaiacum officinale,,,Slow,45.0,30.0,Yes,None,Yes,Yes,365.0,,6.0,8.0,40.0,60.0,36.0,Intolerant,40.0,Routinely Available,Yes,,False
+441,HAVI4,,Hamamelis virginiana,,Medium,Slow,15.0,20.0,No,None,No,Yes,120.0,Medium,4.5,6.2,30.0,60.0,20.0,Intermediate,-28.0,Routinely Available,Yes,Low,True
+442,HEHE,,Hedera helix,"Cal-IPC, SEEPPC, STATE, WI",High,Moderate,,5.0,No,None,Yes,Yes,160.0,Medium,5.2,7.8,28.0,65.0,12.0,Tolerant,-23.0,Routinely Available,No,Low,False
+443,HEAL,,Hedysarum alpinum,,Medium,Rapid,,2.0,No,Low,Yes,Yes,120.0,Medium,6.0,8.0,28.0,80.0,12.0,Intolerant,-62.0,Routinely Available,Yes,High,False
+444,HEBO,,Hedysarum boreale,,Low,Moderate,,2.0,No,Medium,Yes,Yes,120.0,Medium,5.2,8.0,12.0,18.0,16.0,Intolerant,-38.0,Routinely Available,Yes,High,False
+445,HEAU,,Helenium autumnale,NE&GP,,Rapid,,4.9,No,None,Yes,Yes,100.0,Medium,4.0,7.5,10.0,60.0,6.0,Intolerant,-43.0,Routinely Available,Yes,Low,True
+446,HEFL,,Helenium flexuosum,,,Moderate,,3.2,No,None,Yes,Yes,140.0,Low,4.5,7.5,20.0,60.0,6.0,Intolerant,-28.0,Routinely Available,Yes,Medium,False
+447,HEAN2,,Helianthus angustifolius,,,Moderate,,5.6,No,None,Yes,Yes,160.0,Medium,4.0,7.0,25.0,65.0,6.0,Intermediate,-28.0,Routinely Available,Yes,High,False
+448,HEAN3,,Helianthus annuus,"NE&GP, STATE, SWSS, WSWS",,Rapid,,9.0,No,None,Yes,Yes,80.0,Medium,5.5,7.8,12.0,60.0,8.0,Intolerant,52.0,Routinely Available,Yes,Medium,True
+449,HEGR4,,Helianthus grosseserratus,NE&GP,Medium,Moderate,,5.0,No,None,Yes,Yes,90.0,Medium,5.8,7.3,20.0,40.0,12.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+450,HENU,,Helianthus nuttallii,WSWS,Medium,Moderate,,10.0,No,None,No,Yes,120.0,Medium,5.9,7.5,12.0,20.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+451,HETU,,Helianthus tuberosus,"N'EAST, NE&GP, SWSS",,Rapid,,9.8,No,None,Yes,Yes,100.0,Low,4.0,7.0,15.0,55.0,6.0,Intermediate,-43.0,Routinely Available,Yes,High,False
+452,HEMER,,Hemerocallis,,Medium,Rapid,,3.0,No,None,Yes,Yes,110.0,Medium,4.8,8.0,28.0,60.0,16.0,Intermediate,-23.0,Routinely Available,Yes,Low,False
+453,HEMA80,,Heracleum maximum,,Medium,Moderate,,8.0,No,None,Yes,Yes,110.0,High,5.4,7.3,14.0,45.0,12.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+454,HEAR22,,Hesperocyparis arizonica,,,,,,,,,,,,,,,,,,,,,,False
+455,HEAR22,CUAR,Cupressus arizonica,,High,Moderate,25.0,50.0,Yes,None,Yes,Yes,120.0,Low,6.1,7.9,16.0,30.0,12.0,Tolerant,-23.0,Routinely Available,Yes,Low,False
+456,HECOC8,,Hesperostipa comata ssp. comata,,High,Moderate,,3.0,No,None,Yes,Yes,130.0,Low,6.6,8.4,5.0,20.0,16.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+457,HESA3,,Heuchera sanguinea,,Medium,Moderate,,1.5,No,None,Yes,Yes,145.0,Medium,5.2,8.0,12.0,55.0,10.0,Intermediate,-23.0,Routinely Available,Yes,,False
+458,HILA2,,Hibiscus laevis,,Medium,Moderate,,8.0,No,None,No,Yes,140.0,High,5.5,7.2,32.0,60.0,12.0,Intermediate,-13.0,Routinely Available,Yes,Low,False
+459,HIMO,,Hibiscus moscheutos,,,Rapid,,6.6,No,None,No,Yes,160.0,High,4.0,7.5,35.0,65.0,10.0,Intolerant,-13.0,Routinely Available,Yes,Low,True
+460,HIOD,,Hierochloe odorata,,Medium,Moderate,,2.0,No,None,Yes,Yes,130.0,High,5.7,7.4,16.0,50.0,12.0,Intermediate,-38.0,Routinely Available,Yes,Medium,False
+461,HIRH80,,Hippophae rhamnoides,,High,Rapid,18.0,18.0,No,Medium,Yes,Yes,100.0,Low,6.5,8.0,26.0,50.0,18.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+462,HOLA,,Holcus lanatus,"Cal-IPC, HEAR, N'EAST, WSWS",,Moderate,,3.3,No,None,Yes,Yes,120.0,Low,4.0,7.0,20.0,65.0,4.0,Intermediate,-23.0,Routinely Available,Yes,Low,False
+463,HOBR2,,Hordeum brachyantherum,,Medium,Moderate,,2.0,No,None,Yes,Yes,100.0,Medium,6.0,8.5,20.0,80.0,6.0,Intolerant,-43.0,Routinely Available,Yes,Low,False
+464,HOVU,,Hordeum vulgare,SWSS,Medium,Rapid,,2.5,No,None,No,Yes,90.0,Medium,5.0,8.5,12.0,100.0,10.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+465,HUTO,,Hudsonia tomentosa,,High,Slow,,1.0,No,None,Yes,No,170.0,Low,5.5,6.9,35.0,55.0,26.0,Intolerant,-13.0,Routinely Available,Yes,Low,False
+466,HYMA7,,Hydrangea macrophylla,,High,Rapid,4.0,4.0,No,None,Yes,Yes,145.0,Low,4.5,8.0,35.0,55.0,12.0,Tolerant,-13.0,Routinely Available,No,Low,False
+467,HYCO,,Hymenaea courbaril,,,Slow,30.0,65.0,Yes,Low,Yes,No,365.0,,5.5,7.5,35.0,90.0,36.0,Tolerant,40.0,Routinely Available,Yes,Low,False
+468,HYLI,,Hymenocallis liriosme,,Medium,Rapid,,3.0,No,None,No,Yes,200.0,Medium,5.5,9.0,30.0,60.0,12.0,Intolerant,3.0,Routinely Available,Yes,,False
+469,HYOCO,,Hymenocallis occidentalis var. occidentalis,,,,,,,,,,,,,,,,,,,,,,False
+470,HYOCO,HYCA9,Hymenocallis caroliniana,,Medium,Moderate,,2.0,No,None,Yes,Yes,175.0,High,5.0,7.0,32.0,55.0,10.0,Intermediate,-3.0,Routinely Available,Yes,,False
+471,HYAN2,,Hypericum anagalloides,,Medium,Rapid,,0.8,No,None,No,Yes,65.0,High,6.0,8.0,16.0,45.0,7.0,Intermediate,47.0,Routinely Available,Yes,,False
+472,HYCA10,,Hypericum calycinum,,Medium,Rapid,,0.8,No,None,Yes,Yes,130.0,Medium,5.5,7.5,30.0,60.0,12.0,Tolerant,-43.0,Routinely Available,No,Low,True
+473,HYDE,,Hypericum densiflorum,,,Slow,,6.6,No,None,Yes,Yes,140.0,Medium,4.0,7.5,35.0,50.0,18.0,Tolerant,7.0,Routinely Available,No,Low,False
+474,HYGA,,Hypericum galioides,,Medium,Moderate,2.0,2.5,No,None,No,Yes,220.0,High,4.6,7.2,32.0,55.0,10.0,Intolerant,-3.0,Routinely Available,No,,False
+475,HYHI2,,Hypoxis hirsuta,,Medium,Moderate,,0.8,No,None,No,Yes,120.0,Medium,5.2,7.3,18.0,55.0,7.0,Intermediate,-33.0,Routinely Available,Yes,,False
+476,ILAM2,,Ilex amelanchier,,,Slow,16.0,16.0,No,None,Yes,Yes,200.0,Medium,3.5,6.5,45.0,60.0,12.0,Tolerant,12.0,Routinely Available,Yes,Medium,False
+477,ILCA,,Ilex cassine,,,Moderate,26.0,26.0,Yes,None,Yes,Yes,200.0,High,3.5,6.5,45.0,65.0,12.0,Tolerant,12.0,Routinely Available,Yes,Low,False
+478,ILCO,,Ilex coriacea,,High,Moderate,12.0,12.0,Yes,None,No,Yes,200.0,High,5.5,6.7,30.0,70.0,16.0,Tolerant,7.0,Routinely Available,Yes,,False
+479,ILCO80,,Ilex cornuta,,High,Moderate,8.0,8.0,Yes,None,Yes,Yes,160.0,Medium,4.5,5.5,26.0,60.0,18.0,Intolerant,-23.0,Routinely Available,Yes,Low,True
+480,ILCR2,,Ilex crenata,,High,Slow,4.0,10.0,Yes,None,Yes,Yes,160.0,Medium,4.5,5.5,35.0,55.0,10.0,Tolerant,-13.0,Routinely Available,No,,True
+481,ILDE,,Ilex decidua,,,Rapid,33.0,33.0,No,None,Yes,Yes,160.0,Medium,3.5,6.5,30.0,60.0,12.0,Tolerant,-18.0,Routinely Available,Yes,High,True
+482,ILGL,,Ilex glabra,,High,Slow,5.0,8.0,Yes,None,Yes,Yes,165.0,High,4.5,7.0,32.0,60.0,16.0,Intolerant,-13.0,Routinely Available,Yes,Low,True
+483,ILOP,,Ilex opaca,,High,Slow,20.0,40.0,Yes,None,Yes,Yes,140.0,Medium,4.5,7.0,40.0,80.0,30.0,Tolerant,-20.0,Routinely Available,Yes,Low,True
+484,ILVE,,Ilex verticillata,,High,Moderate,6.0,10.0,No,None,No,Yes,140.0,High,4.5,7.5,35.0,60.0,16.0,Intermediate,-28.0,Routinely Available,Yes,Low,True
+485,ILVO,,Ilex vomitoria,,High,Slow,20.0,25.0,Yes,None,Yes,Yes,200.0,Low,4.5,7.0,36.0,55.0,20.0,Intermediate,7.0,Routinely Available,Yes,Low,True
+486,IMCA,,Impatiens capensis,,,Rapid,,4.9,No,None,Yes,Yes,95.0,Medium,6.4,7.4,14.0,50.0,14.0,Tolerant,32.0,Routinely Available,Yes,,False
+487,IMPA,,Impatiens pallida,,,Rapid,,8.2,No,None,Yes,Yes,110.0,Medium,6.8,7.4,28.0,50.0,14.0,Tolerant,32.0,Routinely Available,Yes,,False
+488,IPPE,,Ipomoea pes-caprae,,Medium,Moderate,,1.0,Yes,None,Yes,Yes,365.0,Medium,6.0,7.5,30.0,80.0,24.0,Intermediate,17.0,Routinely Available,Yes,,False
+489,IPAGA3,,Ipomopsis aggregata ssp. aggregata,,High,Rapid,,3.0,No,None,Yes,Yes,140.0,Low,7.0,8.5,10.0,15.0,6.0,Intolerant,-18.0,Routinely Available,Yes,Low,False
+490,IRFU,,Iris fulva,,Medium,Moderate,,3.3,No,None,No,Yes,180.0,High,5.0,8.5,40.0,65.0,16.0,Tolerant,-24.0,Routinely Available,Yes,Medium,False
+491,IRMI,,Iris missouriensis,"STATE, WSWS",High,Rapid,,1.0,No,None,Yes,Yes,115.0,High,7.0,8.5,24.0,35.0,6.0,Intermediate,-28.0,Routinely Available,Yes,Low,False
+492,IRVI,,Iris virginica,,,Moderate,,3.3,No,None,No,Yes,200.0,High,4.8,7.3,45.0,65.0,6.0,Tolerant,12.0,Routinely Available,Yes,Low,False
+493,ITVI,,Itea virginica,,Medium,Slow,10.0,10.0,No,None,No,Yes,180.0,High,4.0,7.5,30.0,60.0,14.0,Tolerant,-24.0,Routinely Available,Yes,High,True
+494,IVFR,,Iva frutescens,,High,Moderate,9.0,9.0,No,None,Yes,Yes,200.0,High,5.0,5.7,35.0,65.0,16.0,Intolerant,2.0,Routinely Available,Yes,Low,False
+495,JAOVS,,Jacquemontia ovalifolia ssp. sandwicensis,,Medium,Moderate,,0.5,Yes,None,Yes,Yes,365.0,Medium,6.0,7.5,25.0,35.0,24.0,Intermediate,50.0,Routinely Available,Yes,,False
+496,JUCI,,Juglans cinerea,,High,Rapid,20.0,80.0,No,None,Yes,Yes,105.0,Medium,6.0,7.0,25.0,80.0,40.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+497,JUMI,,Juglans microcarpa,,High,Slow,20.0,20.0,No,None,Yes,Yes,180.0,Medium,5.5,6.9,17.0,32.0,24.0,Intolerant,-3.0,Routinely Available,Yes,,True
+498,JUNI,,Juglans nigra,,High,Rapid,35.0,100.0,No,None,No,Yes,170.0,High,4.6,8.2,30.0,60.0,40.0,Intolerant,-28.0,Routinely Available,Yes,Low,False
+499,JURE80,,Juglans regia,,,Rapid,25.0,60.0,No,None,No,Yes,190.0,High,6.0,7.5,28.0,45.0,40.0,Intolerant,-8.0,Routinely Available,Yes,Low,True
+500,JUAC,,Juncus acuminatus,,High,Moderate,,3.0,No,None,Yes,Yes,80.0,High,4.4,7.2,16.0,55.0,12.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+501,JUARL,,Juncus arcticus ssp. littoralis,,,,,,,,,,,,,,,,,,,,,,False
+502,JUARL,JUBA,Juncus balticus,,Medium,Rapid,,4.0,No,None,No,Yes,90.0,High,6.0,9.0,,,20.0,Intermediate,-43.0,Routinely Available,Yes,Medium,False
+503,JUAR4,,Juncus articulatus,,Medium,Moderate,,2.0,No,None,Yes,Yes,95.0,High,4.8,7.5,18.0,40.0,8.0,Intermediate,-28.0,Routinely Available,Yes,Low,False
+504,JUBR,,Juncus brachycarpus,,Medium,Moderate,,3.0,No,None,Yes,Yes,140.0,Medium,4.5,6.7,35.0,55.0,8.0,Intermediate,-23.0,Routinely Available,Yes,Low,False
+505,JUBU,,Juncus bufonius,WSWS,Medium,Rapid,,1.0,No,None,Yes,Yes,60.0,Medium,4.6,7.6,10.0,55.0,6.0,Intolerant,47.0,Routinely Available,No,Low,False
+506,JUCA3,,Juncus canadensis,,Medium,Rapid,,3.2,No,None,Yes,Yes,80.0,Medium,4.5,5.9,28.0,60.0,12.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+507,JUCO2,,Juncus confusus,,Medium,Moderate,,1.5,No,None,Yes,Yes,85.0,High,6.0,8.0,10.0,30.0,10.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+508,JUDI,,Juncus dichotomus,,High,Moderate,,2.9,No,None,Yes,Yes,200.0,Medium,4.5,6.5,13.0,60.0,8.0,Intermediate,12.0,Routinely Available,Yes,Low,False
+509,JUDR,,Juncus drummondii,,High,Slow,,1.5,No,None,Yes,Yes,70.0,Medium,5.4,7.0,32.0,55.0,14.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+510,JUEF,,Juncus effusus,HEAR,Medium,Moderate,,6.6,No,None,Yes,Yes,120.0,Medium,5.5,8.8,18.0,60.0,24.0,Intolerant,-38.0,Routinely Available,Yes,High,True
+511,JUEN,,Juncus ensifolius,,Medium,Moderate,,2.0,No,None,Yes,Yes,80.0,High,6.0,8.0,8.0,40.0,11.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+512,JUIN2,,Juncus interior,,Medium,Moderate,,3.0,No,None,Yes,Yes,90.0,Medium,5.7,7.0,20.0,55.0,10.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+513,JULO,,Juncus longistylis,,Medium,Moderate,,1.8,No,None,Yes,Yes,80.0,High,6.0,8.0,8.0,40.0,10.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+514,JUMA4,,Juncus marginatus,,Medium,Moderate,,2.0,No,None,Yes,Yes,90.0,Medium,5.5,6.8,32.0,55.0,8.0,Intermediate,-23.0,Routinely Available,Yes,Low,False
+515,JUME3,,Juncus mertensianus,,Medium,Moderate,,0.9,No,None,Yes,Yes,100.0,High,6.0,8.0,10.0,30.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Medium,False
+516,JUME4,,Juncus mexicanus,,Medium,Moderate,,0.8,No,None,No,Yes,145.0,Medium,6.2,8.2,8.0,20.0,8.0,Intolerant,-18.0,Routinely Available,Yes,Medium,False
+517,JUNE,,Juncus nevadensis,,Medium,Moderate,,2.0,No,None,Yes,Yes,100.0,High,6.0,7.8,10.0,30.0,12.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+518,JUNO2,,Juncus nodosus,,High,Moderate,,2.0,No,None,Yes,Yes,150.0,Medium,4.0,7.5,35.0,50.0,18.0,Intolerant,-28.0,Routinely Available,Yes,,False
+519,JURO,,Juncus roemerianus,,,Moderate,,4.9,No,None,No,Yes,200.0,High,4.0,7.0,40.0,60.0,14.0,Intolerant,17.0,Routinely Available,Yes,,False
+520,JUSC,,Juncus scirpoides,,Medium,Moderate,,3.0,No,None,Yes,Yes,145.0,High,5.6,6.8,36.0,55.0,10.0,Tolerant,-3.0,Routinely Available,Yes,Low,False
+521,JUTE,,Juncus tenuis,N'EAST,Medium,Slow,,1.5,No,None,Yes,Yes,85.0,Medium,4.5,7.0,10.0,55.0,6.0,Intermediate,-38.0,Routinely Available,No,Low,False
+522,JUTO,,Juncus torreyi,,Medium,Moderate,,3.1,No,None,Yes,Yes,85.0,Medium,4.5,6.5,14.0,50.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+523,JUTR4,,Juncus triglumis,,Medium,Moderate,,0.8,No,None,No,Yes,135.0,High,6.0,7.5,12.0,30.0,8.0,Intolerant,-23.0,Routinely Available,Yes,Medium,False
+524,JUCH4,,Juniperus chinensis,,High,Rapid,12.0,60.0,No,None,Yes,Yes,110.0,Medium,4.5,7.5,30.0,60.0,14.0,Intolerant,-33.0,Routinely Available,No,Low,False
+525,JUCO6,,Juniperus communis,,High,Slow,5.0,10.0,Yes,None,Yes,Yes,90.0,Low,5.5,8.0,20.0,60.0,14.0,Intolerant,-43.0,Routinely Available,Yes,Low,True
+526,JUCO12,,Juniperus conferta,,High,Moderate,2.0,2.0,Yes,None,Yes,Yes,130.0,Medium,5.0,7.8,30.0,60.0,14.0,Intolerant,-13.0,Routinely Available,No,Low,False
+527,JUHO2,,Juniperus horizontalis,,High,Moderate,1.0,4.0,Yes,None,No,Yes,100.0,High,5.5,7.8,30.0,60.0,12.0,Intolerant,-43.0,Routinely Available,No,Low,False
+528,JUOC,,Juniperus occidentalis,,High,Slow,25.0,33.0,Yes,None,Yes,Yes,150.0,Low,6.0,8.5,8.0,24.0,12.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+529,JUOS,,Juniperus osteosperma,,High,Slow,25.0,26.0,Yes,None,Yes,Yes,140.0,Low,6.5,8.2,12.0,20.0,20.0,Intolerant,-28.0,Routinely Available,Yes,Low,True
+530,JUSC2,,Juniperus scopulorum,,High,Slow,25.0,50.0,Yes,None,Yes,Yes,120.0,Low,5.0,8.5,9.0,26.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+531,JUVI,,Juniperus virginiana,NE&GP,High,Slow,25.0,50.0,No,None,Yes,Yes,140.0,Low,4.7,8.0,15.0,68.0,20.0,Intermediate,-43.0,Routinely Available,Yes,Low,True
+532,JUVIS,,Juniperus virginiana var. silicicola,,High,Slow,30.0,65.0,Yes,None,Yes,Yes,240.0,Medium,6.0,7.0,29.0,63.0,18.0,Intolerant,-8.0,Routinely Available,Yes,Medium,False
+533,JUAM,,Justicia americana,,Medium,Rapid,,2.5,No,None,Yes,Yes,140.0,Medium,5.4,7.6,35.0,60.0,10.0,Tolerant,-28.0,Routinely Available,No,Medium,False
+534,KALA,,Kalmia latifolia,,High,Slow,5.0,6.0,Yes,None,Yes,Yes,150.0,Low,4.5,5.5,32.0,60.0,24.0,Tolerant,-23.0,Routinely Available,Yes,Low,True
+535,KOMA,,Koeleria macrantha,,Medium,Rapid,,1.5,No,None,Yes,Yes,150.0,High,6.0,8.0,14.0,20.0,20.0,Tolerant,-38.0,Routinely Available,Yes,Medium,False
+536,KOPA,,Koelreuteria paniculata,,High,Slow,30.0,45.0,No,None,Yes,Yes,110.0,Medium,4.5,8.0,26.0,50.0,16.0,Intolerant,-28.0,Routinely Available,Yes,,True
+537,KRLA2,,Krascheninnikovia lanata,,Low,Rapid,1.0,2.0,Yes,None,Yes,Yes,90.0,Low,6.6,8.5,6.0,20.0,12.0,Intolerant,-52.0,Routinely Available,Yes,High,False
+538,KUST,,Kummerowia stipulacea,SEEPPC,Low,Rapid,,1.5,No,Medium,Yes,Yes,160.0,Low,5.5,7.5,30.0,65.0,8.0,Intolerant,6.0,Routinely Available,Yes,Low,False
+539,KUST2,,Kummerowia striata,SEEPPC,Low,Rapid,,1.3,No,Medium,Yes,Yes,160.0,Low,4.9,7.3,30.0,65.0,8.0,Intolerant,8.0,Routinely Available,Yes,Low,False
+540,LAPU6,,Lablab purpureus,,Medium,Rapid,,4.0,Yes,Medium,Yes,Yes,300.0,Medium,4.5,7.8,24.0,98.0,12.0,Intermediate,31.0,Routinely Available,Yes,High,False
+541,LACA5,,Lachnanthes caroliana,,Medium,Moderate,,3.0,No,None,Yes,Yes,200.0,Medium,4.0,7.4,30.0,55.0,12.0,Intolerant,13.0,Routinely Available,Yes,Low,False
+542,LAIN,,Lagerstroemia indica,,Medium,Moderate,25.0,25.0,No,None,Yes,Yes,165.0,Low,5.0,7.5,32.0,50.0,32.0,Intolerant,-3.0,Routinely Available,No,Low,True
+543,LADE2,,Larix decidua,,High,Moderate,20.0,99.0,No,None,Yes,Yes,90.0,Medium,6.0,7.0,30.0,80.0,40.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+544,LAKA2,,Larix kaempferi,,High,Rapid,20.0,98.0,No,None,Yes,Yes,180.0,Medium,6.0,7.5,25.0,80.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+545,LALA,,Larix laricina,,High,Rapid,20.0,80.0,No,None,Yes,Yes,73.0,Medium,5.5,6.5,7.0,55.0,12.0,Intolerant,-79.0,Routinely Available,Yes,Low,True
+546,LEGL,,Ledum glandulosum,,High,Slow,4.0,4.5,Yes,None,No,Yes,120.0,Medium,4.6,7.0,14.0,50.0,18.0,Tolerant,-28.0,Routinely Available,Yes,,False
+547,LEGR,,Ledum groenlandicum,,,Slow,2.0,3.0,No,None,No,Yes,95.0,Medium,5.0,7.0,12.0,50.0,18.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+548,LEOR,,Leersia oryzoides,,,Moderate,,4.9,No,None,Yes,Yes,110.0,High,5.1,8.8,12.0,50.0,14.0,Intolerant,-33.0,Routinely Available,No,,False
+549,LEVI2,,Leersia virginica,,,Moderate,,3.9,No,None,Yes,Yes,120.0,Medium,4.5,8.5,15.0,65.0,4.0,Tolerant,-43.0,Routinely Available,No,High,False
+550,LEMI3,,Lemna minor,,,Rapid,,,No,None,No,No,100.0,High,4.1,8.8,,,0.0,Intolerant,-38.0,Routinely Available,Yes,,False
+551,LETR,,Lemna trisulca,,Low,Rapid,,0.3,No,None,No,No,145.0,High,5.7,7.0,,,0.0,Intolerant,-38.0,Routinely Available,No,,False
+552,LEDU,,Leptochloa dubia,,Medium,Rapid,,3.0,No,None,Yes,Yes,210.0,Medium,6.0,8.0,12.0,24.0,14.0,Intolerant,-13.0,Routinely Available,Yes,Medium,False
+553,LELE10,,Leucaena leucocephala,"FLEPPC, HEAR",High,Rapid,15.0,20.0,Yes,High,Yes,Yes,365.0,Low,5.0,8.7,15.0,80.0,4.0,Intolerant,25.0,Routinely Available,Yes,High,True
+554,LEAX,,Leucothoe axillaris,,Medium,Slow,6.0,6.5,Yes,None,Yes,Yes,200.0,Low,3.5,7.0,40.0,55.0,15.0,Tolerant,2.0,Routinely Available,Yes,Medium,True
+555,LEAN3,,Leymus angustus,,Low,Rapid,,3.0,No,None,Yes,Yes,90.0,High,5.9,9.0,12.0,18.0,16.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+556,LEAR11,,Leymus arenarius,,Medium,Rapid,,3.0,No,None,Yes,Yes,200.0,Medium,5.7,6.5,34.0,60.0,16.0,Intolerant,7.0,Routinely Available,Yes,Low,False
+557,LECI4,,Leymus cinereus,,Medium,Moderate,,5.0,No,None,Yes,Yes,90.0,High,5.6,9.0,8.0,20.0,20.0,Intolerant,-43.0,Routinely Available,Yes,Low,False
+558,LEMOM2,,Leymus mollis ssp. mollis,,High,Rapid,,4.0,No,None,Yes,No,150.0,Medium,6.0,8.0,30.0,60.0,16.0,Intolerant,7.0,Routinely Available,No,Low,False
+559,LERA5,,Leymus racemosus,,High,Rapid,,3.0,No,None,Yes,Yes,120.0,Medium,6.0,9.0,10.0,60.0,16.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+560,LETR5,,Leymus triticoides,,Medium,Rapid,,3.0,No,None,No,Yes,110.0,High,6.0,9.0,7.0,60.0,10.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+561,LIPU,,Liatris punctata,,Medium,Slow,,2.0,No,None,Yes,Yes,120.0,Medium,6.0,7.8,18.0,26.0,14.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+562,LIPY,,Liatris pycnostachya,,Medium,Moderate,,3.5,No,None,Yes,Yes,120.0,Medium,6.0,8.5,16.0,30.0,14.0,Intolerant,-33.0,Routinely Available,Yes,Medium,False
+563,LISP,,Liatris spicata,,High,Slow,,4.5,No,None,No,Yes,165.0,Medium,5.6,7.5,35.0,60.0,14.0,Intermediate,-18.0,Routinely Available,Yes,Low,True
+564,LIAM,,Ligustrum amurense,,High,Moderate,12.0,12.0,No,None,No,Yes,130.0,Medium,5.8,7.5,34.0,70.0,20.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+565,LIJA,,Ligustrum japonicum,,High,Rapid,10.0,10.0,Yes,None,Yes,Yes,100.0,Low,5.5,6.9,30.0,80.0,18.0,Tolerant,-13.0,Routinely Available,Yes,Low,True
+566,LIOV,,Ligustrum ovalifolium,STATE,High,Rapid,16.0,16.0,Yes,None,No,Yes,160.0,Medium,5.9,7.7,34.0,70.0,20.0,Intolerant,-3.0,Routinely Available,Yes,Low,False
+567,LIVU,,Ligustrum vulgare,"SEEPPC, WI",Medium,Rapid,12.0,12.0,No,None,No,Yes,130.0,Medium,5.0,7.5,18.0,50.0,2.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+568,LIBE3,,Lindera benzoin,,Medium,Slow,12.0,12.0,No,None,No,Yes,120.0,Medium,4.5,6.0,32.0,50.0,18.0,Intermediate,-23.0,Routinely Available,Yes,Medium,True
+569,LILE3,,Linum lewisii,,Medium,Moderate,,2.5,No,None,Yes,Yes,95.0,Medium,5.6,8.4,10.0,20.0,14.0,Intolerant,-36.0,Routinely Available,Yes,Low,False
+570,LIMI6,,Lippia micromera,,High,,2.0,2.5,No,None,Yes,Yes,365.0,,6.1,7.8,29.0,80.0,12.0,Intolerant,40.0,Routinely Available,Yes,,False
+571,LIST2,,Liquidambar styraciflua,,High,Rapid,45.0,100.0,No,None,Yes,Yes,180.0,High,4.5,7.0,40.0,60.0,36.0,Intolerant,-21.0,Routinely Available,Yes,Medium,True
+572,LITU,,Liriodendron tulipifera,,High,Rapid,50.0,120.0,No,None,Yes,Yes,150.0,Medium,4.5,6.5,30.0,80.0,32.0,Intolerant,-18.0,Routinely Available,Yes,Low,True
+573,LIMU6,,Liriope muscari,,High,Moderate,,0.5,No,None,Yes,Yes,150.0,Low,5.0,8.0,26.0,60.0,12.0,Tolerant,-23.0,Routinely Available,No,Low,True
+574,LOCA2,,Lobelia cardinalis,,Medium,Moderate,,5.9,No,None,No,Yes,130.0,Low,5.8,7.8,28.0,60.0,12.0,Tolerant,-34.0,Routinely Available,Yes,Medium,True
+575,LOPE,,Lolium perenne,,Low,Rapid,,3.5,No,None,No,Yes,100.0,High,5.0,8.0,30.0,65.0,10.0,Intolerant,-18.0,Routinely Available,Yes,Low,True
+576,LOPEM2,,Lolium perenne ssp. multiflorum,"Cal-IPC, N'EAST, SWSS",Low,Rapid,,2.5,No,None,Yes,Yes,150.0,Medium,5.0,7.9,18.0,65.0,8.0,Intermediate,-8.0,Routinely Available,Yes,Low,False
+577,LORI,,Lolium rigidum,,Low,Rapid,,3.5,No,None,Yes,Yes,200.0,High,5.5,7.5,15.0,60.0,10.0,Intolerant,12.0,Routinely Available,Yes,Low,False
+578,LOIN5,,Lonicera involucrata,,,Moderate,10.0,10.0,No,None,No,Yes,90.0,High,5.5,8.0,14.0,32.0,12.0,Tolerant,-43.0,Routinely Available,Yes,High,False
+579,LOJA,,Lonicera japonica,"FLEPPC, HEAR, N'EAST, SEEPPC, STATE, SWSS, WI",Medium,Rapid,,1.0,No,None,No,Yes,130.0,Medium,4.9,7.8,24.0,60.0,10.0,Tolerant,-13.0,Routinely Available,Yes,Medium,False
+580,LOMA6,,Lonicera maackii,"SEEPPC, STATE, WI",High,Moderate,9.0,16.0,No,Low,Yes,Yes,100.0,Medium,5.5,8.0,25.0,60.0,16.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+581,LOTA,,Lonicera tatarica,"N'EAST, STATE, WI",Medium,Rapid,9.0,9.0,No,None,Yes,Yes,120.0,Medium,5.2,7.5,32.0,50.0,16.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+582,LOUT2,,Lonicera utahensis,,High,Rapid,2.0,5.0,No,None,No,Yes,120.0,High,6.0,8.0,24.0,60.0,12.0,Tolerant,-23.0,Routinely Available,Yes,Low,False
+583,LOCO6,,Lotus corniculatus,"N'EAST, NE&GP",Low,Moderate,,2.4,No,Medium,Yes,Yes,90.0,Medium,5.0,8.0,16.0,65.0,14.0,Intolerant,-43.0,Routinely Available,Yes,High,True
+584,LOTE4,,Lotus tenuis,,Low,Moderate,,1.0,No,Medium,Yes,Yes,160.0,Low,4.5,7.9,25.0,50.0,12.0,Intolerant,-21.0,Routinely Available,Yes,Medium,False
+585,LUAL3,,Lupinus albicaulis,,Low,Rapid,,3.0,No,High,Yes,Yes,180.0,Medium,6.0,7.0,35.0,60.0,10.0,Intolerant,47.0,Routinely Available,Yes,Low,True
+586,LUNO,,Lupinus nootkatensis,,Low,Rapid,,2.0,No,Low,Yes,Yes,120.0,Medium,6.0,7.0,28.0,80.0,12.0,Intermediate,-35.0,Routinely Available,Yes,Low,False
+587,LYCA2,,Lycium carolinianum,,High,Slow,3.0,9.0,No,None,Yes,Yes,250.0,High,5.5,9.0,24.0,62.0,10.0,Intolerant,17.0,Routinely Available,Yes,Low,False
+588,LYSA3,,Lycium sandwicense,,High,Moderate,3.0,1.0,No,None,No,No,365.0,Medium,5.8,7.2,10.0,50.0,12.0,Intermediate,40.0,Routinely Available,No,Low,False
+589,LYAM,,Lycopus americanus,NE&GP,High,Moderate,,1.8,No,None,No,Yes,120.0,High,5.2,7.8,12.0,60.0,10.0,Tolerant,-38.0,Routinely Available,Yes,,False
+590,LYVI4,,Lycopus virginicus,,Low,Moderate,,4.0,No,None,No,Yes,110.0,High,5.0,6.3,35.0,80.0,6.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+591,LYLU3,,Lyonia lucida,,Medium,Moderate,,6.6,Yes,None,Yes,Yes,200.0,Medium,3.5,6.0,40.0,60.0,20.0,Tolerant,2.0,Routinely Available,Yes,Medium,False
+592,MABIB,,Machaeranthera bigelovii var. bigelovii,,High,Rapid,,4.0,No,None,Yes,Yes,160.0,Low,6.0,8.5,6.0,18.0,6.0,Intolerant,32.0,Routinely Available,Yes,High,False
+593,MATA2,,Machaeranthera tanacetifolia,,Low,Rapid,,2.0,No,None,No,Yes,110.0,Medium,6.5,8.5,16.0,24.0,8.0,Intolerant,-33.0,Routinely Available,Yes,,True
+594,MAPO,,Maclura pomifera,,High,Moderate,20.0,35.0,No,None,Yes,Yes,180.0,Medium,4.5,7.5,24.0,40.0,32.0,Intolerant,-23.0,Routinely Available,Yes,Low,True
+595,MAAT80,,Macroptilium atropurpureum,,Medium,Rapid,,4.0,Yes,Medium,Yes,Yes,365.0,Low,5.0,8.0,15.0,111.0,24.0,Intermediate,23.0,Routinely Available,No,High,False
+596,MAAC,,Magnolia acuminata,,High,Rapid,40.0,100.0,No,None,Yes,Yes,160.0,High,5.2,7.0,35.0,60.0,30.0,Intermediate,-16.0,Routinely Available,Yes,Low,True
+597,MAGR4,,Magnolia grandiflora,,High,Moderate,40.0,100.0,Yes,None,No,Yes,220.0,High,4.5,6.5,35.0,60.0,42.0,Tolerant,7.0,Routinely Available,Yes,Low,False
+598,MASO9,,Magnolia ×soulangiana,,High,Moderate,20.0,30.0,No,None,No,Yes,160.0,Medium,5.0,6.2,35.0,60.0,24.0,Intolerant,-8.0,Routinely Available,Yes,,False
+599,MAST6,,Magnolia stellata,,High,Moderate,20.0,26.0,No,None,No,Yes,160.0,Medium,5.0,6.2,35.0,60.0,18.0,Intolerant,-8.0,Routinely Available,Yes,,False
+600,MAVI2,,Magnolia virginiana,,High,Moderate,40.0,60.0,Yes,None,Yes,Yes,180.0,High,5.0,6.9,40.0,80.0,30.0,Intermediate,17.0,Routinely Available,Yes,High,True
+601,MAAQ2,,Mahonia aquifolium,,High,Moderate,8.0,8.0,Yes,None,Yes,Yes,170.0,Low,5.0,8.0,20.0,45.0,20.0,Tolerant,-43.0,Routinely Available,Yes,Medium,True
+602,MARE11,,Mahonia repens,,High,Slow,2.0,2.0,Yes,None,No,Yes,180.0,Medium,5.5,7.5,15.0,45.0,10.0,Tolerant,-23.0,Routinely Available,Yes,Medium,True
+603,MAFL80,,Malus floribunda,,Medium,Moderate,20.0,25.0,No,None,No,Yes,130.0,Medium,5.0,7.8,32.0,60.0,30.0,Intolerant,-43.0,Routinely Available,Yes,Low,False
+604,MASA9,,Malus sargentii,,High,Moderate,10.0,10.0,No,None,Yes,Yes,100.0,Medium,5.5,7.5,30.0,60.0,30.0,Intolerant,-33.0,Routinely Available,Yes,Medium,True
+605,MASY2,,Malus sylvestris,,Medium,Moderate,30.0,40.0,No,None,Yes,Yes,150.0,Medium,4.8,7.0,30.0,50.0,36.0,Intolerant,-28.0,Routinely Available,Yes,High,True
+606,MATO6,,Malus toringo,,,,,,,,,,,,,,,,,,,,,,False
+607,MATO6,MASI80,Malus sieboldii,,High,Moderate,15.0,25.0,No,None,Yes,Yes,90.0,Medium,5.3,7.5,30.0,60.0,30.0,Intolerant,-33.0,Routinely Available,Yes,Medium,False
+608,MAZU2,,Malus zumi,,,,,,,,,,,,,,,,,,,,,,False
+609,MAZU2,MASIZ,Malus sieboldii var. zumi,,Medium,Moderate,20.0,25.0,No,None,No,Yes,100.0,Medium,4.8,7.5,50.0,60.0,30.0,Intermediate,-33.0,Routinely Available,Yes,High,False
+610,MAAM2,,Mammea americana,,,Rapid,50.0,55.0,Yes,None,Yes,Yes,365.0,,4.0,8.5,50.0,100.0,36.0,Intolerant,40.0,Routinely Available,Yes,,False
+611,MAIN3,,Mangifera indica,,High,Moderate,65.0,65.0,Yes,None,Yes,Yes,365.0,Medium,4.0,7.0,60.0,100.0,60.0,Intolerant,17.0,Routinely Available,Yes,Medium,False
+612,MAES,,Manihot esculenta,,Medium,Rapid,,10.0,Yes,None,No,Yes,365.0,Medium,5.0,5.5,60.0,80.0,24.0,Intolerant,17.0,Routinely Available,Yes,,False
+613,MAZA,,Manilkara zapota,,High,Slow,50.0,50.0,Yes,None,Yes,Yes,365.0,Medium,4.0,7.0,60.0,100.0,60.0,Intermediate,17.0,Routinely Available,Yes,Medium,False
+614,MELU,,Medicago lupulina,"KY, N'EAST, NE&GP, SWSS, WSWS",Low,Moderate,,2.0,No,Medium,No,Yes,110.0,Medium,5.5,8.0,13.0,60.0,12.0,Intolerant,23.0,Routinely Available,Yes,Medium,False
+615,MEPO3,,Medicago polymorpha,STATE,Low,Moderate,,1.3,No,High,No,Yes,100.0,Medium,5.9,8.2,12.0,75.0,12.0,Intolerant,32.0,Routinely Available,Yes,Medium,False
+616,MESA,,Medicago sativa,SWSS,Low,Rapid,,2.0,No,High,No,Yes,90.0,High,6.0,8.5,12.0,65.0,24.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+617,MEAZ,,Melia azedarach,"FLEPPC, SEEPPC",High,Rapid,50.0,50.0,Yes,None,Yes,Yes,365.0,Low,4.0,8.0,20.0,60.0,60.0,Intolerant,17.0,Routinely Available,Yes,Low,True
+618,MEBI,,Melicoccus bijugatus,,High,Moderate,60.0,60.0,Yes,None,No,Yes,365.0,Medium,4.0,7.5,30.0,100.0,60.0,Intermediate,17.0,Routinely Available,Yes,,False
+619,MEOF,,Melilotus officinalis,"NE&GP, SEEPPC, WI, WSWS",Low,Rapid,,6.0,No,Medium,No,Yes,110.0,Medium,6.5,8.2,17.0,65.0,16.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+620,MEOF,MEAL12,Melilotus alba,"KY, SEEPPC, SWSS, WI",Low,Rapid,,5.0,No,Medium,Yes,Yes,120.0,Medium,6.5,8.0,17.0,60.0,32.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+621,MEAR4,,Mentha arvensis,NE&GP,,Moderate,,2.6,No,None,No,Yes,100.0,Medium,5.0,7.0,20.0,50.0,6.0,Intermediate,-33.0,Routinely Available,No,Low,False
+622,METR3,,Menyanthes trifoliata,,Medium,Moderate,,0.8,No,None,No,Yes,100.0,High,4.8,6.5,12.0,55.0,10.0,Intermediate,-33.0,Routinely Available,Yes,,False
+623,MEVI3,,Mertensia virginica,,,Moderate,,2.3,No,None,No,Yes,100.0,High,4.5,8.0,26.0,54.0,4.0,Tolerant,-28.0,Routinely Available,Yes,Medium,False
+624,MEGL8,,Metasequoia glyptostroboides,,High,Rapid,60.0,100.0,No,None,No,Yes,200.0,High,6.2,8.4,24.0,55.0,48.0,Intolerant,-13.0,Routinely Available,Yes,,True
+625,MEPO5,,Metrosideros polymorpha,,High,Slow,30.0,65.0,Yes,None,Yes,Yes,320.0,Medium,4.3,5.7,20.0,450.0,24.0,Intolerant,22.0,Routinely Available,Yes,,False
+626,MISC,,Mikania scandens,STATE,Medium,Rapid,,1.0,No,None,No,Yes,110.0,Medium,5.7,8.7,30.0,60.0,16.0,Tolerant,-38.0,Routinely Available,Yes,High,False
+627,MIAL2,,Mimulus alatus,,,Rapid,,2.3,No,None,No,Yes,150.0,High,6.2,7.8,24.0,60.0,2.0,Tolerant,-23.0,Routinely Available,Yes,High,False
+628,MICA3,,Mimulus cardinalis,,Medium,Moderate,,2.5,No,None,No,Yes,120.0,High,6.0,7.2,24.0,45.0,6.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+629,MIGU,,Mimulus guttatus,,Medium,Rapid,,2.5,No,None,Yes,Yes,110.0,High,6.0,8.0,10.0,24.0,12.0,Tolerant,-38.0,Routinely Available,Yes,Low,True
+630,MIPR,,Mimulus primuloides,,Medium,Moderate,,1.5,No,None,No,Yes,100.0,High,6.0,7.2,24.0,60.0,8.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+631,MISI,,Miscanthus sinensis,SEEPPC,Medium,Moderate,,5.0,No,None,Yes,Yes,120.0,Medium,4.6,7.5,24.0,55.0,14.0,Intolerant,-18.0,Routinely Available,Yes,Low,False
+632,MOFI,,Monarda fistulosa,NE&GP,,Moderate,,4.9,No,None,No,Yes,150.0,High,6.0,8.0,20.0,60.0,4.0,Intermediate,-32.0,Routinely Available,Yes,Medium,True
+633,MOCA6,,Morella californica,,High,Moderate,30.0,33.0,Yes,Low,Yes,Yes,240.0,Medium,6.0,7.5,40.0,70.0,20.0,Intolerant,22.0,Routinely Available,Yes,Low,False
+634,MOCA7,,Morella caroliniensis,,,Moderate,7.0,7.0,Yes,None,Yes,Yes,180.0,Medium,4.5,7.0,44.0,60.0,12.0,Tolerant,-13.0,Routinely Available,Yes,Low,False
+635,MOCE2,,Morella cerifera,,High,Moderate,10.0,10.0,Yes,None,Yes,Yes,155.0,High,5.4,9.1,34.0,60.0,20.0,Intolerant,-3.0,Routinely Available,Yes,Low,False
+636,MOIN,,Morella inodora,,,Moderate,23.0,23.0,Yes,None,Yes,Yes,240.0,Medium,4.0,7.5,52.0,64.0,12.0,Tolerant,17.0,Routinely Available,Yes,Low,False
+637,MOPE6,,Morella pensylvanica,,High,Slow,9.0,12.0,No,Medium,Yes,Yes,140.0,Medium,5.5,7.8,32.0,65.0,20.0,Intolerant,-28.0,Routinely Available,No,Low,False
+638,MOCI3,,Morinda citrifolia,,Low,Moderate,20.0,20.0,Yes,High,Yes,Yes,365.0,Medium,5.5,7.0,35.0,100.0,24.0,Intermediate,36.0,Routinely Available,Yes,,True
+639,MOAL,,Morus alba,"N'EAST, WI",High,Moderate,30.0,50.0,No,None,Yes,Yes,130.0,Low,5.0,7.0,30.0,60.0,24.0,Intermediate,-18.0,Routinely Available,Yes,Low,True
+640,MORU2,,Morus rubra,,High,Moderate,45.0,70.0,No,None,Yes,Yes,140.0,Medium,5.0,7.0,35.0,60.0,24.0,Tolerant,-33.0,Routinely Available,Yes,Low,False
+641,MUCA2,,Muhlenbergia capillaris,,Medium,Moderate,,3.0,No,None,Yes,Yes,120.0,High,5.8,6.8,30.0,90.0,9.0,Intolerant,7.0,Routinely Available,Yes,Low,False
+642,MUGL3,,Muhlenbergia glomerata,,Medium,Moderate,,3.0,No,None,No,Yes,100.0,Medium,5.3,7.5,30.0,50.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+643,MUME2,,Muhlenbergia mexicana,,Medium,Moderate,,3.0,No,None,No,Yes,100.0,Medium,5.5,7.5,20.0,50.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+644,MURI2,,Muhlenbergia rigens,,High,Moderate,,4.5,No,None,Yes,Yes,334.0,Low,5.5,7.5,10.0,18.0,14.0,Intermediate,23.0,Routinely Available,Yes,Low,False
+645,MUWR,,Muhlenbergia wrightii,,Medium,Moderate,,2.0,No,None,Yes,Yes,120.0,Medium,5.8,7.5,13.0,20.0,14.0,Intolerant,-18.0,Routinely Available,Yes,High,False
+646,MYSC,,Myosotis scorpioides,WI,Medium,Moderate,,1.5,No,None,No,Yes,130.0,High,5.5,7.5,24.0,55.0,8.0,Intermediate,-33.0,Routinely Available,Yes,,False
+647,MYGA,,Myrica gale,,,Moderate,7.0,6.0,No,Low,No,Yes,95.0,Medium,5.0,7.8,30.0,50.0,14.0,Tolerant,-33.0,Routinely Available,Yes,,True
+648,NAFL,,Najas flexilis,,Low,Rapid,,2.5,No,None,Yes,Yes,,High,6.5,7.5,,,,Intermediate,47.0,Routinely Available,Yes,,False
+649,NADO,,Nandina domestica,FLEPPC,Medium,Rapid,8.0,8.0,Yes,None,Yes,Yes,165.0,High,4.5,6.0,35.0,55.0,20.0,Tolerant,2.0,Routinely Available,Yes,Low,True
+650,NAVI4,,Nassella viridula,,Medium,Rapid,,2.0,No,None,No,Yes,90.0,Low,6.6,8.4,15.0,24.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+651,NEAR5,,Nekemias arborea,SWSS,,,,,,,,,,,,,,,,,,,,,False
+652,NEAR5,AMAR5,Ampelopsis arborea,SWSS,,Rapid,,0.1,No,None,Yes,Yes,110.0,Medium,4.0,8.0,35.0,60.0,6.0,Tolerant,-13.0,Routinely Available,Yes,Medium,True
+653,NELU,,Nelumbo lutea,STATE,Medium,Moderate,,3.0,No,None,Yes,Yes,130.0,High,4.6,8.7,,,12.0,Intolerant,-36.0,Routinely Available,Yes,,False
+654,NEWI2,,Neonotonia wightii,,Low,Moderate,,2.5,Yes,High,Yes,Yes,350.0,Medium,5.5,7.8,15.0,80.0,12.0,Intermediate,50.0,Routinely Available,Yes,High,False
+655,NEOL,,Nerium oleander,,High,Rapid,12.0,12.0,Yes,None,Yes,Yes,230.0,Low,5.5,7.8,14.0,60.0,16.0,Intolerant,14.0,Routinely Available,Yes,,True
+656,NIOC2,,Nitrophila occidentalis,,High,Moderate,,1.0,No,None,No,Yes,165.0,Medium,7.0,10.0,8.0,16.0,10.0,Intolerant,-13.0,Routinely Available,Yes,,False
+657,NULUP,,Nuphar lutea ssp. polysepala,,Medium,Rapid,,4.0,No,None,Yes,Yes,120.0,High,5.0,8.0,10.0,40.0,12.0,Intolerant,-62.0,Routinely Available,Yes,Medium,False
+658,NYME,,Nymphaea mexicana,STATE,Medium,Moderate,,,No,None,No,Yes,205.0,High,5.0,9.0,,,12.0,Intolerant,-2.0,Routinely Available,No,High,False
+659,NYAQ2,,Nyssa aquatica,,High,Moderate,30.0,100.0,No,None,Yes,Yes,231.0,High,4.3,5.7,40.0,60.0,28.0,Intolerant,-23.0,Routinely Available,Yes,Medium,True
+660,NYBI,,Nyssa biflora,,High,Moderate,36.0,115.0,No,None,No,Yes,230.0,High,4.5,5.7,40.0,60.0,34.0,Intolerant,-18.0,Routinely Available,Yes,Medium,False
+661,NYOG,,Nyssa ogeche,,High,Rapid,40.0,50.0,No,None,Yes,Yes,270.0,High,4.5,6.5,45.0,60.0,24.0,Intolerant,-8.0,Routinely Available,Yes,,True
+662,NYSY,,Nyssa sylvatica,,High,Moderate,30.0,95.0,No,None,Yes,Yes,140.0,Medium,4.5,6.0,40.0,60.0,30.0,Tolerant,-18.0,Routinely Available,Yes,Medium,True
+663,OEEL,,Oenothera elata,,Medium,Moderate,,5.0,No,None,Yes,Yes,120.0,High,5.5,7.5,10.0,25.0,8.0,Intolerant,-23.0,Routinely Available,Yes,Low,False
+664,ONVI,,Onobrychis viciifolia,,Low,Moderate,,2.5,No,Medium,Yes,Yes,90.0,Medium,6.0,8.5,10.0,45.0,14.0,Intolerant,-40.0,Routinely Available,Yes,High,False
+665,OPFI,,Opuntia ficus-indica,,Low,Slow,10.0,10.0,Yes,None,Yes,Yes,200.0,Low,7.0,8.5,8.0,15.0,6.0,Intolerant,-3.0,Routinely Available,Yes,Low,False
+666,OSCI,,Osmunda cinnamomea,,,Moderate,,4.9,No,None,No,Yes,100.0,Medium,4.5,7.0,40.0,60.0,12.0,Tolerant,-33.0,Routinely Available,No,Low,False
+667,OSCL2,,Osmunda claytoniana,,High,Moderate,,4.0,No,None,No,Yes,110.0,High,4.0,6.0,32.0,55.0,12.0,Tolerant,-38.0,Routinely Available,No,,False
+668,OSRE,,Osmunda regalis,,High,Moderate,,6.0,No,None,Yes,Yes,110.0,High,4.0,6.0,32.0,55.0,16.0,Tolerant,-38.0,Routinely Available,Yes,,False
+669,OSRES,,Osmunda regalis var. spectabilis,,,Rapid,,4.5,No,None,Yes,Yes,110.0,Medium,4.3,5.2,35.0,60.0,14.0,Tolerant,-33.0,Routinely Available,Yes,,False
+670,OSAN,,Osteomeles anthyllidifolia,,High,Slow,12.0,12.0,Yes,None,Yes,Yes,365.0,Medium,5.5,7.0,35.0,80.0,24.0,Intermediate,35.0,Routinely Available,Yes,,False
+671,OSVI,,Ostrya virginiana,,High,Slow,20.0,45.0,No,None,Yes,Yes,100.0,Low,4.2,7.6,18.0,60.0,16.0,Tolerant,-38.0,Routinely Available,Yes,Medium,True
+672,OXAR,,Oxydendrum arboreum,,High,Slow,20.0,35.0,No,None,Yes,Yes,150.0,Low,4.0,6.5,30.0,40.0,30.0,Tolerant,-13.0,Routinely Available,Yes,Medium,True
+673,OXDI3,,Oxyria digyna,,Low,Moderate,,1.0,No,None,Yes,Yes,100.0,Medium,6.0,8.0,30.0,60.0,10.0,Intermediate,-43.0,Routinely Available,Yes,,False
+674,PATE11,,Pachysandra terminalis,,Medium,Slow,,0.8,Yes,None,Yes,Yes,100.0,High,5.5,7.5,36.0,60.0,12.0,Tolerant,-28.0,Routinely Available,No,Low,False
+675,PAAU3,,Packera aurea,,,Moderate,,3.9,No,None,No,Yes,120.0,High,4.5,8.5,15.0,55.0,6.0,Tolerant,-43.0,Routinely Available,Yes,Medium,False
+676,PAAM2,,Panicum amarum,,Medium,Moderate,,5.0,No,None,Yes,Yes,180.0,Medium,5.0,7.5,18.0,60.0,16.0,Intolerant,-18.0,Routinely Available,Yes,Low,False
+677,PAAN4,,Panicum antidotale,STATE,Medium,Rapid,,6.0,No,None,No,Yes,180.0,High,6.0,8.0,15.0,24.0,18.0,Intolerant,2.0,Routinely Available,Yes,Medium,False
+678,PACO2,,Panicum coloratum,,Low,Rapid,,3.5,No,None,No,Yes,190.0,Medium,6.5,8.5,19.0,36.0,16.0,Intolerant,-23.0,Routinely Available,Yes,Medium,False
+679,PADI,,Panicum dichotomiflorum,"KY, N'EAST, NE&GP, SWSS, WSWS",,Rapid,,3.3,No,None,Yes,Yes,100.0,High,4.8,7.0,20.0,65.0,6.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+680,PAMI2,,Panicum miliaceum,"N'EAST, NE&GP, STATE, SWSS, WSWS",Medium,Rapid,,3.0,No,None,No,Yes,120.0,Low,5.8,6.8,25.0,50.0,10.0,Intolerant,47.0,Routinely Available,Yes,Low,False
+681,PAOB,,Panicum obtusum,,Medium,Rapid,,2.0,No,None,Yes,Yes,150.0,High,4.8,7.0,8.0,50.0,10.0,Intermediate,-23.0,Routinely Available,Yes,Low,False
+682,PAVI2,,Panicum virgatum,SWSS,Medium,Rapid,,5.0,No,None,Yes,Yes,120.0,Medium,4.5,8.0,12.0,60.0,12.0,Intolerant,-43.0,Routinely Available,Yes,Medium,True
+683,PAQU2,,Parthenocissus quinquefolia,"N'EAST, SWSS",High,Rapid,,1.0,No,None,No,Yes,130.0,Low,5.0,7.5,32.0,60.0,16.0,Intermediate,-28.0,Routinely Available,Yes,Medium,True
+684,PATR6,,Parthenocissus tricuspidata,,High,Rapid,,2.0,No,None,Yes,Yes,110.0,High,5.0,6.5,35.0,60.0,14.0,Tolerant,-28.0,Routinely Available,Yes,Low,True
+685,PASM,,Pascopyrum smithii,,Medium,Rapid,,2.0,No,None,No,Yes,90.0,Medium,4.5,9.0,8.0,36.0,20.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+686,PADI3,,Paspalum dilatatum,"N'EAST, SWSS, WSWS",Medium,Moderate,,3.0,No,None,No,Yes,165.0,High,4.9,6.5,35.0,60.0,6.0,Intermediate,-3.0,Routinely Available,Yes,Medium,False
+687,PADI6,,Paspalum distichum,,Medium,Rapid,,0.9,No,None,No,Yes,220.0,High,4.9,8.9,30.0,64.0,4.0,Intolerant,-13.0,Routinely Available,Yes,High,False
+688,PANOS,,Paspalum notatum var. saurae,,Medium,Rapid,,2.0,Yes,None,Yes,Yes,210.0,Low,4.5,6.5,36.0,65.0,20.0,Intermediate,-3.0,Routinely Available,Yes,High,False
+689,PAVA,,Paspalum vaginatum,,Low,Moderate,,0.1,No,None,No,Yes,269.0,High,5.1,6.7,40.0,60.0,6.0,Intolerant,15.0,Routinely Available,Yes,,False
+690,PATO2,,Paulownia tomentosa,SEEPPC,High,Rapid,60.0,70.0,No,None,Yes,Yes,180.0,Medium,4.5,7.5,30.0,55.0,36.0,Intolerant,-8.0,Routinely Available,Yes,,True
+691,PEGR2,,Pedicularis groenlandica,,Medium,Moderate,,2.5,No,None,No,Yes,90.0,High,5.8,7.2,10.0,50.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+692,PEVI,,Peltandra virginica,,,Slow,,2.3,No,None,Yes,Yes,110.0,High,5.0,8.8,35.0,60.0,16.0,Intermediate,-23.0,Routinely Available,Yes,,False
+693,PEAL,,Pennisetum alopecuroides,,Medium,Moderate,,3.0,No,None,Yes,Yes,160.0,Low,5.0,7.0,32.0,60.0,10.0,Intolerant,-18.0,Routinely Available,Yes,Low,False
+694,PECI,,Pennisetum ciliare,STATE,Medium,Rapid,,3.0,No,None,Yes,Yes,240.0,Low,6.0,8.5,14.0,35.0,20.0,Intolerant,7.0,Routinely Available,Yes,High,False
+695,PEFL18,,Pennisetum flaccidum,,Medium,Moderate,,3.8,No,None,Yes,Yes,200.0,Medium,5.5,7.0,32.0,50.0,16.0,Intolerant,2.0,Routinely Available,Yes,Medium,False
+696,PEGL2,,Pennisetum glaucum,,Medium,Rapid,,6.0,No,None,Yes,Yes,200.0,Low,5.5,6.8,30.0,50.0,10.0,Intolerant,-35.0,Routinely Available,Yes,High,False
+697,PEPU2,,Pennisetum purpureum,FLEPPC,Medium,Rapid,,10.0,No,None,Yes,Yes,365.0,Medium,5.2,8.7,36.0,100.0,14.0,Intolerant,17.0,Routinely Available,Yes,Medium,False
+698,PESE3,,Pennisetum setaceum,"Cal-IPC, HEAR, STATE",High,Moderate,,3.5,No,None,Yes,Yes,280.0,Low,6.0,7.5,18.0,40.0,12.0,Intolerant,17.0,Routinely Available,Yes,Low,False
+699,PECY2,,Penstemon cyananthus,,Medium,Slow,,2.5,No,None,Yes,Yes,110.0,Medium,5.8,7.4,16.0,35.0,14.0,Intolerant,-23.0,Routinely Available,Yes,Low,False
+700,PEDI,,Penstemon digitalis,,High,Moderate,,4.0,No,None,Yes,Yes,110.0,Low,5.5,7.0,30.0,55.0,8.0,Tolerant,-38.0,Routinely Available,Yes,Medium,False
+701,PERY,,Penstemon rydbergii,,Medium,Moderate,,3.0,No,None,No,Yes,130.0,Low,6.0,8.0,20.0,30.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+702,PEST2,,Penstemon strictus,,Medium,Moderate,,2.0,No,None,Yes,No,120.0,Low,6.0,8.0,14.0,26.0,10.0,Intolerant,-33.0,Routinely Available,Yes,Medium,False
+703,PESE6,,Penthorum sedoides,,,Slow,,2.6,No,None,No,No,120.0,Medium,5.0,7.0,30.0,50.0,14.0,Intermediate,-28.0,Routinely Available,Yes,,True
+704,PEBO,,Persea borbonia,,High,Moderate,50.0,70.0,Yes,None,No,Yes,200.0,High,5.0,6.7,40.0,80.0,24.0,Tolerant,7.0,Routinely Available,Yes,Medium,True
+705,PHAQ,,Phalaris aquatica,Cal-IPC,Medium,Rapid,,4.0,No,None,No,Yes,240.0,High,5.4,7.5,16.0,40.0,12.0,Intolerant,7.0,Routinely Available,Yes,High,False
+706,PHAR3,,Phalaris arundinacea,"N'EAST, NE&GP, SEEPPC, STATE, SWSS, WI, WSWS",Medium,Rapid,,5.0,No,None,No,Yes,120.0,High,5.5,8.0,30.0,65.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+707,PHCO7,,Philadelphus coronarius,,Medium,Moderate,8.0,8.0,No,None,No,No,145.0,Medium,5.3,7.5,35.0,50.0,24.0,Intolerant,-18.0,Routinely Available,Yes,High,True
+708,PHAL2,,Phleum alpinum,,Low,Slow,,1.4,No,None,No,Yes,90.0,Medium,5.0,7.5,16.0,60.0,10.0,Intermediate,-43.0,Routinely Available,Yes,High,False
+709,PHPR3,,Phleum pratense,N'EAST,Low,Rapid,,3.0,No,None,No,Yes,90.0,Medium,5.0,7.8,30.0,65.0,10.0,Intermediate,-43.0,Routinely Available,Yes,High,True
+710,PHDI3,,Phlox diffusa,,High,Slow,,0.5,No,None,Yes,Yes,120.0,Low,6.5,8.5,20.0,40.0,15.0,Tolerant,-13.0,Routinely Available,Yes,Low,False
+711,PHDI5,,Phlox divaricata,,High,Rapid,,3.0,No,None,Yes,Yes,100.0,Medium,5.5,7.2,32.0,60.0,14.0,Intermediate,-33.0,Routinely Available,No,Low,False
+712,PHGL4,,Phlox glaberrima,,High,Moderate,,3.0,No,None,No,Yes,110.0,High,5.8,7.0,32.0,50.0,8.0,Intermediate,-28.0,Routinely Available,Yes,Low,False
+713,PHSU3,,Phlox subulata,,Medium,Rapid,,0.5,No,None,Yes,Yes,100.0,High,5.7,7.5,34.0,60.0,8.0,Intermediate,-28.0,Routinely Available,No,Low,False
+714,PHAU7,,Phragmites australis,"N'EAST, SEEPPC, STATE",High,Rapid,,13.0,No,Low,Yes,Yes,110.0,Medium,4.5,8.7,12.0,60.0,20.0,Intolerant,-38.0,Routinely Available,No,Low,False
+715,PHNO2,,Phyla nodiflora,,,Rapid,,0.2,No,None,Yes,Yes,110.0,Low,6.0,8.5,10.0,40.0,6.0,Intermediate,-18.0,Routinely Available,Yes,,False
+716,PHCA11,,Physocarpus capitatus,,High,Rapid,8.0,8.0,No,None,Yes,Yes,90.0,Low,6.5,7.0,20.0,80.0,20.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+717,PHOP,,Physocarpus opulifolius,,High,Slow,10.0,10.0,No,None,Yes,Yes,100.0,Low,4.5,6.5,35.0,60.0,14.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+718,PIAB,,Picea abies,,High,Slow,35.0,130.0,Yes,None,No,Yes,100.0,Medium,5.0,7.0,24.0,60.0,28.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+719,PIEN,,Picea engelmannii,,High,Slow,30.0,120.0,Yes,None,No,Yes,30.0,Medium,6.0,8.0,21.0,160.0,20.0,Tolerant,-50.0,Routinely Available,Yes,Medium,True
+720,PIGL,,Picea glauca,,High,Slow,30.0,100.0,Yes,None,Yes,Yes,60.0,Medium,4.0,8.2,7.0,50.0,30.0,Intermediate,-65.0,Routinely Available,Yes,Low,True
+721,PIMA,,Picea mariana,,High,Slow,20.0,65.0,Yes,None,Yes,Yes,60.0,High,4.7,6.5,5.0,60.0,16.0,Tolerant,-79.0,Routinely Available,Yes,Medium,True
+722,PIPU,,Picea pungens,,High,Slow,20.0,100.0,Yes,None,Yes,Yes,120.0,Medium,5.5,7.8,20.0,45.0,18.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+723,PIRU,,Picea rubens,,High,Moderate,25.0,110.0,Yes,None,Yes,Yes,90.0,Medium,4.0,5.8,28.0,52.0,13.0,Tolerant,-47.0,Routinely Available,Yes,Low,True
+724,PISI,,Picea sitchensis,,High,Moderate,40.0,200.0,Yes,None,Yes,Yes,111.0,Medium,3.9,5.7,22.0,225.0,30.0,Tolerant,-33.0,Routinely Available,Yes,Low,True
+725,PIJA3,,Pieris japonica,,High,Slow,8.0,12.0,Yes,None,No,Yes,200.0,Medium,4.2,5.5,35.0,55.0,12.0,Tolerant,2.0,Routinely Available,No,Low,True
+726,PIAR,,Pinus aristata,,High,Slow,15.0,40.0,Yes,None,Yes,Yes,140.0,Low,5.7,7.5,30.0,60.0,30.0,Intolerant,-33.0,Routinely Available,Yes,,False
+727,PICA15,,Pinus canariensis,,High,Slow,60.0,98.0,Yes,None,Yes,Yes,160.0,Medium,7.0,8.0,10.0,40.0,12.0,Intolerant,32.0,Routinely Available,Yes,Low,True
+728,PICO,,Pinus contorta,,High,Rapid,30.0,99.0,Yes,None,Yes,Yes,100.0,Medium,6.2,7.5,18.0,25.0,20.0,Intolerant,-70.0,Routinely Available,Yes,Low,True
+729,PICOC,,Pinus contorta var. contorta,,High,Rapid,25.0,50.0,Yes,None,Yes,Yes,150.0,Medium,5.5,8.5,20.0,200.0,20.0,Intolerant,-24.0,Routinely Available,Yes,Low,False
+730,PICO3,,Pinus coulteri,,High,Slow,20.0,80.0,Yes,None,No,Yes,220.0,Medium,5.5,7.0,35.0,60.0,40.0,Intolerant,12.0,Routinely Available,Yes,Low,True
+731,PIEC2,,Pinus echinata,,High,Rapid,60.0,100.0,Yes,None,Yes,Yes,180.0,Medium,4.0,6.0,34.0,65.0,24.0,Intolerant,-18.0,Routinely Available,Yes,Low,True
+732,PIED,,Pinus edulis,,High,Slow,25.0,50.0,Yes,None,Yes,Yes,200.0,Low,6.5,8.5,9.0,27.0,20.0,Intolerant,-31.0,Routinely Available,Yes,Low,True
+733,PIEL,,Pinus elliottii,,High,Rapid,60.0,100.0,Yes,None,No,Yes,250.0,Medium,4.0,6.4,40.0,80.0,40.0,Intolerant,-18.0,Routinely Available,Yes,Low,True
+734,PIGL2,,Pinus glabra,,High,Rapid,30.0,90.0,Yes,None,Yes,Yes,240.0,Medium,3.8,5.6,35.0,66.0,30.0,Tolerant,-2.0,Routinely Available,Yes,Low,True
+735,PIJE,,Pinus jeffreyi,,High,Rapid,40.0,180.0,Yes,None,Yes,Yes,120.0,Medium,5.6,8.4,20.0,80.0,40.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+736,PILA,,Pinus lambertiana,,High,Rapid,40.0,229.0,Yes,None,Yes,Yes,150.0,Medium,5.6,8.0,25.0,90.0,40.0,Intermediate,-28.0,Routinely Available,Yes,Medium,True
+737,PIMO3,,Pinus monticola,,High,Rapid,35.0,200.0,Yes,None,Yes,Yes,120.0,Medium,5.5,7.0,15.0,30.0,40.0,Intermediate,-33.0,Routinely Available,Yes,Low,True
+738,PIMU80,,Pinus mugo,,High,Slow,4.0,10.0,Yes,None,Yes,Yes,90.0,Low,5.5,8.0,35.0,60.0,16.0,Intolerant,-38.0,Routinely Available,No,,True
+739,PINI,,Pinus nigra,,High,Moderate,35.0,120.0,Yes,None,No,Yes,100.0,Medium,5.5,7.5,35.0,50.0,40.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+740,PIPO,,Pinus ponderosa,,High,Moderate,40.0,223.0,Yes,None,Yes,Yes,150.0,Medium,5.0,9.0,15.0,25.0,20.0,Intolerant,-36.0,Routinely Available,Yes,Low,True
+741,PIPU5,,Pinus pungens,,High,,25.0,50.0,Yes,None,Yes,Yes,165.0,Low,4.5,7.0,36.0,60.0,24.0,Intolerant,-18.0,Routinely Available,Yes,Low,True
+742,PIRA2,,Pinus radiata,HEAR,High,Rapid,65.0,120.0,Yes,None,Yes,Yes,300.0,High,4.5,5.2,16.0,30.0,30.0,Intermediate,23.0,Routinely Available,Yes,,True
+743,PIRE,,Pinus resinosa,,High,Rapid,30.0,80.0,Yes,None,Yes,Yes,80.0,Low,4.5,6.0,15.0,60.0,40.0,Intolerant,-43.0,Routinely Available,Yes,Low,True
+744,PIRI,,Pinus rigida,,High,Rapid,20.0,80.0,Yes,None,Yes,Yes,112.0,Low,3.5,5.1,37.0,56.0,20.0,Intolerant,-43.0,Routinely Available,Yes,Low,False
+745,PISE,,Pinus serotina,,Medium,Moderate,25.0,80.0,Yes,None,No,Yes,190.0,Medium,4.8,6.8,40.0,60.0,20.0,Intolerant,-3.0,Routinely Available,Yes,Low,False
+746,PIST,,Pinus strobus,,High,Rapid,40.0,150.0,Yes,None,No,Yes,90.0,Medium,4.0,6.5,20.0,80.0,40.0,Intermediate,-33.0,Routinely Available,Yes,Medium,True
+747,PISY,,Pinus sylvestris,,High,Rapid,30.0,110.0,Yes,None,Yes,Yes,120.0,Medium,5.0,7.5,24.0,45.0,20.0,Intolerant,-36.0,Routinely Available,Yes,Low,True
+748,PITA,,Pinus taeda,HEAR,High,Rapid,50.0,100.0,Yes,None,Yes,Yes,150.0,High,4.0,7.0,35.0,65.0,35.0,Intolerant,-8.0,Routinely Available,Yes,Low,True
+749,PITH2,,Pinus thunbergii,,,,,,,,,,,,,,,,,,,,,,True
+750,PITH2,PITH3,Pinus thunbergiana,,High,Moderate,50.0,25.0,Yes,None,Yes,Yes,155.0,Medium,5.5,8.0,30.0,60.0,24.0,Intolerant,-3.0,Routinely Available,Yes,Low,False
+751,PIVI2,,Pinus virginiana,,High,Rapid,25.0,70.0,Yes,None,Yes,Yes,165.0,Low,4.5,7.5,32.0,65.0,20.0,Intolerant,-23.0,Routinely Available,Yes,Low,True
+752,PITO2,,Pittosporum tobira,,High,Moderate,20.0,20.0,Yes,None,Yes,Yes,220.0,Medium,5.5,7.0,24.0,60.0,18.0,Intermediate,7.0,Routinely Available,No,,True
+753,PIVI5,,Pittosporum viridiflorum,,High,Moderate,25.0,25.0,Yes,None,Yes,Yes,220.0,Medium,5.5,7.0,24.0,60.0,16.0,Intermediate,7.0,Routinely Available,No,,False
+754,PLAQ,,Planera aquatica,,,Slow,40.0,50.0,No,None,No,Yes,180.0,Medium,5.0,8.5,35.0,55.0,18.0,Tolerant,-3.0,Routinely Available,Yes,Low,False
+755,PLMA2,,Plantago major,"N'EAST, WSWS",Medium,Moderate,,0.3,No,None,Yes,Yes,85.0,Medium,4.8,7.3,16.0,60.0,4.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+756,PLHI,,Platanus ×hispanica,,,,,,,,,,,,,,,,,,,,,,False
+757,PLHI,PLHY3,Platanus hybrida,,High,Rapid,65.0,100.0,No,None,Yes,Yes,160.0,Medium,5.5,7.5,24.0,60.0,32.0,Intolerant,-23.0,Routinely Available,Yes,,False
+758,PLOC,,Platanus occidentalis,,High,Rapid,65.0,100.0,No,None,Yes,Yes,100.0,High,4.9,6.5,30.0,80.0,30.0,Intermediate,-34.0,Routinely Available,Yes,Low,True
+759,PLRA,,Platanus racemosa,,High,Slow,20.0,75.0,No,None,Yes,Yes,220.0,Medium,5.8,7.3,14.0,20.0,36.0,Intolerant,7.0,Routinely Available,Yes,Low,False
+760,PLWR2,,Platanus wrightii,,High,Slow,20.0,80.0,No,None,Yes,Yes,160.0,Low,5.8,7.5,16.0,24.0,36.0,Intolerant,-8.0,Routinely Available,Yes,Low,False
+761,PLOR80,,Platycladus orientalis,,High,Rapid,35.0,40.0,Yes,None,Yes,Yes,110.0,Medium,4.7,6.5,35.0,55.0,24.0,Intermediate,-28.0,Routinely Available,Yes,,True
+762,PLJA,,Pleuraphis jamesii,,Medium,Slow,,2.0,No,None,Yes,Yes,130.0,Low,6.6,8.4,6.0,18.0,12.0,Intolerant,-23.0,Routinely Available,Yes,High,False
+763,PLRI3,,Pleuraphis rigida,,Medium,Moderate,,3.0,Yes,None,Yes,Yes,220.0,Low,6.0,8.0,5.0,12.0,12.0,Intolerant,12.0,Routinely Available,Yes,Medium,False
+764,PLODO,,Pluchea odorata var. odorata,,,Moderate,,4.9,No,Low,No,Yes,140.0,Medium,4.5,7.0,10.0,40.0,14.0,Intolerant,-13.0,Routinely Available,Yes,,False
+765,POAN,,Poa annua,"N'EAST, NE&GP, SWSS, WSWS",Low,Rapid,,0.3,No,None,Yes,Yes,60.0,Medium,4.8,8.0,24.0,60.0,3.0,Intermediate,47.0,Routinely Available,Yes,Low,False
+766,POBU,,Poa bulbosa,WSWS,Low,Moderate,,1.5,No,None,Yes,Yes,100.0,Medium,5.0,7.2,12.0,40.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+767,POCO,,Poa compressa,WI,Medium,Moderate,,2.0,No,None,Yes,Yes,90.0,Medium,5.0,7.0,12.0,45.0,10.0,Tolerant,-38.0,Routinely Available,Yes,Medium,False
+768,POEM,,Poa eminens,,Low,Moderate,,2.0,No,None,No,No,120.0,,5.0,7.5,7.0,236.0,12.0,Intolerant,-52.0,Routinely Available,Yes,,False
+769,POGL,,Poa glauca,,Low,Moderate,,2.0,No,None,Yes,No,120.0,,,8.0,10.0,59.0,12.0,Intolerant,-40.0,Routinely Available,Yes,,False
+770,POPA2,,Poa palustris,,Medium,Moderate,,4.0,No,None,No,Yes,100.0,Medium,4.9,7.5,28.0,50.0,12.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+771,POPR,,Poa pratensis,"NE&GP, WI",Low,Moderate,,1.5,No,None,No,Yes,90.0,High,5.0,8.4,24.0,65.0,10.0,Intolerant,-38.0,Routinely Available,Yes,High,True
+772,POSE,,Poa secunda,,Medium,Moderate,,1.4,No,None,Yes,Yes,90.0,Low,6.0,8.0,8.0,16.0,10.0,Intermediate,-36.0,Routinely Available,Yes,Medium,False
+773,POTR2,,Poa trivialis,N'EAST,Medium,Moderate,,2.5,No,None,No,Yes,120.0,High,4.8,7.5,35.0,50.0,12.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+774,POAC,,Polemonium acutiflorum,,Medium,Rapid,,3.0,No,None,Yes,Yes,47.0,,5.0,7.8,9.0,276.0,12.0,Tolerant,-62.0,Routinely Available,Yes,,False
+775,POOC2,,Polemonium occidentale,,Medium,Moderate,,3.0,No,None,No,Yes,90.0,High,4.6,7.0,14.0,40.0,10.0,Tolerant,-43.0,Routinely Available,Yes,,False
+776,POAM8,,Polygonum amphibium,SWSS,,Moderate,,0.1,No,None,No,Yes,110.0,High,4.0,7.0,14.0,60.0,6.0,Intolerant,-23.0,Routinely Available,Yes,,False
+777,POBI5,,Polygonum bistorta,,Low,Moderate,,1.0,No,None,Yes,Yes,140.0,Medium,5.5,7.0,36.0,55.0,16.0,Intermediate,-18.0,Routinely Available,Yes,,False
+778,POHY,,Polygonum hydropiper,,Low,Rapid,,1.6,No,None,Yes,Yes,120.0,High,5.0,7.5,24.0,60.0,6.0,Intolerant,52.0,Routinely Available,Yes,,False
+779,POHY2,,Polygonum hydropiperoides,,,Slow,,,No,None,No,Yes,95.0,Medium,4.5,8.8,12.0,50.0,10.0,Intolerant,32.0,Routinely Available,Yes,Low,False
+780,POPE2,,Polygonum pensylvanicum,"KY, N'EAST, NE&GP, SWSS",Medium,Moderate,,3.9,No,None,Yes,Yes,95.0,Medium,4.0,8.5,12.0,60.0,14.0,Intolerant,32.0,Routinely Available,Yes,,False
+781,POPE3,,Polygonum persicaria,"SEEPPC, SWSS, WSWS",,Rapid,,3.2,No,None,Yes,Yes,110.0,Medium,4.0,8.5,14.0,60.0,14.0,Intolerant,32.0,Routinely Available,Yes,,False
+782,POPU5,,Polygonum punctatum,,,Moderate,,3.2,No,None,Yes,Yes,110.0,Medium,6.0,8.7,12.0,60.0,14.0,Intolerant,32.0,Routinely Available,Yes,,False
+783,POSA5,,Polygonum sagittatum,,,Rapid,,1.0,No,None,Yes,Yes,110.0,Medium,4.0,8.5,40.0,60.0,6.0,Intolerant,-13.0,Routinely Available,Yes,,False
+784,POMO5,,Polypogon monspeliensis,WSWS,Low,Rapid,,1.7,No,None,Yes,Yes,90.0,High,4.8,7.8,12.0,55.0,10.0,Intolerant,52.0,Routinely Available,Yes,Low,False
+785,POCO14,,Pontederia cordata,SWSS,,Moderate,,3.2,No,None,Yes,Yes,110.0,High,4.9,8.7,40.0,60.0,10.0,Intolerant,-23.0,Routinely Available,Yes,,False
+786,POAL7,,Populus alba,"SEEPPC, WI",High,Rapid,80.0,100.0,No,None,Yes,Yes,90.0,High,4.9,7.0,24.0,55.0,24.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+787,POAN3,,Populus angustifolia,,High,Rapid,60.0,60.0,No,None,Yes,Yes,115.0,High,6.0,7.5,20.0,35.0,12.0,Intolerant,-28.0,Routinely Available,Yes,Medium,False
+788,POBA2,,Populus balsamifera,,High,Rapid,35.0,80.0,No,None,Yes,Yes,75.0,High,4.5,7.0,6.0,70.0,30.0,Intolerant,-79.0,Routinely Available,Yes,Medium,True
+789,POBAT,,Populus balsamifera ssp. trichocarpa,,High,Rapid,40.0,100.0,No,None,Yes,Yes,70.0,High,5.5,8.0,10.0,125.0,30.0,Intolerant,-53.0,Routinely Available,Yes,Medium,False
+790,PODE3,,Populus deltoides,N'EAST,High,Rapid,80.0,190.0,No,None,Yes,Yes,100.0,High,4.6,6.5,18.0,55.0,24.0,Intolerant,-43.0,Routinely Available,Yes,Medium,True
+791,PODEM,,Populus deltoides ssp. monilifera,,High,Rapid,70.0,85.0,No,None,Yes,Yes,90.0,High,5.0,7.0,10.0,35.0,24.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+792,POFR2,,Populus fremontii,,High,Rapid,50.0,90.0,No,None,Yes,Yes,165.0,High,6.0,8.0,20.0,26.0,32.0,Intolerant,-13.0,Routinely Available,Yes,Low,False
+793,POGR4,,Populus grandidentata,,Medium,Rapid,40.0,65.0,No,None,Yes,Yes,90.0,High,4.8,7.2,20.0,70.0,20.0,Intolerant,-43.0,Routinely Available,Yes,Medium,True
+794,PONI,,Populus nigra,,High,Rapid,80.0,190.0,No,None,Yes,Yes,160.0,High,5.0,8.5,20.0,50.0,32.0,Intolerant,-28.0,Routinely Available,No,Low,False
+795,POTR5,,Populus tremuloides,,Medium,Rapid,40.0,65.0,No,None,Yes,Yes,70.0,High,4.3,9.0,7.0,60.0,32.0,Intolerant,-70.0,Routinely Available,Yes,High,True
+796,POAM5,,Potamogeton amplifolius,,Medium,Rapid,,,No,None,No,No,120.0,High,5.5,7.0,12.0,55.0,0.0,Intolerant,-33.0,Routinely Available,Yes,,False
+797,PONO2,,Potamogeton nodosus,,Medium,Rapid,,,No,None,No,No,90.0,High,5.8,7.0,12.0,55.0,0.0,Intolerant,-38.0,Routinely Available,Yes,,False
+798,PORO2,,Potamogeton robbinsii,,Medium,Rapid,,,No,None,No,No,90.0,High,5.8,7.0,16.0,55.0,0.0,Intolerant,-38.0,Routinely Available,Yes,,False
+799,POGL9,,Potentilla glandulosa,,Medium,Moderate,,1.5,No,None,No,Yes,100.0,Low,7.0,8.0,8.0,35.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+800,POGR9,,Potentilla gracilis,,,Moderate,,2.4,No,None,Yes,Yes,100.0,Low,4.0,7.5,20.0,80.0,4.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+801,PRACM,,Prestoea acuminata var. montana,,,,30.0,70.0,No,None,Yes,Yes,365.0,,3.6,5.5,70.0,160.0,36.0,,40.0,Routinely Available,Yes,,False
+802,PRPU,,Prosopis pubescens,,High,Rapid,10.0,25.0,No,Low,Yes,Yes,200.0,Medium,7.5,9.0,6.0,15.0,24.0,Intermediate,-3.0,Routinely Available,Yes,High,False
+803,PRVU,,Prunella vulgaris,"N'EAST, NE&GP",Medium,Rapid,,1.5,No,None,Yes,Yes,115.0,Medium,5.4,8.0,16.0,55.0,10.0,Intermediate,-38.0,Routinely Available,Yes,,False
+804,PRAM,,Prunus americana,,Medium,Moderate,24.0,24.0,No,None,Yes,Yes,100.0,Medium,5.0,7.0,16.0,40.0,24.0,Intolerant,-38.0,Routinely Available,Yes,Medium,True
+805,PRAN3,,Prunus angustifolia,,Medium,Moderate,12.0,12.0,No,None,Yes,Yes,165.0,Medium,5.0,7.5,18.0,45.0,24.0,Intolerant,-28.0,Routinely Available,Yes,Medium,True
+806,PRMA2,,Prunus maritima,,High,Moderate,12.0,12.0,No,None,Yes,Yes,150.0,Medium,5.8,7.7,36.0,60.0,20.0,Intolerant,-33.0,Routinely Available,Yes,Medium,False
+807,PRPE2,,Prunus pensylvanica,,High,Rapid,25.0,30.0,No,None,Yes,Yes,90.0,Medium,4.3,7.3,16.0,80.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Medium,True
+808,PRPU3,,Prunus pumila,,Medium,Slow,6.0,6.0,No,None,Yes,Yes,125.0,Low,5.9,7.0,15.0,50.0,24.0,Tolerant,-33.0,Routinely Available,Yes,Low,True
+809,PRPUB,,Prunus pumila var. besseyi,,Medium,Moderate,3.0,3.0,No,None,Yes,Yes,100.0,Medium,5.3,7.5,12.0,24.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+810,PRSE2,,Prunus serotina,N'EAST,High,Rapid,40.0,80.0,No,None,Yes,Yes,120.0,Medium,4.0,7.5,21.0,50.0,36.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+811,PRTO80,,Prunus tomentosa,,High,Moderate,8.0,8.0,No,None,Yes,Yes,100.0,Medium,5.7,7.2,24.0,40.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+812,PRVI,,Prunus virginiana,"N'EAST, NE&GP",High,Rapid,15.0,25.0,No,None,Yes,Yes,120.0,Medium,5.2,8.4,13.0,65.0,20.0,Intolerant,-43.0,Routinely Available,Yes,High,True
+813,PRVID,,Prunus virginiana var. demissa,,High,Rapid,20.0,20.0,No,None,Yes,Yes,90.0,Medium,5.5,8.0,16.0,30.0,24.0,Intermediate,-38.0,Routinely Available,Yes,Medium,False
+814,PSJU3,,Psathyrostachys juncea,,Medium,Rapid,,3.0,No,None,No,Yes,90.0,Low,6.5,9.0,10.0,45.0,16.0,Intolerant,-43.0,Routinely Available,Yes,High,False
+815,PSSPS,,Pseudoroegneria spicata ssp. spicata,,Medium,Rapid,,3.0,No,None,Yes,Yes,90.0,Low,6.6,8.4,8.0,35.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+816,PSMA,,Pseudotsuga macrocarpa,,High,Moderate,24.0,75.0,No,None,Yes,Yes,200.0,Low,5.0,7.0,12.0,40.0,30.0,Intolerant,-13.0,Routinely Available,Yes,,False
+817,PSME,,Pseudotsuga menziesii,,High,Moderate,40.0,200.0,Yes,None,Yes,Yes,130.0,Medium,5.0,7.5,18.0,100.0,26.0,Intermediate,-33.0,Routinely Available,Yes,Low,True
+818,PSGU,,Psidium guajava,HEAR,Medium,Moderate,25.0,25.0,Yes,None,Yes,Yes,365.0,Medium,5.5,7.0,40.0,150.0,36.0,Intermediate,33.0,Routinely Available,Yes,Low,False
+819,PTAQ,,Pteridium aquilinum,SWSS,,Moderate,,6.6,No,None,Yes,Yes,90.0,Medium,4.5,7.0,16.0,60.0,10.0,Tolerant,-43.0,Routinely Available,Yes,Low,False
+820,PUNU2,,Puccinellia nuttalliana,,High,Slow,,0.8,No,None,Yes,Yes,110.0,Medium,6.5,8.5,24.0,45.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+821,PUGR2,,Punica granatum,,High,Slow,20.0,20.0,No,None,No,Yes,140.0,Medium,6.0,6.9,30.0,60.0,20.0,Intermediate,-13.0,Routinely Available,Yes,Low,True
+822,PUGL2,,Purshia glandulosa,,Medium,Slow,3.0,5.0,Yes,Low,Yes,Yes,200.0,Low,6.8,8.0,5.0,15.0,12.0,Intolerant,-13.0,Routinely Available,Yes,High,False
+823,PUTR2,,Purshia tridentata,,Medium,Moderate,6.0,6.0,No,Low,Yes,Yes,100.0,Low,5.6,8.4,8.0,20.0,20.0,Intermediate,-36.0,Routinely Available,Yes,High,False
+824,PYCO2,,Pyracantha coccinea,,High,Rapid,8.0,8.0,Yes,None,No,Yes,150.0,Medium,5.8,8.0,35.0,60.0,18.0,Intolerant,12.0,Routinely Available,Yes,Low,True
+825,PYCO,,Pyrus communis,,High,Rapid,40.0,50.0,No,None,No,Yes,175.0,Medium,5.2,6.7,35.0,55.0,30.0,Intolerant,-18.0,Routinely Available,Yes,High,True
+826,QUAG,,Quercus agrifolia,,High,Slow,25.0,70.0,Yes,None,Yes,Yes,220.0,Medium,5.5,7.5,20.0,60.0,36.0,Intolerant,7.0,Routinely Available,Yes,Medium,True
+827,QUAL,,Quercus alba,,High,Slow,25.0,100.0,No,None,Yes,Yes,145.0,Medium,4.5,6.8,30.0,80.0,48.0,Intermediate,-43.0,Routinely Available,Yes,Medium,True
+828,QUBI,,Quercus bicolor,,High,Rapid,30.0,100.0,No,None,Yes,Yes,120.0,High,4.3,6.5,36.0,48.0,40.0,Intermediate,-28.0,Routinely Available,Yes,Medium,True
+829,QUCH2,,Quercus chrysolepis,,High,Slow,30.0,90.0,Yes,None,Yes,Yes,160.0,Medium,4.5,7.5,6.0,110.0,42.0,Tolerant,11.0,Routinely Available,Yes,Medium,True
+830,QUFA,,Quercus falcata,,High,Moderate,35.0,75.0,No,None,Yes,Yes,175.0,Medium,4.8,7.0,40.0,80.0,36.0,Intermediate,-13.0,Routinely Available,Yes,Low,True
+831,QULA3,,Quercus laurifolia,,High,Rapid,28.0,70.0,No,None,Yes,Yes,220.0,Medium,4.2,6.5,40.0,70.0,36.0,Tolerant,-3.0,Routinely Available,Yes,High,True
+832,QULY,,Quercus lyrata,,High,Moderate,30.0,80.0,No,None,No,Yes,180.0,High,4.5,7.5,36.0,60.0,24.0,Intermediate,-23.0,Routinely Available,Yes,Medium,False
+833,QUMA2,,Quercus macrocarpa,,High,Slow,25.0,100.0,No,None,Yes,Yes,100.0,Medium,4.5,7.5,15.0,50.0,28.0,Intermediate,-38.0,Routinely Available,Yes,Medium,True
+834,QUMA3,,Quercus marilandica,,High,Slow,20.0,25.0,No,None,Yes,Yes,185.0,Low,4.6,5.6,17.0,48.0,24.0,Intolerant,-13.0,Routinely Available,Yes,Medium,False
+835,QUMI,,Quercus michauxii,,High,Moderate,35.0,80.0,No,None,No,Yes,180.0,Medium,4.5,6.5,40.0,70.0,28.0,Intolerant,-20.0,Routinely Available,Yes,Medium,False
+836,QUMO4,,Quercus montana,,,,,,,,,,,,,,,,,,,,,,False
+837,QUMO4,QUPR2,Quercus prinus,,High,Slow,25.0,73.0,No,None,Yes,Yes,120.0,Medium,4.5,6.5,32.0,80.0,36.0,Intermediate,-30.0,Routinely Available,Yes,Low,True
+838,QUNI,,Quercus nigra,,High,Rapid,30.0,90.0,No,None,No,Yes,190.0,High,4.8,7.3,35.0,70.0,40.0,Intolerant,-20.0,Routinely Available,Yes,Low,True
+839,QUPA5,,Quercus pagoda,,High,Moderate,60.0,120.0,No,None,No,Yes,210.0,Medium,4.5,6.0,40.0,70.0,36.0,Intolerant,-7.0,Routinely Available,Yes,Medium,True
+840,QUPA2,,Quercus palustris,,High,Rapid,40.0,100.0,No,None,No,Yes,120.0,High,4.5,6.5,32.0,60.0,30.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+841,QUPH,,Quercus phellos,,High,Rapid,60.0,100.0,No,None,No,Yes,180.0,High,4.5,6.5,40.0,70.0,12.0,Intolerant,-23.0,Routinely Available,Yes,High,True
+842,QURU,,Quercus rubra,,High,Moderate,36.0,81.0,No,None,Yes,Yes,100.0,Medium,4.3,7.3,30.0,80.0,36.0,Intermediate,-35.0,Routinely Available,Yes,Medium,True
+843,QUSH,,Quercus shumardii,,High,Moderate,35.0,100.0,No,None,Yes,Yes,120.0,Medium,5.0,7.6,25.0,70.0,40.0,Intolerant,-22.0,Routinely Available,Yes,Low,False
+844,QUST,,Quercus stellata,,High,Slow,25.0,60.0,No,None,Yes,Yes,165.0,Medium,4.8,6.5,22.0,80.0,36.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+845,QUTE,,Quercus texana,,High,Rapid,40.0,110.0,No,None,No,No,110.0,Medium,4.5,5.5,40.0,65.0,40.0,Intolerant,-18.0,Routinely Available,Yes,Medium,False
+846,QUVE,,Quercus velutina,,High,Moderate,25.0,80.0,No,None,Yes,Yes,140.0,Medium,4.5,6.5,30.0,80.0,40.0,Intermediate,-30.0,Routinely Available,Yes,Medium,True
+847,QUVI,,Quercus virginiana,,High,Rapid,25.0,50.0,Yes,None,Yes,Yes,240.0,Medium,4.5,7.3,32.0,70.0,40.0,Intermediate,7.0,Routinely Available,Yes,Low,False
+848,RAAB,,Ranunculus abortivus,"KY, NE&GP",,Moderate,,2.8,No,None,No,Yes,110.0,Medium,5.0,7.5,16.0,58.0,4.0,Tolerant,-43.0,Routinely Available,Yes,Low,False
+849,RAFL2,,Ranunculus flammula,,Medium,Moderate,,1.5,No,None,No,Yes,100.0,High,6.0,7.5,12.0,24.0,10.0,Tolerant,-33.0,Routinely Available,Yes,,False
+850,RAHI,,Ranunculus hispidus,,,Rapid,,2.5,No,None,No,Yes,130.0,Medium,4.5,8.0,34.0,68.0,4.0,Tolerant,-33.0,Routinely Available,Yes,Medium,False
+851,RALO2,,Ranunculus longirostris,,Medium,Moderate,,1.0,No,None,No,Yes,110.0,High,5.0,8.0,12.0,55.0,10.0,Tolerant,-28.0,Routinely Available,Yes,,False
+852,RAPE2,,Ranunculus pensylvanicus,,,Moderate,,3.9,No,None,No,Yes,120.0,High,5.0,7.5,10.0,50.0,4.0,Tolerant,-28.0,Routinely Available,Yes,Medium,False
+853,RARE3,,Ranunculus repens,WSWS,Medium,Rapid,,2.0,No,None,No,Yes,120.0,Medium,5.6,7.2,19.0,69.0,6.0,Tolerant,-28.0,Routinely Available,Yes,Medium,False
+854,RACO3,,Ratibida columnifera,,Medium,Moderate,,3.1,No,None,Yes,Yes,90.0,Medium,5.9,7.0,16.0,40.0,14.0,Intolerant,-43.0,Routinely Available,Yes,Medium,False
+855,RAPI,,Ratibida pinnata,,Medium,Moderate,,4.0,No,None,Yes,Yes,100.0,Medium,5.6,6.8,18.0,60.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Medium,True
+856,RHAL,,Rhamnus alnifolia,,,Moderate,2.0,3.0,No,None,No,Yes,100.0,High,4.0,8.0,10.0,50.0,12.0,Tolerant,-33.0,Routinely Available,Yes,High,False
+857,RHAR3,,Rhododendron arborescens,,High,Moderate,18.0,18.0,No,None,Yes,Yes,185.0,Medium,4.2,5.7,36.0,55.0,12.0,Tolerant,-13.0,Routinely Available,Yes,Medium,True
+858,RHCA6,,Rhododendron canadense,,High,Moderate,12.0,18.0,Yes,None,Yes,Yes,120.0,High,4.0,5.3,35.0,50.0,16.0,Tolerant,-23.0,Routinely Available,Yes,Low,False
+859,RHCA7,,Rhododendron canescens,,High,Slow,13.0,14.0,No,None,No,Yes,200.0,Medium,4.3,5.8,32.0,50.0,14.0,Tolerant,-13.0,Routinely Available,Yes,Low,True
+860,RHMA3,,Rhododendron macrophyllum,,High,Moderate,10.0,15.0,Yes,None,No,Yes,270.0,High,5.5,7.0,55.0,125.0,12.0,Intermediate,7.0,Routinely Available,Yes,Low,False
+861,RHMA4,,Rhododendron maximum,,High,Slow,15.0,25.0,Yes,None,Yes,Yes,150.0,Medium,4.0,5.5,36.0,60.0,18.0,Tolerant,-13.0,Routinely Available,Yes,,True
+862,RHVI2,,Rhododendron viscosum,,,Slow,13.0,16.0,No,None,Yes,Yes,160.0,High,4.0,7.0,35.0,55.0,14.0,Tolerant,-18.0,Routinely Available,Yes,Low,True
+863,RHCO,,Rhus copallinum,,High,Moderate,8.0,8.0,No,None,Yes,Yes,140.0,Low,5.3,7.5,28.0,60.0,14.0,Intolerant,-28.0,Routinely Available,Yes,Low,False
+864,RHGL,,Rhus glabra,NE&GP,High,Moderate,12.0,12.0,No,None,Yes,Yes,135.0,Low,5.3,7.5,30.0,60.0,24.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+865,RHMI3,,Rhus microphylla,,High,Moderate,10.0,10.0,No,None,Yes,Yes,150.0,Low,7.0,8.5,8.0,26.0,12.0,Intolerant,-13.0,Routinely Available,Yes,Medium,False
+866,RHTR,,Rhus trilobata,,High,Slow,4.0,4.0,No,None,Yes,Yes,140.0,Low,6.5,8.2,8.0,20.0,12.0,Intermediate,-53.0,Routinely Available,Yes,Medium,True
+867,RHTY,,Rhus typhina,N'EAST,,,,,,,,,,,,,,,,,,,,,True
+868,RHTY,RHHI2,Rhus hirta,,Medium,Rapid,30.0,30.0,No,None,Yes,Yes,100.0,Low,4.5,7.2,24.0,50.0,20.0,Intermediate,-33.0,Routinely Available,Yes,Medium,False
+869,RIAU,,Ribes aureum,,Medium,Moderate,10.0,10.0,No,None,No,Yes,150.0,Low,6.0,8.0,12.0,20.0,20.0,Intermediate,-38.0,Routinely Available,Yes,High,True
+870,RICE,,Ribes cereum,,Medium,Rapid,3.0,3.0,No,None,Yes,Yes,300.0,Low,6.5,7.5,13.0,35.0,12.0,Intolerant,-23.0,Routinely Available,No,High,True
+871,RIIN2,,Ribes inerme,,High,Moderate,8.0,8.0,No,None,Yes,Yes,130.0,Medium,6.0,7.5,12.0,24.0,12.0,Tolerant,-28.0,Routinely Available,Yes,Medium,False
+872,RIMO2,,Ribes montigenum,,High,Rapid,1.0,1.0,No,None,Yes,Yes,120.0,Medium,7.0,8.0,10.0,35.0,12.0,Intermediate,-3.0,Routinely Available,Yes,Medium,False
+873,RITR,,Ribes triste,,Medium,Moderate,5.0,2.0,No,None,Yes,Yes,115.0,Medium,5.0,7.5,9.0,60.0,12.0,Tolerant,-62.0,Routinely Available,Yes,High,False
+874,RONE,,Robinia neomexicana,,Medium,Rapid,4.0,25.0,No,Low,Yes,Yes,160.0,Medium,7.0,8.5,9.0,35.0,12.0,Intolerant,-23.0,Routinely Available,Yes,High,False
+875,ROPS,,Robinia pseudoacacia,"Cal-IPC, N'EAST",Medium,Rapid,40.0,60.0,No,Medium,Yes,Yes,140.0,Medium,4.6,8.2,16.0,65.0,36.0,Intolerant,-37.0,Routinely Available,Yes,Low,True
+876,ROPA,,Rosa palustris,,,Moderate,8.0,8.2,No,None,No,Yes,95.0,Medium,4.0,7.0,35.0,50.0,18.0,Tolerant,-33.0,Routinely Available,Yes,Low,True
+877,RORU82,,Rosa rubiginosa,,,,,,,,,,,,,,,,,,,,,,False
+878,RORU82,ROEG,Rosa eglanteria,,High,Moderate,10.0,10.0,No,None,Yes,Yes,100.0,Medium,5.2,7.5,32.0,45.0,20.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+879,RORU,,Rosa rugosa,STATE,High,Moderate,5.0,5.0,No,None,Yes,Yes,140.0,Medium,5.5,7.5,34.0,60.0,14.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+880,ROWI,,Rosa wichuraiana,,,Rapid,,1.0,No,None,Yes,Yes,140.0,Medium,4.8,7.0,35.0,55.0,16.0,Intolerant,-23.0,Routinely Available,Yes,Low,False
+881,ROWO,,Rosa woodsii,,Medium,Rapid,3.0,3.0,No,None,Yes,Yes,150.0,Medium,5.0,8.0,12.0,40.0,12.0,Intermediate,-43.0,Routinely Available,Yes,Medium,True
+882,ROOF,,Rosmarinus officinalis,,High,Moderate,5.0,5.0,Yes,None,Yes,Yes,200.0,Low,5.0,7.5,14.0,45.0,14.0,Intolerant,-3.0,Routinely Available,Yes,Low,True
+883,ROBO,,Roystonea borinquena,,,Moderate,40.0,50.0,Yes,None,Yes,Yes,365.0,,5.0,7.5,30.0,150.0,36.0,Tolerant,40.0,Routinely Available,Yes,Medium,False
+884,RUAR,,Rubus arcticus,,Medium,Moderate,2.0,1.0,No,None,Yes,No,120.0,,5.0,7.0,10.0,79.0,12.0,Intolerant,-62.0,Routinely Available,Yes,Low,False
+885,RUCH,,Rubus chamaemorus,,High,Rapid,,1.0,No,None,No,Yes,90.0,High,4.0,5.2,35.0,55.0,12.0,Intermediate,-38.0,Routinely Available,Yes,High,False
+886,RUHI,,Rubus hispidus,,,Moderate,,2.0,No,None,Yes,Yes,140.0,High,4.5,7.0,30.0,70.0,12.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+887,RUID,,Rubus idaeus,,Medium,Moderate,9.0,6.0,No,None,No,No,88.0,,5.0,7.5,10.0,104.0,12.0,Tolerant,-62.0,Routinely Available,Yes,Low,True
+888,RUOC,,Rubus occidentalis,,Low,Rapid,5.0,6.0,No,None,No,Yes,129.0,Medium,5.2,7.5,24.0,45.0,12.0,Intermediate,-28.0,Routinely Available,Yes,High,True
+889,RUHI2,,Rudbeckia hirta,SWSS,Medium,Rapid,,1.0,No,None,No,Yes,150.0,Medium,6.0,7.0,28.0,65.0,10.0,Intolerant,-23.0,Routinely Available,Yes,Low,True
+890,RULA3,,Rudbeckia laciniata,,,Rapid,,8.2,No,None,Yes,Yes,100.0,Low,4.5,7.0,15.0,55.0,12.0,Tolerant,-38.0,Routinely Available,Yes,High,True
+891,RUAR6,,Rumex arcticus,,Medium,Moderate,,1.0,No,None,Yes,No,120.0,,5.0,7.8,10.0,79.0,12.0,Intolerant,-62.0,Routinely Available,Yes,Low,False
+892,SACA,,Sabal causiarum,,,Slow,75.0,50.0,Yes,None,Yes,Yes,340.0,,6.0,8.0,30.0,55.0,36.0,Intolerant,28.0,Routinely Available,Yes,Medium,False
+893,SAMI8,,Sabal minor,,High,Slow,4.0,9.0,Yes,None,No,Yes,180.0,High,5.5,6.5,35.0,80.0,18.0,Tolerant,7.0,Routinely Available,Yes,Low,True
+894,SAGI,,Saccharum giganteum,,High,Rapid,,9.8,No,None,Yes,Yes,110.0,Medium,3.5,7.0,35.0,60.0,24.0,Intolerant,-28.0,Routinely Available,No,,False
+895,SAOF,,Saccharum officinarum,,Medium,Rapid,,12.0,Yes,None,Yes,Yes,365.0,Medium,4.0,7.0,40.0,80.0,24.0,Intermediate,17.0,Routinely Available,Yes,High,False
+896,SARA3,,Saccharum ravennae,,High,Rapid,,7.0,No,None,Yes,Yes,185.0,Medium,4.8,7.0,28.0,55.0,14.0,Intolerant,-8.0,Routinely Available,No,Low,False
+897,SACU,,Sagittaria cuneata,,,Moderate,,2.6,No,None,No,Yes,95.0,Medium,4.7,8.6,14.0,50.0,14.0,Intolerant,-33.0,Routinely Available,Yes,High,False
+898,SALA2,,Sagittaria latifolia,SWSS,,Moderate,,4.9,No,None,No,Yes,95.0,High,4.7,8.9,14.0,50.0,18.0,Intolerant,-33.0,Routinely Available,Yes,High,False
+899,SADE10,,Salicornia depressa,,,,,,,,,,,,,,,,,,,,,,False
+900,SADE10,SAVI,Salicornia virginica,,,Slow,,1.0,No,None,Yes,Yes,120.0,Medium,6.6,8.5,40.0,60.0,6.0,Intolerant,12.0,Routinely Available,Yes,,False
+901,SAAL2,,Salix alba,,High,Rapid,45.0,70.0,No,None,Yes,Yes,100.0,High,4.5,7.8,20.0,90.0,24.0,Intolerant,-33.0,Routinely Available,No,Medium,False
+902,SAAM2,,Salix amygdaloides,,Medium,Rapid,45.0,60.0,No,None,Yes,Yes,130.0,High,6.0,8.0,24.0,60.0,30.0,Intolerant,-33.0,Routinely Available,No,Medium,False
+903,SABO2,,Salix boothii,,Medium,Rapid,24.0,24.0,No,None,Yes,Yes,270.0,High,5.5,8.0,55.0,125.0,12.0,Tolerant,13.0,Routinely Available,Yes,High,False
+904,SACA5,,Salix caroliniana,,,Rapid,25.0,33.0,No,None,Yes,Yes,130.0,High,4.5,8.8,30.0,60.0,20.0,Intermediate,2.0,Routinely Available,Yes,Medium,False
+905,SADI,,Salix discolor,,,Rapid,20.0,40.0,No,None,Yes,Yes,95.0,High,4.0,7.0,20.0,50.0,20.0,Tolerant,-33.0,Routinely Available,Yes,Medium,False
+906,SADR,,Salix drummondiana,,High,Rapid,12.0,12.0,No,None,Yes,Yes,110.0,High,5.2,7.4,16.0,40.0,20.0,Intermediate,-28.0,Routinely Available,Yes,Medium,False
+907,SAER,,Salix eriocephala,,,Rapid,40.0,52.0,No,None,No,Yes,95.0,High,4.0,7.0,20.0,50.0,20.0,Tolerant,-38.0,Routinely Available,Yes,Medium,False
+908,SAEX,,Salix exigua,,Medium,Rapid,10.0,10.0,No,None,Yes,Yes,120.0,High,6.0,8.5,20.0,30.0,20.0,Intermediate,-38.0,Routinely Available,No,Low,False
+909,SAGE2,,Salix geyeriana,,Medium,Rapid,15.0,15.0,No,None,Yes,Yes,120.0,High,6.5,7.5,19.0,69.0,6.0,Tolerant,-38.0,Routinely Available,Yes,High,False
+910,SAGO,,Salix gooddingii,,High,Rapid,40.0,40.0,No,None,Yes,Yes,140.0,High,5.7,7.4,12.0,55.0,28.0,Intolerant,-23.0,Routinely Available,Yes,Medium,False
+911,SAIN3,,Salix interior,,,Rapid,45.0,30.0,No,None,No,No,120.0,,4.0,7.8,10.0,70.0,36.0,Intolerant,-62.0,Routinely Available,Yes,Medium,False
+912,SALU,,Salix lucida,,High,Rapid,13.0,13.0,No,None,No,Yes,80.0,High,5.8,7.2,30.0,60.0,10.0,Intermediate,-43.0,Routinely Available,No,Medium,False
+913,SALUL,,Salix lucida ssp. lasiandra,,,Rapid,80.0,53.0,No,None,Yes,No,120.0,,6.0,7.0,16.0,24.0,36.0,Intolerant,-30.0,Routinely Available,Yes,Medium,False
+914,SALU2,,Salix lutea,,High,Rapid,16.0,16.0,No,None,Yes,Yes,80.0,High,5.8,7.2,20.0,60.0,10.0,Intermediate,-43.0,Routinely Available,No,Medium,False
+915,SAMO2,,Salix monticola,,High,Moderate,18.0,12.0,No,None,Yes,No,88.0,Low,5.0,7.0,8.0,18.0,36.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+916,SANI,,Salix nigra,,Medium,Rapid,50.0,100.0,No,None,Yes,Yes,120.0,High,4.8,8.0,18.0,80.0,32.0,Intolerant,-58.0,Routinely Available,No,Low,False
+917,SAPL2,,Salix planifolia,,High,Rapid,8.0,8.0,No,None,Yes,Yes,80.0,Medium,4.5,6.0,18.0,60.0,16.0,Intolerant,-38.0,Routinely Available,No,Medium,False
+918,SAPR3,,Salix prolixa,,High,Moderate,68.0,45.0,No,None,Yes,No,49.0,Low,5.0,7.0,16.0,86.0,36.0,Intolerant,-50.0,Routinely Available,Yes,Low,False
+919,SASE10,,Salix ×sepulcralis,,High,Rapid,45.0,70.0,No,None,Yes,Yes,100.0,High,4.5,7.5,30.0,90.0,24.0,Intolerant,-23.0,Routinely Available,No,Low,False
+920,SASE,,Salix sericea,,High,Rapid,12.0,12.0,No,None,Yes,Yes,165.0,High,5.2,7.0,32.0,55.0,18.0,Intermediate,-28.0,Routinely Available,Yes,Medium,False
+921,SASI2,,Salix sitchensis,,High,Rapid,23.0,23.0,No,None,Yes,Yes,165.0,High,5.5,7.5,35.0,60.0,24.0,Intolerant,-18.0,Routinely Available,No,High,False
+922,SANIC4,,Sambucus nigra ssp. canadensis,,High,Rapid,7.0,7.0,No,None,No,Yes,100.0,Medium,5.0,8.9,34.0,60.0,16.0,Intolerant,-28.0,Routinely Available,Yes,Medium,False
+923,SASAD,,Sapindus saponaria var. drummondii,,High,Moderate,20.0,20.0,No,None,Yes,Yes,150.0,Low,7.0,8.5,10.0,15.0,12.0,Intolerant,-13.0,Routinely Available,Yes,Low,False
+924,SAAL5,,Sassafras albidum,,High,Moderate,24.0,75.0,No,None,Yes,Yes,160.0,Low,4.5,7.3,30.0,80.0,18.0,Intolerant,-27.0,Routinely Available,Yes,Medium,True
+925,SCSE6,,Scaevola sericea,FLEPPC,Medium,Moderate,10.0,10.0,Yes,None,Yes,Yes,365.0,Low,5.5,8.0,20.0,150.0,20.0,Intermediate,31.0,Routinely Available,Yes,Low,False
+926,SCAR7,,Schedonorus arundinaceus,,,,,,,,,,,,,,,,,,,,,,False
+927,SCAR7,LOAR10,Lolium arundinaceum,,Low,Rapid,,3.0,No,None,No,Yes,110.0,Medium,5.0,9.0,30.0,65.0,12.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+928,SCPR4,,Schedonorus pratensis,,,,,,,,,,,,,,,,,,,,,,False
+929,SCPR4,LOPR7,Lolium pratense,,Medium,Moderate,,2.0,No,None,No,Yes,120.0,Medium,5.5,8.5,33.0,50.0,12.0,Intermediate,-23.0,Routinely Available,Yes,Low,False
+930,SCTE,,Schinus terebinthifolius,"Cal-IPC, FLEPPC, HEAR, STATE",High,Moderate,15.0,30.0,Yes,None,Yes,Yes,365.0,High,6.5,7.5,24.0,40.0,12.0,Intolerant,28.0,Routinely Available,Yes,Low,False
+931,SCSC,,Schizachyrium scoparium,,Medium,Moderate,,3.0,No,None,Yes,Yes,100.0,Low,5.0,8.4,12.0,45.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Medium,True
+932,SCSCD,,Schizachyrium scoparium var. divergens,,Medium,Rapid,,4.0,No,None,Yes,Yes,220.0,Medium,5.8,6.8,34.0,48.0,10.0,Intolerant,-3.0,Routinely Available,Yes,Medium,False
+933,SCACA,,Schoenoplectus acutus var. acutus,,,Moderate,,9.8,No,None,No,Yes,110.0,High,5.2,8.5,12.0,60.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+934,SCCA11,,Schoenoplectus californicus,,Medium,Moderate,,6.6,No,None,No,Yes,200.0,High,5.0,9.0,40.0,60.0,14.0,Intolerant,17.0,Routinely Available,Yes,,False
+935,SCPUP5,,Schoenoplectus pungens var. pungens,,Medium,Moderate,,4.9,No,None,Yes,Yes,120.0,High,3.7,7.5,12.0,60.0,14.0,Intolerant,-38.0,Routinely Available,No,,False
+936,SCTA2,,Schoenoplectus tabernaemontani,,High,Rapid,,9.0,No,None,Yes,Yes,80.0,High,5.4,7.5,18.0,55.0,16.0,Intolerant,-38.0,Routinely Available,Yes,,False
+937,SCAT2,,Scirpus atrovirens,,,Moderate,,5.9,No,None,No,Yes,180.0,Medium,4.0,8.0,16.0,60.0,12.0,Intolerant,-53.0,Routinely Available,Yes,,True
+938,SCCY,,Scirpus cyperinus,,,Moderate,,4.9,No,None,Yes,Yes,110.0,High,4.8,7.2,40.0,60.0,12.0,Intermediate,-33.0,Routinely Available,Yes,,True
+939,SCGE2,,Scirpus georgianus,,High,Moderate,,4.5,No,None,No,Yes,80.0,Medium,4.5,7.0,35.0,55.0,9.0,Intermediate,-38.0,Routinely Available,Yes,,False
+940,SCMI2,,Scirpus microcarpus,,High,Rapid,,5.5,No,None,Yes,Yes,80.0,Medium,5.4,7.4,12.0,38.0,12.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+941,SCPA8,,Scirpus pallidus,,High,Rapid,,5.0,No,None,Yes,Yes,80.0,Medium,5.3,7.2,16.0,28.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+942,SCPE4,,Scirpus pendulus,,High,Moderate,,4.0,No,None,Yes,Yes,80.0,Medium,4.9,7.0,30.0,55.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+943,SECE,,Secale cereale,"STATE, SWSS, WSWS",Medium,Rapid,,3.5,No,None,Yes,Yes,110.0,High,4.5,8.2,8.0,50.0,8.0,Intolerant,-33.0,Routinely Available,Yes,High,True
+944,SEVA4,,Securigera varia,,,,,,,,,,,,,,,,,,,,,,False
+945,SEVA4,COVA2,Coronilla varia,"SEEPPC, WI",Low,Moderate,,3.0,No,Medium,Yes,Yes,130.0,Medium,4.8,7.8,20.0,65.0,12.0,Intermediate,-35.0,Routinely Available,Yes,High,True
+946,SETR,,Senecio triangularis,,High,Moderate,,4.0,No,None,No,Yes,145.0,High,6.2,7.8,14.0,60.0,10.0,Intermediate,-33.0,Routinely Available,Yes,High,False
+947,SEMA11,,Senna marilandica,,,Rapid,,6.6,No,Medium,Yes,Yes,160.0,Low,4.0,7.0,20.0,60.0,12.0,Intermediate,-18.0,Routinely Available,Yes,High,True
+948,SESE3,,Sequoia sempervirens,,High,Rapid,60.0,250.0,Yes,None,Yes,Yes,180.0,Medium,5.0,7.0,20.0,200.0,40.0,Tolerant,7.0,Routinely Available,Yes,Low,True
+949,SEGI2,,Sequoiadendron giganteum,,High,Slow,35.0,200.0,Yes,None,Yes,Yes,130.0,Medium,5.5,7.5,35.0,55.0,40.0,Intolerant,-24.0,Routinely Available,Yes,Low,True
+950,SERE2,,Serenoa repens,,High,Slow,10.0,7.0,Yes,None,Yes,Yes,180.0,High,4.5,7.5,35.0,80.0,18.0,Tolerant,7.0,Routinely Available,Yes,Low,False
+951,SEGR5,,Sesbania grandiflora,,Medium,Rapid,20.0,20.0,Yes,Medium,Yes,Yes,365.0,Low,5.5,7.0,30.0,60.0,24.0,Intermediate,49.0,Routinely Available,Yes,High,True
+952,SETO3,,Sesbania tomentosa,,Low,Moderate,2.0,2.0,Yes,Medium,Yes,Yes,365.0,Medium,6.0,8.0,20.0,40.0,18.0,Intermediate,50.0,Routinely Available,No,,False
+953,SEIT,,Setaria italica,SEEPPC,Medium,Rapid,,5.0,No,None,No,Yes,110.0,Low,5.3,6.9,25.0,60.0,8.0,Intolerant,52.0,Routinely Available,Yes,Medium,False
+954,SEPU8,,Setaria pumila,SEEPPC,Medium,Rapid,,3.0,No,None,No,Yes,110.0,Low,5.0,7.0,25.0,60.0,8.0,Intolerant,52.0,Routinely Available,Yes,Medium,False
+955,SEVU2,,Setaria vulpiseta,,Medium,Moderate,,3.0,No,None,No,Yes,180.0,Medium,6.0,8.0,12.0,24.0,18.0,Intermediate,-13.0,Routinely Available,Yes,Medium,False
+956,SHAR,,Shepherdia argentea,,Medium,Rapid,18.0,18.0,No,Medium,Yes,Yes,110.0,Medium,5.3,8.0,15.0,20.0,24.0,Intermediate,-38.0,Routinely Available,Yes,Medium,False
+957,SHCA,,Shepherdia canadensis,,Medium,Rapid,6.0,6.0,No,Medium,Yes,Yes,95.0,Medium,5.3,8.0,15.0,30.0,24.0,Intermediate,-63.0,Routinely Available,Yes,Medium,False
+958,SINE3,,Sidalcea neomexicana,,Medium,Moderate,,2.5,No,None,No,Yes,135.0,High,6.2,7.8,10.0,28.0,12.0,Tolerant,-23.0,Routinely Available,Yes,,False
+959,SIOR,,Sidalcea oregana,,Medium,Moderate,,4.5,No,None,Yes,Yes,120.0,High,6.4,8.0,10.0,28.0,12.0,Tolerant,-38.0,Routinely Available,Yes,,False
+960,SIAN3,,Sisyrinchium angustifolium,,High,Moderate,,2.0,No,None,No,Yes,180.0,Medium,5.0,7.0,32.0,60.0,4.0,Intermediate,-3.0,Routinely Available,Yes,Low,False
+961,SIID,,Sisyrinchium idahoense,,Medium,Moderate,,1.7,No,None,Yes,Yes,120.0,High,6.4,8.2,10.0,32.0,8.0,Tolerant,-38.0,Routinely Available,Yes,,False
+962,SMWA,,Smilax walteri,,,Rapid,,1.0,Yes,None,Yes,Yes,180.0,High,4.0,7.0,40.0,60.0,12.0,Tolerant,-8.0,Routinely Available,Yes,High,False
+963,SOLYL,,Solanum lycopersicum var. lycopersicum,,Medium,Rapid,,6.0,No,None,No,Yes,365.0,High,5.5,7.0,60.0,80.0,24.0,Intermediate,32.0,Routinely Available,Yes,,False
+964,SOME,,Solanum melongena,,Medium,Rapid,,4.0,Yes,None,Yes,Yes,365.0,High,5.5,7.2,60.0,80.0,24.0,Intermediate,17.0,Routinely Available,Yes,,True
+965,SOCA6,,Solidago canadensis,"N'EAST, WSWS",High,Rapid,,3.5,No,None,Yes,Yes,80.0,Medium,4.8,7.5,16.0,60.0,12.0,Intolerant,-43.0,Routinely Available,Yes,Low,True
+966,SOGI,,Solidago gigantea,,,Moderate,,8.2,No,None,No,Yes,110.0,Medium,4.0,8.0,14.0,50.0,16.0,Intermediate,-33.0,Routinely Available,Yes,Medium,False
+967,SOPA2,,Solidago patula,,,Moderate,,6.6,No,None,Yes,Yes,100.0,High,4.5,7.0,20.0,60.0,6.0,Intermediate,-43.0,Routinely Available,Yes,Medium,False
+968,SORU2,,Solidago rugosa,,High,Rapid,,3.3,No,None,Yes,Yes,95.0,Medium,5.0,7.5,24.0,60.0,12.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+969,SOSE,,Solidago sempervirens,,Medium,Moderate,,3.5,No,None,Yes,Yes,180.0,Low,5.5,7.5,35.0,60.0,14.0,Intolerant,-13.0,Routinely Available,Yes,Low,False
+970,SOCH,,Sophora chrysophylla,,Low,Moderate,40.0,40.0,Yes,Medium,Yes,Yes,350.0,Medium,5.5,7.5,40.0,150.0,24.0,Intermediate,24.0,Routinely Available,Yes,High,False
+971,SOSE3,,Sophora secundiflora,,Medium,Moderate,15.0,15.0,Yes,Medium,No,Yes,200.0,Medium,6.0,9.5,8.0,24.0,24.0,Intolerant,7.0,Routinely Available,Yes,,False
+972,SOAM3,,Sorbus americana,,High,Moderate,30.0,40.0,No,None,Yes,Yes,90.0,Medium,5.3,6.8,24.0,60.0,28.0,Intermediate,-38.0,Routinely Available,Yes,High,True
+973,SOAU,,Sorbus aucuparia,,High,Rapid,35.0,40.0,No,None,Yes,Yes,110.0,Medium,5.5,7.5,28.0,60.0,28.0,Intermediate,-33.0,Routinely Available,Yes,,True
+974,SODE3,,Sorbus decora,,High,Slow,60.0,40.0,No,None,No,No,88.0,Low,4.0,7.0,16.0,51.0,36.0,Tolerant,-50.0,Routinely Available,Yes,Medium,True
+975,SONU2,,Sorghastrum nutans,SWSS,Medium,Moderate,,6.0,No,None,Yes,Yes,120.0,Medium,4.8,8.0,11.0,45.0,24.0,Intolerant,-38.0,Routinely Available,Yes,Medium,True
+976,SOBI2,,Sorghum bicolor,"N'EAST, NE&GP, STATE, SWSS",Low,Rapid,,4.0,No,None,Yes,Yes,90.0,Medium,5.5,7.5,18.0,60.0,12.0,Intolerant,47.0,Routinely Available,Yes,Medium,False
+977,SOBIB,,Sorghum bicolor ssp. bicolor,,Low,Rapid,,8.0,No,None,Yes,Yes,60.0,Medium,5.5,7.5,18.0,60.0,12.0,Intolerant,47.0,Routinely Available,Yes,Medium,False
+978,SOBID,,Sorghum bicolor ssp. drummondii,,Medium,Rapid,,2.5,No,None,Yes,Yes,90.0,Low,5.7,6.8,17.0,40.0,9.0,Intolerant,57.0,Routinely Available,Yes,High,False
+979,SOHA,,Sorghum halepense,"KY, N'EAST, NE&GP, SEEPPC, STATE, SWSS, WSWS",Medium,Rapid,,3.5,No,None,Yes,Yes,165.0,High,5.0,7.0,32.0,60.0,10.0,Intolerant,-13.0,Routinely Available,Yes,High,False
+980,SPAM,,Sparganium americanum,,,Moderate,,3.2,No,None,Yes,Yes,95.0,High,4.9,7.3,35.0,50.0,8.0,Intermediate,-33.0,Routinely Available,Yes,Medium,False
+981,SPEU,,Sparganium eurycarpum,,,Moderate,,4.9,No,None,Yes,Yes,95.0,High,5.0,8.5,10.0,50.0,12.0,Intermediate,-33.0,Routinely Available,Yes,Medium,False
+982,SPAL,,Spartina alterniflora,"Cal-IPC, STATE",Medium,Moderate,,3.5,No,None,Yes,Yes,140.0,High,5.4,7.0,40.0,100.0,12.0,Intolerant,-23.0,Routinely Available,Yes,Low,False
+983,SPBA,,Spartina bakeri,,,Moderate,,6.6,Yes,None,Yes,Yes,280.0,High,5.0,8.6,50.0,60.0,12.0,Intolerant,17.0,Routinely Available,Yes,High,False
+984,SPCY,,Spartina cynosuroides,,Medium,Moderate,,8.0,No,None,Yes,Yes,210.0,High,5.8,7.5,40.0,60.0,20.0,Intolerant,-3.0,Routinely Available,No,Low,False
+985,SPGR,,Spartina gracilis,,High,Moderate,,3.0,No,None,No,Yes,90.0,Medium,7.0,9.5,12.0,30.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+986,SPPA,,Spartina patens,"Cal-IPC, STATE",High,Moderate,,2.0,No,None,Yes,Yes,130.0,High,5.5,7.5,36.0,65.0,10.0,Intolerant,-3.0,Routinely Available,No,Low,False
+987,SPPE,,Spartina pectinata,,High,Rapid,,8.0,No,None,Yes,Yes,110.0,High,6.0,8.5,14.0,35.0,18.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+988,SPSP,,Spartina spartinae,,Low,Moderate,,6.6,No,None,Yes,Yes,250.0,Medium,5.5,7.5,40.0,50.0,18.0,Intolerant,17.0,Routinely Available,Yes,,False
+989,SPAL2,,Spiraea alba,,Medium,Moderate,3.0,3.0,No,None,Yes,Yes,110.0,Medium,4.3,6.8,18.0,55.0,12.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+990,SPDO,,Spiraea douglasii,,High,Moderate,7.0,7.0,No,None,Yes,Yes,100.0,Low,5.5,7.5,16.0,50.0,16.0,Intolerant,-23.0,Routinely Available,Yes,Low,False
+991,SPTO2,,Spiraea tomentosa,,High,Moderate,4.0,4.0,No,None,Yes,Yes,110.0,Low,4.5,7.0,30.0,60.0,14.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+992,SPCE,,Spiranthes cernua,,Low,Moderate,,1.5,No,None,No,Yes,90.0,High,4.5,6.5,24.0,55.0,8.0,Intolerant,-38.0,Routinely Available,Yes,,False
+993,SPPO,,Spirodela polyrrhiza,,Medium,Moderate,,,No,None,No,Yes,120.0,High,5.0,8.6,12.0,55.0,0.0,Intermediate,-38.0,Routinely Available,Yes,,False
+994,SPMO,,Spondias mombin,,,Moderate,35.0,45.0,No,None,Yes,Yes,365.0,,4.8,7.9,30.0,120.0,36.0,Intolerant,30.0,Routinely Available,Yes,Medium,False
+995,SPAI,,Sporobolus airoides,,Medium,Moderate,,3.0,No,None,Yes,Yes,136.0,Low,6.6,9.0,5.0,13.0,16.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+996,SPCR,,Sporobolus cryptandrus,NE&GP,High,Moderate,,3.0,No,None,Yes,Yes,150.0,Low,6.6,8.0,8.0,16.0,18.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+997,SPHE,,Sporobolus heterolepis,,Medium,Moderate,,2.3,No,None,No,Yes,100.0,Low,6.0,7.2,20.0,35.0,12.0,Intermediate,-38.0,Routinely Available,Yes,Low,False
+998,SPVI3,,Sporobolus virginicus,,High,Moderate,,2.0,Yes,None,Yes,Yes,365.0,Low,6.0,8.0,20.0,40.0,18.0,Intermediate,17.0,Routinely Available,No,Medium,False
+999,STPA,,Stachys palustris,,High,Moderate,,3.0,No,None,Yes,Yes,125.0,High,5.7,8.0,14.0,55.0,10.0,Intermediate,-38.0,Routinely Available,Yes,,False
+1000,STTE,,Stachys tenuifolia,,High,Moderate,,25.0,No,None,Yes,Yes,125.0,High,5.7,7.4,28.0,55.0,10.0,Tolerant,-33.0,Routinely Available,Yes,,False
+1001,STSE,,Stenotaphrum secundatum,,Medium,Rapid,,0.9,No,None,No,Yes,200.0,High,4.8,7.5,40.0,60.0,12.0,Tolerant,2.0,Routinely Available,No,Low,False
+1002,STPE15,,Stuckenia pectinata,,,,,,,,,,,,,,,,,,,,,,False
+1003,STPE15,STPE12,Stuckenia pectinatus,,,Slow,,,No,None,Yes,Yes,125.0,High,6.0,8.5,12.0,60.0,0.0,Intolerant,-38.0,Routinely Available,Yes,,False
+1004,SWMA,,Swietenia macrophylla,,High,Rapid,60.0,60.0,Yes,None,No,Yes,365.0,Low,4.0,7.5,30.0,100.0,60.0,Intolerant,17.0,Routinely Available,Yes,,False
+1005,SWMA2,,Swietenia mahagoni,,,Rapid,82.0,60.0,No,None,Yes,Yes,365.0,,6.0,7.0,23.0,32.0,36.0,Intermediate,40.0,Routinely Available,Yes,Medium,False
+1006,SYAL,,Symphoricarpos albus,,Medium,Moderate,3.0,3.0,No,None,Yes,Yes,150.0,Medium,6.0,7.8,12.0,45.0,18.0,Intolerant,-38.0,Routinely Available,No,High,True
+1007,SYOC,,Symphoricarpos occidentalis,NE&GP,Medium,Moderate,3.0,3.0,No,None,No,Yes,110.0,Low,6.6,8.0,12.0,45.0,18.0,Intermediate,-36.0,Routinely Available,Yes,High,True
+1008,SYOR,,Symphoricarpos orbiculatus,,High,Moderate,2.0,2.0,No,None,No,Yes,130.0,High,5.5,7.5,15.0,60.0,18.0,Intermediate,-23.0,Routinely Available,Yes,Low,True
+1009,SYOR2,,Symphoricarpos oreophilus,,Medium,Moderate,5.0,5.0,No,None,No,Yes,100.0,Low,5.2,7.5,12.0,40.0,12.0,Intermediate,-33.0,Routinely Available,Yes,Low,True
+1010,SYCHC,,Symphyotrichum chilense var. chilense,,Medium,Slow,,3.5,No,None,No,Yes,120.0,Medium,5.9,8.0,10.0,20.0,10.0,Intermediate,-28.0,Routinely Available,Yes,Low,False
+1011,SYCHI,,Symphyotrichum chilense var. invenustum,,High,Moderate,,3.0,No,None,No,Yes,90.0,Medium,6.0,7.5,10.0,40.0,10.0,Intermediate,-33.0,Routinely Available,Yes,Low,False
+1012,SYLAL7,,Symphyotrichum lateriflorum var. lateriflorum,,Medium,Moderate,,5.0,No,None,Yes,Yes,120.0,Medium,5.2,7.2,26.0,60.0,10.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+1013,SYNON,,Symphyotrichum novi-belgii var. novi-belgii,,Medium,Moderate,,6.0,No,None,No,Yes,180.0,High,5.5,7.0,40.0,60.0,10.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+1014,SYPUP,,Symphyotrichum puniceum var. puniceum,,Medium,Slow,,8.1,No,None,No,Yes,90.0,High,4.5,7.5,17.0,25.0,10.0,Intolerant,-35.0,Routinely Available,Yes,Low,False
+1015,SYFO,,Symplocarpus foetidus,,,Moderate,,2.0,No,None,Yes,Yes,150.0,High,4.0,7.0,40.0,60.0,12.0,Tolerant,-33.0,Routinely Available,Yes,,False
+1016,SYVU,,Syringa vulgaris,,Low,Moderate,20.0,20.0,No,None,Yes,Yes,110.0,Medium,5.8,7.8,30.0,50.0,14.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+1017,TAIN2,,Tamarindus indica,,High,Moderate,40.0,50.0,Yes,None,No,Yes,365.0,Low,4.5,8.0,39.0,80.0,60.0,Intolerant,26.0,Routinely Available,Yes,High,False
+1018,TAOF,,Taraxacum officinale,"KY, N'EAST, NE&GP, SWSS, WSWS",Low,Rapid,,0.5,No,None,Yes,Yes,100.0,Medium,4.8,7.5,12.0,55.0,6.0,Intermediate,-38.0,Routinely Available,Yes,Low,True
+1019,TAAS,,Taxodium ascendens,,High,Slow,35.0,100.0,No,None,No,Yes,140.0,High,5.2,7.2,40.0,100.0,36.0,Intermediate,7.0,Routinely Available,Yes,Low,False
+1020,TADI2,,Taxodium distichum,,High,Rapid,45.0,130.0,No,None,Yes,Yes,160.0,High,4.5,6.0,40.0,65.0,40.0,Intermediate,-18.0,Routinely Available,Yes,,True
+1021,TABA80,,Taxus baccata,,High,Slow,25.0,40.0,Yes,None,No,Yes,120.0,Medium,5.3,7.8,35.0,50.0,16.0,Tolerant,-28.0,Routinely Available,No,Low,True
+1022,TACA7,,Taxus canadensis,,High,Moderate,5.0,5.0,Yes,None,No,No,120.0,Medium,5.3,7.5,12.0,50.0,24.0,Tolerant,-28.0,Routinely Available,No,High,False
+1023,TACU,,Taxus cuspidata,,High,Slow,30.0,50.0,Yes,None,No,Yes,120.0,Medium,5.3,7.8,35.0,50.0,16.0,Tolerant,-28.0,Routinely Available,No,Low,False
+1024,TEST,,Tecoma stans,,High,Rapid,20.0,20.0,No,None,Yes,Yes,200.0,Low,6.5,8.0,10.0,40.0,12.0,Intolerant,17.0,Routinely Available,Yes,Low,True
+1025,TECA,,Terminalia catappa,FLEPPC,Medium,Moderate,45.0,45.0,Yes,None,Yes,Yes,365.0,Medium,6.0,7.5,20.0,100.0,33.0,Intermediate,31.0,Routinely Available,Yes,,False
+1026,TECA3,,Teucrium canadense,"NE&GP, SWSS",,Moderate,,3.3,No,None,No,Yes,120.0,High,4.5,8.0,20.0,60.0,4.0,Intermediate,-43.0,Routinely Available,Yes,Low,True
+1027,THNO,,Thelypteris noveboracensis,,,Moderate,,1.5,No,None,Yes,Yes,100.0,Low,4.0,7.0,30.0,60.0,6.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+1028,THPO3,,Thespesia populnea,FLEPPC,Medium,Rapid,30.0,30.0,Yes,None,Yes,Yes,365.0,Low,6.0,7.5,20.0,100.0,48.0,Intermediate,31.0,Routinely Available,Yes,Low,False
+1029,THIN6,,Thinopyrum intermedium,,Medium,Rapid,,3.0,No,None,Yes,Yes,90.0,Low,5.6,8.4,12.0,30.0,16.0,Intolerant,-38.0,Routinely Available,Yes,Medium,False
+1030,THPO7,,Thinopyrum ponticum,,Medium,Rapid,,5.0,No,None,Yes,Yes,90.0,Medium,6.6,10.0,10.0,28.0,20.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+1031,THOC2,,Thuja occidentalis,,High,Slow,25.0,50.0,Yes,None,Yes,Yes,100.0,Medium,5.2,7.0,35.0,55.0,30.0,Intermediate,-33.0,Routinely Available,Yes,Medium,True
+1032,TIAM,,Tilia americana,,High,Moderate,60.0,100.0,No,None,Yes,Yes,80.0,Medium,4.5,7.5,21.0,80.0,30.0,Tolerant,-46.0,Routinely Available,Yes,Medium,True
+1033,TICO2,,Tilia cordata,,High,Moderate,45.0,100.0,No,None,Yes,Yes,140.0,Medium,4.8,7.2,30.0,60.0,26.0,Intermediate,-33.0,Routinely Available,Yes,,True
+1034,TRJA,,Trachelospermum jasminoides,,Low,Rapid,,2.0,Yes,None,Yes,Yes,215.0,Medium,5.5,7.0,30.0,60.0,12.0,Intermediate,7.0,Routinely Available,No,,False
+1035,TRAL6,,Trifolium alexandrinum,,Low,Rapid,,1.5,No,High,No,Yes,120.0,Medium,6.5,8.0,12.0,50.0,12.0,Intolerant,-2.0,Routinely Available,Yes,High,False
+1036,TRAM15,,Trifolium ambiguum,,Low,Slow,,1.5,No,Low,No,Yes,160.0,Medium,5.7,7.4,20.0,50.0,12.0,Intolerant,-34.0,Routinely Available,Yes,High,False
+1037,TRFR2,,Trifolium fragiferum,,Low,Rapid,,0.5,No,Medium,No,Yes,150.0,High,6.0,8.6,20.0,59.0,12.0,Intolerant,-40.0,Routinely Available,Yes,High,False
+1038,TRHI4,,Trifolium hirtum,,Low,Rapid,,1.0,No,Low,No,Yes,160.0,Medium,5.0,7.5,10.0,53.0,10.0,Intermediate,10.0,Routinely Available,Yes,High,False
+1039,TRHY,,Trifolium hybridum,,Low,Rapid,,2.0,No,High,No,Yes,50.0,High,5.6,7.5,26.0,60.0,12.0,Intolerant,-38.0,Routinely Available,Yes,High,False
+1040,TRIN3,,Trifolium incarnatum,SWSS,Low,Rapid,,1.5,No,Medium,Yes,Yes,180.0,Medium,5.5,7.5,32.0,65.0,12.0,Intolerant,-7.0,Routinely Available,Yes,High,True
+1041,TRPR2,,Trifolium pratense,,Low,Rapid,,2.0,No,Medium,Yes,Yes,120.0,Medium,5.5,7.6,18.0,65.0,12.0,Intolerant,-34.0,Routinely Available,Yes,High,True
+1042,TRRE3,,Trifolium repens,"N'EAST, NE&GP",Low,Moderate,,0.5,No,High,No,Yes,150.0,Medium,5.2,8.0,24.0,70.0,12.0,Intolerant,-62.0,Routinely Available,Yes,High,True
+1043,TRSU3,,Trifolium subterraneum,,Low,Rapid,,0.5,No,Medium,No,Yes,180.0,Low,5.0,8.0,16.0,45.0,10.0,Intermediate,5.0,Routinely Available,Yes,High,False
+1044,TRVE,,Trifolium vesiculosum,,Low,Rapid,,3.0,No,High,Yes,Yes,210.0,Medium,6.0,7.5,36.0,70.0,10.0,Intolerant,-3.0,Routinely Available,Yes,High,False
+1045,TRDA3,,Tripsacum dactyloides,SWSS,Low,Rapid,,5.0,No,None,Yes,Yes,140.0,High,5.1,7.5,16.0,60.0,20.0,Intolerant,-23.0,Routinely Available,Yes,High,False
+1046,TRSP2,,Trisetum spicatum,,Medium,Moderate,,1.9,No,None,No,No,90.0,Medium,4.9,7.5,12.0,50.0,12.0,Intermediate,-38.0,Routinely Available,Yes,High,False
+1047,TRAE,,Triticum aestivum,SWSS,Low,Rapid,,3.3,No,None,Yes,Yes,100.0,Low,5.5,8.0,10.0,100.0,18.0,Tolerant,-28.0,Routinely Available,Yes,Medium,False
+1048,TSCA,,Tsuga canadensis,,High,Slow,22.0,105.0,Yes,None,Yes,Yes,80.0,Medium,4.2,5.7,32.0,55.0,28.0,Tolerant,-33.0,Routinely Available,Yes,Medium,True
+1049,TSHE,,Tsuga heterophylla,,High,Slow,40.0,170.0,Yes,None,No,Yes,150.0,Medium,4.5,6.0,38.0,150.0,36.0,Tolerant,-23.0,Routinely Available,Yes,Low,False
+1050,TYAN,,Typha angustifolia,,Medium,Rapid,,4.9,No,None,Yes,Yes,130.0,High,3.7,8.5,30.0,60.0,10.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+1051,TYLA,,Typha latifolia,"NE&GP, SWSS, WSWS",High,Rapid,,5.0,No,None,Yes,Yes,100.0,High,5.5,8.7,14.0,180.0,14.0,Intermediate,-36.0,Routinely Available,Yes,Low,False
+1052,ULAM,,Ulmus americana,,High,Rapid,50.0,120.0,No,None,Yes,Yes,80.0,High,5.0,8.0,15.0,70.0,42.0,Intermediate,-46.0,Routinely Available,Yes,Low,False
+1053,ULCR,,Ulmus crassifolia,,High,Rapid,35.0,90.0,No,None,Yes,Yes,220.0,Medium,5.0,8.1,20.0,70.0,24.0,Intermediate,-10.0,Routinely Available,Yes,Low,True
+1054,ULPA,,Ulmus parvifolia,WI,High,Rapid,40.0,60.0,No,None,Yes,Yes,140.0,Medium,4.8,7.0,16.0,55.0,24.0,Intolerant,-13.0,Routinely Available,Yes,,True
+1055,ULPU,,Ulmus pumila,"NE&GP, SEEPPC, STATE",High,Rapid,40.0,70.0,No,None,Yes,Yes,90.0,Medium,5.5,8.0,16.0,50.0,24.0,Intolerant,-38.0,Routinely Available,Yes,Low,True
+1056,ULRU,,Ulmus rubra,,High,Rapid,45.0,85.0,No,None,Yes,Yes,90.0,High,5.0,7.5,21.0,83.0,40.0,Tolerant,-43.0,Routinely Available,Yes,Low,True
+1057,UMCA,,Umbellularia californica,,High,Moderate,30.0,80.0,Yes,None,Yes,Yes,140.0,High,5.7,7.4,13.0,84.0,16.0,Tolerant,-13.0,Routinely Available,Yes,Medium,True
+1058,UNPA,,Uniola paniculata,,High,Slow,,6.0,No,None,Yes,Yes,180.0,Low,6.0,7.5,35.0,65.0,20.0,Intolerant,7.0,Routinely Available,No,High,False
+1059,URBR2,,Urochloa brizantha,,Medium,Rapid,,2.0,No,None,No,Yes,120.0,Low,5.0,7.5,12.0,48.0,6.0,Intolerant,17.0,Routinely Available,Yes,Medium,False
+1060,URMA3,,Urochloa maxima,,Medium,Rapid,,5.0,No,None,Yes,Yes,300.0,Medium,5.2,6.9,28.0,100.0,12.0,Intolerant,22.0,Routinely Available,Yes,High,False
+1061,URMU,,Urochloa mutica,FLEPPC,Medium,Rapid,,3.0,No,None,Yes,Yes,365.0,Medium,5.3,8.7,30.0,200.0,36.0,Intermediate,17.0,Routinely Available,Yes,Medium,False
+1062,VAAN,,Vaccinium angustifolium,,Medium,Moderate,1.0,2.0,No,None,Yes,Yes,100.0,Medium,4.7,7.5,32.0,50.0,16.0,Intolerant,-33.0,Routinely Available,Yes,High,True
+1063,VACO,,Vaccinium corymbosum,,Medium,Moderate,12.0,12.0,No,None,Yes,Yes,100.0,Medium,4.7,7.5,32.0,50.0,16.0,Tolerant,-33.0,Routinely Available,Yes,Medium,False
+1064,VAEL,,Vaccinium elliottii,,Medium,Moderate,8.0,10.0,No,None,Yes,Yes,190.0,Medium,4.5,5.6,36.0,50.0,12.0,Intermediate,-3.0,Routinely Available,Yes,High,False
+1065,VAUL,,Vaccinium uliginosum,,Medium,Moderate,2.0,2.0,No,None,No,Yes,90.0,Medium,4.5,5.7,18.0,45.0,12.0,Intermediate,-38.0,Routinely Available,Yes,Medium,False
+1066,VAVI,,Vaccinium vitis-idaea,,Low,Moderate,1.0,0.5,Yes,None,Yes,No,120.0,,4.5,6.0,10.0,276.0,12.0,Intolerant,-62.0,Routinely Available,Yes,Medium,False
+1067,VAAM3,,Vallisneria americana,,Low,Rapid,,1.0,No,None,Yes,Yes,90.0,High,5.0,8.8,,,0.0,Intolerant,-33.0,Routinely Available,Yes,,False
+1068,VEMI2,,Vernonia missurica,,High,Moderate,,6.0,No,None,Yes,Yes,165.0,Medium,5.0,7.0,34.0,55.0,8.0,Intolerant,-33.0,Routinely Available,Yes,Low,False
+1069,VENO,,Vernonia noveboracensis,,,Moderate,,6.6,No,None,No,Yes,140.0,Medium,4.5,8.0,40.0,60.0,6.0,Intermediate,-33.0,Routinely Available,Yes,Medium,True
+1070,VEAM2,,Veronica americana,,Medium,Rapid,,0.8,No,None,No,Yes,100.0,High,5.7,7.5,16.0,60.0,6.0,Tolerant,-38.0,Routinely Available,Yes,Medium,False
+1071,VEWO2,,Veronica wormskjoldii,,Medium,Moderate,,1.0,No,None,No,Yes,80.0,High,6.0,7.3,32.0,55.0,6.0,Intermediate,-28.0,Routinely Available,Yes,Low,False
+1072,VEZI80,,Vetiveria zizanioides,,Medium,Rapid,,7.0,Yes,None,Yes,Yes,365.0,Low,3.0,8.0,12.0,200.0,24.0,Intermediate,14.0,Routinely Available,Yes,Low,False
+1073,VIED,,Viburnum edule,,High,Rapid,12.0,2.0,No,None,Yes,Yes,120.0,,5.0,7.3,8.0,180.0,12.0,Tolerant,-62.0,Routinely Available,Yes,Medium,True
+1074,VILA11,,Viburnum lantanoides,,High,Slow,10.0,10.0,No,None,No,Yes,110.0,Medium,4.9,7.0,30.0,50.0,14.0,Tolerant,-38.0,Routinely Available,Yes,High,False
+1075,VILE,,Viburnum lentago,,,Slow,28.0,28.0,No,None,No,Yes,128.0,Medium,5.0,7.0,38.0,60.0,14.0,Tolerant,-33.0,Routinely Available,Yes,Low,True
+1076,VINUC,,Viburnum nudum var. cassinoides,,Medium,Slow,15.0,15.0,No,None,No,Yes,110.0,Medium,4.9,7.0,35.0,50.0,14.0,Tolerant,-33.0,Routinely Available,Yes,High,False
+1077,VIOP,,Viburnum opulus,WI,Medium,Slow,12.0,12.0,No,None,No,Yes,110.0,Medium,5.2,7.0,30.0,50.0,14.0,Tolerant,-38.0,Routinely Available,Yes,Low,True
+1078,VIOPA2,,Viburnum opulus var. americanum,,High,Slow,6.0,6.0,No,None,No,Yes,130.0,High,5.5,7.5,32.0,60.0,14.0,Intolerant,-38.0,Routinely Available,Yes,Low,False
+1079,VIPR,,Viburnum prunifolium,,Medium,Slow,16.0,16.0,No,None,No,Yes,110.0,Medium,4.8,7.5,35.0,50.0,18.0,Tolerant,-33.0,Routinely Available,Yes,Medium,True
+1080,VIRE7,,Viburnum recognitum,,,,,,,,,,,,,,,,,,,,,,False
+1081,VIRE7,VIDEL,Viburnum dentatum var. lucidum,,High,Slow,9.0,9.0,No,None,No,Yes,128.0,Medium,5.0,7.0,38.0,60.0,14.0,Tolerant,-28.0,Routinely Available,Yes,Low,False
+1082,VICR,,Vicia cracca,,Low,Moderate,,1.5,No,Medium,Yes,Yes,110.0,Low,4.9,7.0,32.0,60.0,12.0,Intermediate,-33.0,Routinely Available,Yes,High,False
+1083,VILU2,,Vicia lutea,,Low,Moderate,,2.0,No,High,No,Yes,110.0,Medium,5.5,6.9,32.0,58.0,10.0,Intolerant,-23.0,Routinely Available,Yes,High,False
+1084,VIVI,,Vicia villosa,"N'EAST, SWSS, WSWS",Low,Rapid,,1.5,No,Medium,Yes,Yes,100.0,Medium,6.0,7.5,18.0,65.0,6.0,Intolerant,-30.0,Routinely Available,Yes,High,False
+1085,VIRA4,,Vigna radiata,,Low,Rapid,,3.0,No,Medium,No,Yes,120.0,Medium,6.0,6.9,32.0,58.0,6.0,Intolerant,47.0,Routinely Available,Yes,High,False
+1086,VIUN,,Vigna unguiculata,SWSS,Low,Rapid,,2.5,No,High,No,Yes,120.0,Medium,6.0,8.0,13.0,150.0,6.0,Intolerant,47.0,Routinely Available,Yes,High,False
+1087,VIMI2,,Vinca minor,"SEEPPC, WI",High,Moderate,,0.3,Yes,None,Yes,Yes,130.0,Low,5.5,7.7,30.0,60.0,8.0,Tolerant,-33.0,Routinely Available,No,Low,False
+1088,VISO,,Viola sororia,,Low,Moderate,,0.3,No,None,No,Yes,75.0,High,6.0,7.8,10.0,36.0,6.0,Intermediate,-28.0,Routinely Available,Yes,,True
+1089,VITRV,,Vitex trifolia var. variegata,,,Rapid,20.0,10.0,Yes,None,No,Yes,365.0,,6.0,8.5,30.0,60.0,24.0,Intolerant,32.0,Routinely Available,No,,False
+1090,VIPA7,,Vitis palmata,,High,Moderate,,30.0,No,None,Yes,Yes,165.0,Medium,5.5,7.0,32.0,55.0,16.0,Intermediate,-13.0,Routinely Available,Yes,Medium,False
+1091,VIRI,,Vitis riparia,N'EAST,High,Moderate,,45.0,No,None,Yes,Yes,170.0,Medium,6.1,8.5,32.0,55.0,16.0,Intermediate,-33.0,Routinely Available,Yes,High,True
+1092,VIRO3,,Vitis rotundifolia,,High,Moderate,,30.0,No,None,No,Yes,170.0,Medium,6.0,8.0,35.0,55.0,16.0,Intermediate,-18.0,Routinely Available,Yes,High,False
+1093,WIFR,,Wisteria frutescens,,,Rapid,,50.0,No,Medium,Yes,Yes,160.0,Medium,4.0,7.0,40.0,60.0,12.0,Tolerant,-3.0,Routinely Available,Yes,High,False
+1094,YUAL,,Yucca aloifolia,,High,Slow,20.0,15.0,Yes,None,Yes,Yes,276.0,,5.0,8.5,30.0,75.0,24.0,Intermediate,-1.0,Routinely Available,Yes,,False
+1095,ZEMA,,Zea mays,SWSS,Medium,Rapid,,8.0,No,None,No,Yes,90.0,High,5.5,7.5,20.0,50.0,8.0,Tolerant,32.0,Routinely Available,Yes,Low,True
+1096,ZESE80,,Zelkova serrata,,High,Slow,40.0,89.0,No,None,Yes,Yes,110.0,Medium,6.0,6.9,20.0,70.0,36.0,Intolerant,-33.0,Routinely Available,Yes,Low,True
+1097,ZIAQ,,Zizania aquatica,,,Rapid,,9.8,No,None,Yes,Yes,95.0,High,6.4,7.4,30.0,50.0,6.0,Intolerant,32.0,Routinely Available,Yes,High,False
+1098,ZIMI,,Zizaniopsis miliacea,,Medium,Rapid,,9.0,No,None,Yes,Yes,120.0,High,4.3,9.0,35.0,70.0,16.0,Intolerant,12.0,Routinely Available,Yes,Low,False

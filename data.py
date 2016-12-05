@@ -24,9 +24,9 @@ def filter_data():
 	# ------------------------------------------------
 
 	# Filter seed
-	# is_seed = df['Propogated by Seed'] == "Yes"
-	is_aval = df['Commercial Availability'] == "Routinely Available"
-	df = df[is_aval]
+	is_shef = df['Sheffields Aval'] == True
+	# is_aval = df['Commercial Availability'] == "Routinely Available"
+	df = df[is_shef]
 
 	# Filter nan
 	is_not_nan = pd.notnull(df['Growth Rate'])
@@ -43,7 +43,7 @@ def filter_data():
 	is_not_browse = df['Palatable Browse Animal'] == 'Low'
 	is_some_browse = df['Palatable Browse Animal'] == 'Medium'
 	is_browse = df['Palatable Browse Animal'] == 'High'
-	df = df[is_not_browse | is_some_browse | is_browse]
+	df = df[is_not_browse | is_some_browse ]
 
 	# Filter C:N
 	is_cn_low = df['C:N Ratio'] == 'Low'
@@ -81,9 +81,7 @@ def filter_data():
 	return df, count
 
 def calc_pop(area, height):
-	metric_height = height*0.3048
-	plant_msq = metric_height
 
-	result = area/plant_msq
+	result = area/height
 
 	return result

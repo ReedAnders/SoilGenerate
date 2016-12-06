@@ -4,7 +4,7 @@ import numpy as np
 # Load soil data
 
 def filter_data():
-	df = pd.read_csv('full_deer_sheffields.csv', encoding="utf-8")
+	df = pd.read_csv('data/full_deer_sheffields.csv', encoding="utf-8")
 
 	# 21B—Coloma-Tatches complex, 0 to 6 percent slopes 
 

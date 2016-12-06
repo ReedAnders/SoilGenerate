@@ -60,8 +60,6 @@ def filter(filter_args):
 	if filter_args['animal_browse'] == 'low':
 		df = df[is_not_browse ]
 
-	df = df[is_not_browse | is_some_browse ]
-
 	# print(len(df), 'deer')
 
 	# Filter C:N
@@ -123,9 +121,3 @@ def filter(filter_args):
 	count = len(df)
 
 	return df, count
-
-def calc_pop(area, height):
-
-	result = area/height
-
-	return result

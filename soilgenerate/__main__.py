@@ -41,26 +41,19 @@ def main():
 
 	filtered_data, filter_count = data.filter(args)
 
-	import pdb; pdb.set_trace()
-
 	try:
-		objective, seeds, height, root = core.optimize(data)
+		objective, growth, seeds = core.optimize(filtered_data, filter_count, args)
+		core.print_result(growth, seeds)
 	except Exception as e:
-		print('Error: Problem infeasible. The data filters are likely too strict, \
-			and not enough plant species are available as variables. Try removing \
-			some data filters.')
+		print(e)
+		objective, variables = core.setup(filtered_data, filter_count, args)
+		print('SoilGenerate Error: Problem infeasible with only {} plant species available for optimization. Try removing some data filters.'.format(len(variables)))
+		# print('Error: Problem infeasible. The data filters are likely too strict, and not enough plant species are available as variables. Try removing some data filters.')
 	else:
-		objective, variables = core.setup(data)
-		print('Error: Problem infeasible with only {} plant species available for \
-			optimization. Try removing some data filters.'.format(variables))
+		pass
 	finally:
 		pass
 
-	print("This is the main routine.")
-	print("It should do something interesting.")
-
-	# Do argument parsing here (eg. with argparse) and anything else
-    # you want your project to do.
 
 if __name__ == "__main__":
 	main()

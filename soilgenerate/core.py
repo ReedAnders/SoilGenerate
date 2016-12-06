@@ -6,117 +6,157 @@ import pandas
 
 import pprint
 
-def optimize():
-	pass
+def optimize(df, count, filters):
+	prob, prob_vars = setup(df, count, filters)
 
-def setup():
-	pass
+	GLPK().solve(prob)
 
-# area_msq = 43560
+	v = prob.variables()
 
-# # Import variables with Pandas and create
+	output = []
 
-# df, count = data.filter_data()
+	for solution in v:
+		_value = solution.varValue
+		_name = ' '.join(solution.name.split('_')[1:])
+		_height = None
+		_light = None
+		_root = None
 
-# variable_names = ['x_{}'.format(index) for index in range(count)]
-# variable_dict = {name: dict(sci_name=None, cn=None, sun=None, root=None) for name in variable_names}
+		is_key = prob_vars.get(_name)
 
-# plant_species = []
-# root_A_plant_species, root_Bw1_plant_species, root_Bw2_plant_species, root_Bw3_plant_species, root_E_plant_species = [],[],[],[],[]
+		if is_key:
+			_height = is_key['size']
+			_light = is_key['sun']
+			_root = is_key['root']
 
-# df_index = 0
-# for throwaway, row in df.iterrows():
+			if _value > 0:
+				output.append((_name, round(_value), _height, _light, _root))
 
-# 	info = variable_dict[variable_names[df_index]]
+	return prob.objective, pulp_value(prob.objective), output
 
-# 	sci_name = ''.join([x for x in row['Scientific Name'] if ord(x) < 128])
-# 	variable_dict[sci_name] = variable_dict.pop(variable_names[df_index])
-# 	plant_species.append(sci_name)
-
-# 	info['sci_name'] = ''.join([x for x in row['Scientific Name'] if ord(x) < 128]) 
-
-# 	temp_cn = row['C:N Ratio']
-# 	if temp_cn == "Low":
-# 		info['cn'] = 1/23
-# 	if temp_cn == "Medium":
-# 		info['cn'] = 1/41
-# 	if temp_cn == "High":
-# 		info['cn'] = 1/91
-
-# 	info['sun'] = row['Shade Tolerance']
-
-# 	temp_root = row['Root Depth, Minimum (inches)']
-# 	info['root'] = temp_root
+def print_result(objective_value, output):
 	
-# 	if temp_root < 4.0:
-# 		root_A_plant_species.append(sci_name)
+	print('\nResult:')
+	print(pulp_value(objective_value))
 
-# 	if temp_root >= 4.0 and temp_root < 9.0:
-# 		root_Bw1_plant_species.append(sci_name)
+	print('\nSeed Count by Species: ')
+	pp = pprint.PrettyPrinter(indent=4)
+	pp.pprint(output)
 
-# 	if temp_root >= 9.0 and temp_root < 15.0:
-# 		root_Bw2_plant_species.append(sci_name)
+	# print(len(output))
 
-# 	if temp_root >= 15.0 and temp_root < 23.0:
-# 		root_Bw3_plant_species.append(sci_name)
+def cn_str_to_float(str_value):
+	float_value = 0.0
+	if str_value == "Low":
+		float_value = 1/23
+	if str_value == "Medium":
+		float_value = 1/41
+	if str_value == "High":
+		float_value = 1/91
 
-# 	if temp_root >= 23.0:
-# 		root_E_plant_species.append(sci_name)
+	return float_value
+
+def growth_str_to_float(str_value):
+	float_value = 0.0
+	if str_value == "Slow":
+		float_value = 0.6
+	if str_value == "Moderate":
+		float_value = 1.0
+	if str_value == "Rapid":
+		float_value = 1.3
+
+	return float_value
+
+def calc_pop(area, height):
+
+	result = area/height
+
+	return result
+
+def setup(df, count, filters):
+
+	area_sq = filters['area']
+	_cn_target = (1/int(filters['cn_target']))
+	
+	variable_names = ['x_{}'.format(index) for index in range(count)]
+	variable_dict = {name: dict(sci_name=None, cn=None, sun=None, root=None) for name in variable_names}
+
+	plant_species = []
+	root_A_plant_species, root_Bw1_plant_species, root_Bw2_plant_species, root_Bw3_plant_species, root_E_plant_species = [],[],[],[],[]
+
+	df_index = 0
+	for throwaway, row in df.iterrows():
+
+		info = variable_dict[variable_names[df_index]]
+
+		sci_name = ''.join([x for x in row['Scientific Name'] if ord(x) < 128])
+		variable_dict[sci_name] = variable_dict.pop(variable_names[df_index])
+		plant_species.append(sci_name)
+
+		info['sci_name'] = ''.join([x for x in row['Scientific Name'] if ord(x) < 128]) 
+		info['cn'] = cn_str_to_float(row['C:N Ratio'])
+		info['sun'] = row['Shade Tolerance']
+
+		temp_root = row['Root Depth, Minimum (inches)']
+		info['root'] = temp_root
+		
+		if temp_root < 4.0:
+			root_A_plant_species.append(sci_name)
+
+		if temp_root >= 4.0 and temp_root < 9.0:
+			root_Bw1_plant_species.append(sci_name)
+
+		if temp_root >= 9.0 and temp_root < 15.0:
+			root_Bw2_plant_species.append(sci_name)
+
+		if temp_root >= 15.0 and temp_root < 23.0:
+			root_Bw3_plant_species.append(sci_name)
+
+		if temp_root >= 23.0:
+			root_E_plant_species.append(sci_name)
 
 
-# 	info['growth'] = row['Growth Rate']
-# 	temp_growth = info['growth']
+		info['growth'] = growth_str_to_float(row['Growth Rate'])
+		info['size'] = (row['Height at Base Age, Maximum (feet)']**1.5)
 
-# 	if temp_growth == "Slow":
-# 		temp_growth = 0.6
-# 	if temp_growth == "Moderate":
-# 		temp_growth = 1.0
-# 	if temp_growth == "Rapid":
-# 		temp_growth = 1.3
+		info['pop'] = calc_pop(area_sq, info['size'])
 
-# 	info['size'] = (row['Height at Base Age, Maximum (feet)']**1.5)
+		df_index += 1
 
-# 	info['pop'] = data.calc_pop(area_msq, info['size'])
+	# A dictionary called 'plant_vars' is created to contain the referenced Variables
+	plant_vars = LpVariable.dicts("Seeds",plant_species,0)
 
-# 	df_index += 1
+	## Objective
+	prob = LpProblem("GrowthOpt", LpMaximize)
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]), "Total Expected Growth of All Seeds"
 
-# # A dictionary called 'plant_vars' is created to contain the referenced Variables
-# plant_vars = LpVariable.dicts("Seeds",plant_species,0)
+	## Constraints
 
-# ## Objective
-# prob = LpProblem("GrowthOpt", LpMaximize)
-# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]), "Total Expected Growth of All Seeds"
+	# -----
+	## C:N Ratio contraint
 
-# ## Constraints
+	prob += lpSum([variable_dict[i]['cn']*plant_vars[i] for i in plant_species]) >= \
+			lpSum([_cn_target*plant_vars[i] for i in plant_species]), "Carbon Nitrogen Ratio Requirement"
 
-# # -----
-# ## C:N Ratio contraint
-
-# _cn_ideal = 1/30
-
-# prob += lpSum([variable_dict[i]['cn']*plant_vars[i] for i in plant_species]) >= \
-# 		lpSum([_cn_ideal*plant_vars[i] for i in plant_species]), "Carbon Nitrogen Ratio Requirement"
-
-# # -----
-# ## Sunlight contraint
-# # Space width by height, to maximize leaf production
+	# -----
+	## Sunlight contraint
+	# Space width by height, to maximize leaf production
 
 
-# # -----
-# ## Root depth constraint
-# # Occupy all laters by upper bound
+	# -----
+	## Root depth constraint
+	# Occupy all laters by upper bound
 
-# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_A_plant_species]) <= area_msq, "Area upper bound for 0 to 4 inch root systems"
-# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) <= area_msq, "Area upper bound for 4 to 9 inch root systems"
-# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) >= (area_msq/5), "Area lower bound for 4 to 9 inch root systems"
-# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw2_plant_species]) <= area_msq, "Area upper bound for 9 to 14 inch root systems"
-# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw3_plant_species]) <= area_msq, "Area upper bound for 15 to 23 inch root systems"
-# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_E_plant_species]) <= area_msq, "Area upper bound for over 23 inch root systems"
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_A_plant_species]) <= area_sq, "Area upper bound for 0 to 4 inch root systems"
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) <= area_sq, "Area upper bound for 4 to 9 inch root systems"
+	# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) >= (area_sq/5), "Area lower bound for 4 to 9 inch root systems"
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw2_plant_species]) <= area_sq, "Area upper bound for 9 to 14 inch root systems"
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw3_plant_species]) <= area_sq, "Area upper bound for 15 to 23 inch root systems"
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_E_plant_species]) <= area_sq, "Area upper bound for over 23 inch root systems"
 
-# # Solve
+	return prob, variable_dict
 
-# # NOTES:
-# # Querk with browsing and root depth. Including 'high' browse makes root opt infeasible
+
 
 # print('\nObjective: ')
 # print(prob.objective)

@@ -71,8 +71,6 @@ for throwaway, row in df.iterrows():
 	info['size'] = (row['Height at Base Age, Maximum (feet)']**1.5)
 
 	info['pop'] = calc_pop(area_msq, info['size'])
-	# globals()[variable_names[df_index]] = LpVariable(info['sci_name'], 0, max_population, cat="Integer")
-	# globals()[variable_names[df_index]] = LpVariable(info['sci_name'], 0, max_population)
 
 	df_index += 1
 
@@ -90,25 +88,13 @@ prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]), 
 
 _cn_ideal = 1/30
 
-# prob += lpSum([variable_dict[i]['cn']*plant_vars[i] for i in plant_species]) >= \
-# 		lpSum([_cn_ideal*plant_vars[i] for i in plant_species]), "Carbon Nitrogen Ratio Requirement"
+prob += lpSum([variable_dict[i]['cn']*plant_vars[i] for i in plant_species]) >= \
+		lpSum([_cn_ideal*plant_vars[i] for i in plant_species]), "Carbon Nitrogen Ratio Requirement"
 
 # -----
 ## Sunlight contraint
 # Space width by height, to maximize leaf production
 
-# for key in plant_species:
-# 	species_dict = variable_dict.get(key)
-
-# 	for index, compare in enumerate(plant_species):
-# 		compare_dict = variable_dict.get(compare)
-
-# 		if species_dict and compare_dict:
-# 			if species_dict['sun'] == 'Intolerant':
-# 				# import pdb; pdb.set_trace()
-# 				if species_dict['size'] < compare_dict['size']:
-# 					gname = key + ' contraint ' + str(index)
-# 					prob += LpAffineExpression(plant_vars[key] and plant_vars[compare]) == 0, gname
 
 # -----
 ## Root depth constraint
@@ -126,6 +112,8 @@ prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_E_plant_spec
 # NOTES:
 # Querk with browsing and root depth. Including 'high' browse makes root opt infeasible
 
+print('\nObjective: ')
+print(prob.objective)
 
 GLPK().solve(prob)
 

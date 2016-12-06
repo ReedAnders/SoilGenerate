@@ -25,25 +25,35 @@ def filter_data():
 
 	# Filter seed
 	is_shef = df['Sheffields Aval'] == True
-	# is_aval = df['Commercial Availability'] == "Routinely Available"
-	df = df[is_shef]
+	is_aval = df['Commercial Availability'] == "Routinely Available"
+	df = df[is_aval]
+
+	print(len(df), 'seed')
 
 	# Filter nan
 	is_not_nan = pd.notnull(df['Growth Rate'])
 	df = df[is_not_nan]
 
+	print(len(df), 'nan')
+
 	is_not_nan = pd.notnull(df['Height at Base Age, Maximum (feet)'])
 	df = df[is_not_nan]
+
+	print(len(df), 'height')
 
 	# Filter invasive
 	is_not_invasive = pd.isnull(df['Invasive'])
 	df = df[is_not_invasive]
+
+	print(len(df), 'invasive')
 
 	# Filter deer
 	is_not_browse = df['Palatable Browse Animal'] == 'Low'
 	is_some_browse = df['Palatable Browse Animal'] == 'Medium'
 	is_browse = df['Palatable Browse Animal'] == 'High'
 	df = df[is_not_browse | is_some_browse ]
+
+	print(len(df), 'deer')
 
 	# Filter C:N
 	is_cn_low = df['C:N Ratio'] == 'Low'
@@ -52,12 +62,17 @@ def filter_data():
 
 	df = df[is_cn_low | is_cn_med | is_cn_high]
 
+	print(len(df), 'cn')
+
 	# Filter soil
+	# is_fine = df['Adapted to Fine Textured Soils'] == 'Yes'
 	is_medium = df['Adapted to Medium Textured Soils'] == 'Yes'
 	is_course = df['Adapted to Coarse Textured Soils'] == 'Yes'
 	is_not_marsh = df['Moisture Use'] != 'High'
 
 	df = df[is_course | is_medium | is_not_marsh]
+
+	print(len(df), 'soil')
 
 	# Filter hardiness
 
@@ -65,17 +80,24 @@ def filter_data():
 
 	df = df[is_above]
 
+	print(len(df), 'hardy')
+
 	# Filter light
 	is_tol = df['Shade Tolerance'] != "Intolerant"
 
 	df = df[is_tol]
+
+	print(len(df), 'light')
 
 	# Filter rainfall
 
 	is_low = df['Precipitation (Minimum)'] >= 28
 	is_high = df['Precipitation (Maximum)'] >= 38
 
-	df = df[is_low & is_high]
+	# df = df[is_low & is_high]
+
+	print(len(df), 'rain')
+
 	count = len(df)
 
 	return df, count

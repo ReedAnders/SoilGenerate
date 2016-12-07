@@ -28,9 +28,10 @@ def optimize(df, count, filters):
 			_height = is_key['size']
 			_light = is_key['sun']
 			_root = is_key['root']
+			_cn = is_key['cn']
 
 			if _value > 0:
-				output.append((_name, round(_value), _height, _light, _root))
+				output.append((_name, round(_value), _height, _light, _root, _cn))
 
 	return prob.objective, pulp_value(prob.objective), output
 
@@ -130,7 +131,7 @@ def setup(df, count, filters):
 
 	## Objective
 	prob = LpProblem("GrowthOpt", LpMaximize)
-	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]), "Total Expected Growth of All Seeds"
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]), "Total Estimated Area Saturation from All Plants"
 
 	## Constraints
 
@@ -151,7 +152,7 @@ def setup(df, count, filters):
 
 	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_A_plant_species]) <= area_sq, "Area upper bound for 0 to 4 inch root systems"
 	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) <= area_sq, "Area upper bound for 4 to 9 inch root systems"
-	# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) >= (area_sq/5), "Area lower bound for 4 to 9 inch root systems"
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) >= (area_sq/5), "Area lower bound for 4 to 9 inch root systems"
 	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw2_plant_species]) <= area_sq, "Area upper bound for 9 to 14 inch root systems"
 	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw3_plant_species]) <= area_sq, "Area upper bound for 15 to 23 inch root systems"
 	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_E_plant_species]) <= area_sq, "Area upper bound for over 23 inch root systems"

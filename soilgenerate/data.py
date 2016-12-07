@@ -105,16 +105,12 @@ def filter(filter_args):
 
 	df = df[is_tol]
 
-	print(len(df), 'light')
-
 	# Filter rainfall
 
 	is_low = df['Precipitation (Minimum)'] >= int(filter_args['percip_min'])
 	is_high = df['Precipitation (Maximum)'] >= int(filter_args['percip_max'])
 
-	# df = df[is_low & is_high]
-
-	print(len(df), 'rain')
+	df = df[is_low & is_high]
 
 	count = len(df)
 

@@ -27,6 +27,16 @@ def main():
 		value 'low' includes only low browse plants.; value 'low-med' excludes high browse plants; value 'low-med-high' includes all plants.")
 	browse_options = set(['low','low-med','low-med-high'])
 
+	parser.add_argument("--growth_rate", required=False, type=str, help="Filter for growth rate in plants. \
+		value 'rapid' includes only low rapid plants.; value 'rapid-moderate' excludes slow plants. Growth rate is otherwise weighted in optimization")
+	growth_options = set(['rapid','rapid-moderate'])
+
+	parser.add_argument("--full_shade", required=False, default=False, type=bool, help="Filter for only full shade plants")
+
+	parser.add_argument("--full_sun", required=False, default=False, type=bool, help="Filter for only full sun, low height plants; eg: an open field. ")
+
+	parser.add_argument("--max_height", required=False, type=float, help="Filter plants by maximum height")
+
 	args = vars(parser.parse_args())
 
 	if args['soil_texture'] not in soil_options:

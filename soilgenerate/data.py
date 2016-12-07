@@ -24,28 +24,24 @@ def filter(filter_args):
 	# ------------------------------------------------
 
 
-	# Default Filters
+	## BEGIN Default Filters
 	# Filter nan
 	is_not_nan = pd.notnull(df['Growth Rate'])
 	df = df[is_not_nan]
 
-	# print(len(df), 'nan')
-
 	is_not_nan = pd.notnull(df['Planting Density per Acre, Maximum'])
 	df = df[is_not_nan]
-
-	# print(len(df), 'height')
 
 	# Filter invasive
 	is_not_invasive = pd.isnull(df['Invasive'])
 	df = df[is_not_invasive]
 
-	# print(len(df), 'invasive')
-
 	# Filter seed
 	# is_shef = df['Sheffields Aval'] == True
 	is_aval = df['Commercial Availability'] == "Routinely Available"
 	df = df[is_aval]
+
+	##END Default Filters
 
 	# Filter deer
 	is_not_browse = df['Palatable Browse Animal'] == 'Low'
@@ -58,8 +54,6 @@ def filter(filter_args):
 	if filter_args['animal_browse'] == 'low':
 		df = df[is_not_browse ]
 
-	# print(len(df), 'deer')
-
 	# Filter C:N
 	is_cn_low = df['C:N Ratio'] == 'Low'
 	is_cn_med = df['C:N Ratio'] == 'Medium'
@@ -69,10 +63,8 @@ def filter(filter_args):
 	if filter_args['cn_ratio'] == 'low-med':
 		df = df[is_cn_low | is_cn_med ]
 
-	# print(len(df), 'cn')
-
 	# Filter soil
-	# is_fine = df['Adapted to Fine Textured Soils'] == 'Yes'
+	is_fine = df['Adapted to Fine Textured Soils'] == 'Yes'
 	is_medium = df['Adapted to Medium Textured Soils'] == 'Yes'
 	is_course = df['Adapted to Coarse Textured Soils'] == 'Yes'
 	is_not_marsh = df['Moisture Use'] != 'High'
@@ -90,20 +82,33 @@ def filter(filter_args):
 	if filter_args['soil_texture'] == 'course':
 		df = df[is_course]
 
-	# print(len(df), 'soil')
 
 	# Filter hardiness
-
 	is_above = df['Temperature, Minimum (°F)'] <= int(filter_args['hardiness'])
-
 	df = df[is_above]
 
-	# print(len(df), 'hardy')
 
 	# Filter light
-	is_tol = df['Shade Tolerance'] != "Intolerant"
+	if filter_args['full_shade']:
+		is_sun = df['Shade Tolerance'] == "Tolerant"
+	elif filter_args['full_sun']:
+		is_sun = df['Shade Tolerance'] == "Intolerant"
+	else:
+		is_sun = df['Shade Tolerance'] != "Intolerant"
+	
+	df = df[is_sun]
 
-	df = df[is_tol]
+	# Filter height
+	if filter_args['full_sun'] or filter_args['max_height']:
+		is_height = pd.notnull(df['Height at Base Age, Maximum (feet)'])
+		df = df[is_height]
+
+		if filter_args['max_height']:
+			is_max_height = df['Height at Base Age, Maximum (feet)'] <= int(filter_args['max_height'])
+		else:
+			is_max_height = df['Height at Base Age, Maximum (feet)'] <= 2
+			
+		df = df[is_max_height]
 
 	# Filter rainfall
 

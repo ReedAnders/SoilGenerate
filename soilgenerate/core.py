@@ -67,17 +67,20 @@ def growth_str_to_float(str_value):
 
 	return float_value
 
-def calc_pop(area, height):
+def calc_pop(area, density):
 
-	result = area/height
-
+	result = area/density
 	return result
+
+def calc_density(per_acre):
+	per_foot_sq = per_acre/43560
+	return per_foot_sq
 
 def setup(df, count, filters):
 
 	area_sq = filters['area']
 	_cn_target = (1/int(filters['cn_target']))
-	
+
 	variable_names = ['x_{}'.format(index) for index in range(count)]
 	variable_dict = {name: dict(sci_name=None, cn=None, sun=None, root=None) for name in variable_names}
 
@@ -117,8 +120,7 @@ def setup(df, count, filters):
 
 
 		info['growth'] = growth_str_to_float(row['Growth Rate'])
-		info['size'] = (row['Height at Base Age, Maximum (feet)']**1.5)
-
+		info['size'] = calc_density(row['Planting Density per Acre, Maximum'])
 		info['pop'] = calc_pop(area_sq, info['size'])
 
 		df_index += 1

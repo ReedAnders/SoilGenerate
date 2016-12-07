@@ -4,7 +4,7 @@ import numpy as np
 # Load soil data
 
 def filter(filter_args):
-	df = pd.read_csv('soilgenerate/data/full_deer_sheffields.csv', encoding="utf-8")
+	df = pd.read_csv('soilgenerate/data/12072016_plants.csv', encoding="utf-8")
 
 	# 21B—Coloma-Tatches complex, 0 to 6 percent slopes 
 
@@ -25,20 +25,13 @@ def filter(filter_args):
 
 
 	# Default Filters
-	# Filter seed
-	is_shef = df['Sheffields Aval'] == True
-	is_aval = df['Commercial Availability'] == "Routinely Available"
-	df = df[is_aval]
-
-	# print(len(df), 'seed')
-
 	# Filter nan
 	is_not_nan = pd.notnull(df['Growth Rate'])
 	df = df[is_not_nan]
 
 	# print(len(df), 'nan')
 
-	is_not_nan = pd.notnull(df['Height at Base Age, Maximum (feet)'])
+	is_not_nan = pd.notnull(df['Planting Density per Acre, Maximum'])
 	df = df[is_not_nan]
 
 	# print(len(df), 'height')
@@ -48,6 +41,11 @@ def filter(filter_args):
 	df = df[is_not_invasive]
 
 	# print(len(df), 'invasive')
+
+	# Filter seed
+	# is_shef = df['Sheffields Aval'] == True
+	is_aval = df['Commercial Availability'] == "Routinely Available"
+	df = df[is_aval]
 
 	# Filter deer
 	is_not_browse = df['Palatable Browse Animal'] == 'Low'
@@ -112,7 +110,7 @@ def filter(filter_args):
 	# Filter rainfall
 
 	is_low = df['Precipitation (Minimum)'] >= int(filter_args['percip_min'])
-	is_high = df['Precipitation (Maximum)'] >= 38
+	is_high = df['Precipitation (Maximum)'] >= int(filter_args['percip_max'])
 
 	# df = df[is_low & is_high]
 

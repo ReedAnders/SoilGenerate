@@ -15,7 +15,7 @@ def main():
 
 	parser.add_argument("--percip_min", required=True, type=int, help="Minimum precipitation of area (inches)")
 
-	# parser.add_argument("--percip_max", required=False, type=int, help="Maximum precipitation of area (inches)")
+	parser.add_argument("--percip_max", required=False, type=int, help="Maximum precipitation of area (inches)")
 
 	parser.add_argument("--cn_ratio", default='low-med-high', type=str, help="Filter for C:N Ratio in plants. Value 'low-med' excludes high ratio \
 	plants; value 'low-med-high' includes all ratio plants. Low = 23:1, Med = 41:1, High = 91:1")

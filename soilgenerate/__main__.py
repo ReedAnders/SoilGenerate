@@ -41,6 +41,8 @@ def main():
 
 	parser.add_argument("--known_supplier", required=False, default=False, type=bool, help="Filter plants for those with known supplier (Sheffield's Seeds)")
 
+	parser.add_argument("--budget", required=False, default=False, type=int, help="Budget contraint in USD")
+
 	args = vars(parser.parse_args())
 
 	if args['soil_texture'] not in soil_options:

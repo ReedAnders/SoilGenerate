@@ -33,7 +33,7 @@ def filter(filter_args):
 	df = df[is_not_nan]
 
 	# Filter seed
-	if filter_args['known_supplier']:
+	if filter_args['known_supplier'] or filter_args['budget']:
 		is_aval = df['Sheffields Aval'] == True
 	else:
 		is_aval = df['Commercial Availability'] == "Routinely Available"

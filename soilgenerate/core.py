@@ -1,6 +1,6 @@
 from . import data
 
-from pulp import LpProblem, LpVariable, LpMaximize, LpAffineExpression, lpSum, GLPK
+from pulp import LpProblem, LpVariable, LpMaximize, LpMinimize, LpAffineExpression, lpSum, GLPK
 from pulp import value as pulp_value
 import pandas
 
@@ -124,16 +124,29 @@ def setup(df, count, filters):
 		info['size'] = calc_density(row['Planting Density per Acre, Maximum'])
 		info['pop'] = calc_pop(area_sq, info['size'])
 
+		info['seed_price'] = row['Price Per Pound']/row['Seeds Per Pound']
+
 		df_index += 1
 
 	# A dictionary called 'plant_vars' is created to contain the referenced Variables
 	plant_vars = LpVariable.dicts("Seeds",plant_species,0)
 
 	## Objective
+	# prob = LpProblem("GrowthOpt", LpMinimize)
+	# prob += lpSum([variable_dict[i]['seed_price']*plant_vars[i] for i in plant_species]) + t, "Objective for Cost of Seeds"
+
 	prob = LpProblem("GrowthOpt", LpMaximize)
-	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]), "Total Estimated Area Saturation from All Plants"
+	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]), "Objective for Size of Seed Growth"
+
 
 	## Constraints
+	## Maximization contraint 't'
+	# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]) <= t, "Estimated Area Saturation from All Plants"
+
+	# -----
+	## Budget contraint  
+	if filters['budget']:
+		prob += lpSum([variable_dict[i]['seed_price']*plant_vars[i] for i in plant_species]) <= filters['budget'], "Budget contraint in USD"
 
 	# -----
 	## C:N Ratio contraint  

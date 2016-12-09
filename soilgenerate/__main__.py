@@ -15,7 +15,7 @@ def main():
 
 	parser.add_argument("--percip_min", required=True, type=int, help="Minimum precipitation of area (inches)")
 
-	parser.add_argument("--percip_max", required=False, type=int, help="Maximum precipitation of area (inches)")
+	parser.add_argument("--percip_max", required=True, type=int, help="Maximum precipitation of area (inches)")
 
 	parser.add_argument("--cn_ratio", default='low-med-high', type=str, help="Filter for C:N Ratio in plants. Value 'low-med' excludes high ratio \
 	plants; value 'low-med-high' includes all ratio plants. Low = 23:1, Med = 41:1, High = 91:1")
@@ -31,11 +31,15 @@ def main():
 		value 'rapid' includes only low rapid plants.; value 'rapid-moderate' excludes slow plants. Growth rate is otherwise weighted in optimization")
 	growth_options = set(['rapid','rapid-moderate'])
 
+	parser.add_argument("--invasive", required=False, default=False, type=bool, help="Filter invasive plants")
+
 	parser.add_argument("--full_shade", required=False, default=False, type=bool, help="Filter for only full shade plants")
 
 	parser.add_argument("--full_sun", required=False, default=False, type=bool, help="Filter for only full sun, low height plants; eg: an open field. ")
 
 	parser.add_argument("--max_height", required=False, type=float, help="Filter plants by maximum height")
+
+	parser.add_argument("--known_supplier", required=False, default=False, type=bool, help="Filter plants for those with known supplier (Sheffield's Seeds)")
 
 	args = vars(parser.parse_args())
 
@@ -58,10 +62,12 @@ def main():
 		else: 
 			objective, variables = core.setup(filtered_data, filter_count, args)
 			print('SoilGenerate Error: Problem infeasible with only {} plant species available for optimization. Try removing some data filters.'.format(len(variables)))
+			print(objective)
 	except Exception as e:
 		if type(e).__name__ == "PulpSolverError":
 			objective, variables = core.setup(filtered_data, filter_count, args)
 			print('SoilGenerate Error: Problem infeasible with only {} plant species available for optimization. Try removing some data filters.'.format(len(variables)))
+			print(objective)
 		else:
 			print(e)
 	else:

@@ -4,7 +4,7 @@ import numpy as np
 # Load soil data
 
 def filter(filter_args):
-	df = pd.read_csv('soilgenerate/data/12072016_plants.csv', encoding="utf-8")
+	df = pd.read_csv('soilgenerate/data/12072016_plants_sheff.csv', encoding="utf-8")
 
 	# 21B—Coloma-Tatches complex, 0 to 6 percent slopes 
 
@@ -32,16 +32,20 @@ def filter(filter_args):
 	is_not_nan = pd.notnull(df['Planting Density per Acre, Maximum'])
 	df = df[is_not_nan]
 
-	# Filter invasive
-	is_not_invasive = pd.isnull(df['Invasive'])
-	df = df[is_not_invasive]
-
 	# Filter seed
-	# is_shef = df['Sheffields Aval'] == True
-	is_aval = df['Commercial Availability'] == "Routinely Available"
+	if filter_args['known_supplier']:
+		is_aval = df['Sheffields Aval'] == True
+	else:
+		is_aval = df['Commercial Availability'] == "Routinely Available"
+
 	df = df[is_aval]
 
 	##END Default Filters
+
+	# Filter invasive
+	if not filter_args['invasive']:
+		is_not_invasive = pd.isnull(df['Invasive'])
+		df = df[is_not_invasive]
 
 	# Filter deer
 	is_not_browse = df['Palatable Browse Animal'] == 'Low'
@@ -107,12 +111,12 @@ def filter(filter_args):
 			is_max_height = df['Height at Base Age, Maximum (feet)'] <= int(filter_args['max_height'])
 		else:
 			is_max_height = df['Height at Base Age, Maximum (feet)'] <= 2
-			
+
 		df = df[is_max_height]
 
 	# Filter rainfall
 
-	is_low = df['Precipitation (Minimum)'] >= int(filter_args['percip_min'])
+	is_low = df['Precipitation (Minimum)'] <= int(filter_args['percip_min'])
 	is_high = df['Precipitation (Maximum)'] >= int(filter_args['percip_max'])
 
 	df = df[is_low & is_high]

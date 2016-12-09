@@ -136,7 +136,7 @@ def setup(df, count, filters):
 	## Constraints
 
 	# -----
-	## C:N Ratio contraint
+	## C:N Ratio contraint  
 
 	prob += lpSum([variable_dict[i]['cn']*plant_vars[i] for i in plant_species]) >= \
 			lpSum([_cn_target*plant_vars[i] for i in plant_species]), "Carbon Nitrogen Ratio Requirement"
@@ -150,52 +150,21 @@ def setup(df, count, filters):
 	## Root depth constraint
 	# Occupy all laters by upper bound
 
-	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_A_plant_species]) <= area_sq, "Area upper bound for 0 to 4 inch root systems"
-	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) <= area_sq, "Area upper bound for 4 to 9 inch root systems"
-	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) >= (area_sq/5), "Area lower bound for 4 to 9 inch root systems"
-	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw2_plant_species]) <= area_sq, "Area upper bound for 9 to 14 inch root systems"
-	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw3_plant_species]) <= area_sq, "Area upper bound for 15 to 23 inch root systems"
-	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_E_plant_species]) <= area_sq, "Area upper bound for over 23 inch root systems"
+	# TODO: Fix if work around and debug GLPK
+	if root_A_plant_species:
+		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_A_plant_species]) <= area_sq, "Area upper bound for 0 to 4 inch root systems"
+	
+	if root_Bw1_plant_species:
+		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) <= area_sq, "Area upper bound for 4 to 9 inch root systems"
+		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw1_plant_species]) >= (area_sq/5), "Area lower bound for 4 to 9 inch root systems"
+	
+	if root_Bw2_plant_species:
+		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw2_plant_species]) <= area_sq, "Area upper bound for 9 to 14 inch root systems"
+	
+	if root_Bw3_plant_species:
+		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_Bw3_plant_species]) <= area_sq, "Area upper bound for 15 to 23 inch root systems"
+	
+	if root_E_plant_species:
+		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_E_plant_species]) <= area_sq, "Area upper bound for over 23 inch root systems"
 
 	return prob, variable_dict
-
-
-
-# print('\nObjective: ')
-# print(prob.objective)
-
-# GLPK().solve(prob)
-
-# v = prob.variables()
-
-
-# output = []
-
-# for solution in v:
-# 	_value = solution.varValue
-# 	_name = ' '.join(solution.name.split('_')[1:])
-# 	_height = None
-# 	_light = None
-# 	_root = None
-
-# 	is_key = variable_dict.get(_name)
-
-# 	if is_key:
-# 		_height = is_key['size']
-# 		_light = is_key['sun']
-# 		_root = is_key['root']
-
-# 		if _value > 0:
-# 			output.append((_name, round(_value), _height, _light, _root))
-
-
-# print('\nObjective: ')
-# print(prob.objective)
-
-# print('\nResult:')
-# print(pulp_value(prob.objective))
-
-# print('\nOUTPUT: ')
-# pp = pprint.PrettyPrinter(indent=4)
-# pp.pprint(output)
-# print(len(output))

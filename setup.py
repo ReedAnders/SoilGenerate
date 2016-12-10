@@ -7,7 +7,7 @@ setup(name='soilgenerate',
       author='Reed Anderson',
       author_email='reed.anderson@colorado.edu',
       license='MIT',
-      packages=['soilgenerate'],,
+      packages=['soilgenerate'],
       entry_points={
       	'console_scripts': 
       		['soilgenerate = soilgenerate.__main__:main']

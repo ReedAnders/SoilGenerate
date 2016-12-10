@@ -1,28 +1,11 @@
 import pandas as pd
 import numpy as np
 
-# Load soil data
-
+# Filter csv data based on application args
 def filter(filter_args):
+
+	# Read in csv data
 	df = pd.read_csv('soilgenerate/data/12072016_plants_sheff.csv', encoding="utf-8")
-
-	# 21B—Coloma-Tatches complex, 0 to 6 percent slopes 
-
-	# Mean annual precipitation: 28 to 38 inches
-	# Frost-free period: 113 to 185 days 
-
-	# Soil
-	    # A - 0 to 4 inches: sandy loam			Medium
-	    # Bw1 - 4 to 9 inches: sandy loam		Medium
-	    # Bw2 - 9 to 15 inches: sandy loam		Medium
-	    # Bw3 - 15 to 23 inches: sand			Course
-	    # E - 23 to 31 inches: sand 			Course
-	    # E and Bt1 - 31 to 43 inches: sand 	Course
-	    # E and Bt2 - 43 to 80 inches: sand 	Course
-
-	# Hardiness 5b								-10.0
-	# ------------------------------------------------
-
 
 	## BEGIN Default Filters
 	# Filter nan

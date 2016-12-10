@@ -63,19 +63,13 @@ def main():
 			core.print_result(growth, seeds)
 		else: 
 			objective, variables = core.setup(filtered_data, filter_count, args)
-			print('SoilGenerate Error: Problem infeasible with only {} plant species available for optimization. Try removing some data filters.'.format(len(variables)))
-			print(objective)
+			print('SoilGenerate Error: Problem infeasible with only {} plant species available for optimization. Try removing some data filters or changing CN Target.'.format(len(variables)))
 	except Exception as e:
 		if type(e).__name__ == "PulpSolverError":
 			objective, variables = core.setup(filtered_data, filter_count, args)
-			print('SoilGenerate Error: Problem infeasible with only {} plant species available for optimization. Try removing some data filters.'.format(len(variables)))
-			print(objective)
+			print('SoilGenerate Error: Problem infeasible with only {} plant species available for optimization. Try removing some data filters or changing CN Target.'.format(len(variables)))
 		else:
 			print(e)
-	else:
-		pass
-	finally:
-		pass
 
 
 if __name__ == "__main__":

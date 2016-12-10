@@ -6,6 +6,7 @@ import pandas
 
 import pprint
 
+# Call GLPK with prepared LP dictionary
 def optimize(df, count, filters):
 	prob, prob_vars = setup(df, count, filters)
 
@@ -35,6 +36,7 @@ def optimize(df, count, filters):
 
 	return prob.objective, pulp_value(prob.objective), output
 
+# Output result to user
 def print_result(objective_value, output):
 	
 	print('\nResult:')
@@ -44,8 +46,7 @@ def print_result(objective_value, output):
 	pp = pprint.PrettyPrinter(indent=4)
 	pp.pprint(output)
 
-	# print(len(output))
-
+# Convert cn csv value to float
 def cn_str_to_float(str_value):
 	float_value = 0.0
 	if str_value == "Low":
@@ -57,6 +58,7 @@ def cn_str_to_float(str_value):
 
 	return float_value
 
+# Convert growth csv value to float
 def growth_str_to_float(str_value):
 	float_value = 0.0
 	if str_value == "Slow":
@@ -68,16 +70,27 @@ def growth_str_to_float(str_value):
 
 	return float_value
 
+# Calculate population
 def calc_pop(area, density):
 
 	result = area/density
 	return result
 
+# Calculate density, thus plant area per ft sq
 def calc_density(per_acre):
 	per_foot_sq = per_acre/43560
 	return per_foot_sq
 
+# Convert nitrogen fixing csv value to int
+def is_nf(nitrogen_string):
+	if nitrogen_string != "None":
+		return 1
+	return 0
+
+# Setup LP dictionary
 def setup(df, count, filters):
+
+	## BEGIN Create variables, constants
 
 	area_sq = filters['area']
 	_cn_target = (1/int(filters['cn_target']))
@@ -126,22 +139,22 @@ def setup(df, count, filters):
 
 		info['seed_price'] = row['Price Per Pound']/row['Seeds Per Pound']
 
+		info['nitrogen'] = is_nf(row['Nitrogen Fixation'])
+
 		df_index += 1
 
 	# A dictionary called 'plant_vars' is created to contain the referenced Variables
 	plant_vars = LpVariable.dicts("Seeds",plant_species,0)
 
-	## Objective
-	# prob = LpProblem("GrowthOpt", LpMinimize)
-	# prob += lpSum([variable_dict[i]['seed_price']*plant_vars[i] for i in plant_species]) + t, "Objective for Cost of Seeds"
+	## END Create variables, constants
 
+	## Objective
+	# Constants in objective are the area (ft sq) occupied by each plant. 
 	prob = LpProblem("GrowthOpt", LpMaximize)
 	prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]), "Objective for Size of Seed Growth"
 
 
 	## Constraints
-	## Maximization contraint 't'
-	# prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in plant_species]) <= t, "Estimated Area Saturation from All Plants"
 
 	# -----
 	## Budget contraint  
@@ -149,21 +162,22 @@ def setup(df, count, filters):
 		prob += lpSum([variable_dict[i]['seed_price']*plant_vars[i] for i in plant_species]) <= filters['budget'], "Budget contraint in USD"
 
 	# -----
-	## C:N Ratio contraint  
+	## C:N Ratio contraint
+	# The Carbon:Nitrogen ratio in plant matter varies by plant, and an ideal ratio for plant matter decomposition is 30:1. 
+	# This contraint acts as a bound on low or high carbon over all plants 
 
 	prob += lpSum([variable_dict[i]['cn']*plant_vars[i] for i in plant_species]) >= \
 			lpSum([_cn_target*plant_vars[i] for i in plant_species]), "Carbon Nitrogen Ratio Requirement"
 
 	# -----
-	## Sunlight contraint
-	# Space width by height, to maximize leaf production
-
+	## Nitrogen contraint
+	# Include at least one nitrogent fixing plant, because this is not an ILP, this could allow for partial plants, but this is unlikely.
+	prob += lpSum([variable_dict[i]['nitrogen']*plant_vars[i] for i in plant_species]) >= 1.0, "Nitrogen fixation contraint"
 
 	# -----
 	## Root depth constraint
-	# Occupy all laters by upper bound
-
-	# TODO: Fix if work around and debug GLPK
+	# Occupy all layers by upper bound, one shallow layer by low bound
+	# TODO: Fix if: work around and debug GLPK
 	if root_A_plant_species:
 		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_A_plant_species]) <= area_sq, "Area upper bound for 0 to 4 inch root systems"
 	
@@ -180,4 +194,5 @@ def setup(df, count, filters):
 	if root_E_plant_species:
 		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_E_plant_species]) <= area_sq, "Area upper bound for over 23 inch root systems"
 
+	# Return 
 	return prob, variable_dict

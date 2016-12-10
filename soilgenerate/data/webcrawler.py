@@ -4,6 +4,9 @@ import requests
 import re
 import pandas as pd
 
+# Sheffields Seed data collector
+# TODO: Clean up
+
 df = pd.read_csv('12072016_plants.csv', encoding="utf-8")
 
 comparison_dict = {}

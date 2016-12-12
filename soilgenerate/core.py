@@ -32,19 +32,27 @@ def optimize(df, count, filters):
 			_cn = is_key['cn']
 
 			if _value > 0:
-				output.append((_name, round(_value), _height, _light, _root, _cn))
+				_name = "Scientific Name: " + _name
+				_value = "Seed Count: " + str(round(_value))
+				# _height = "Size: " + str(round(_height,3))
+				_light = "Shade Tolerance: " + _light
+				_root = "Root Depth: " + str(_root)
+				_cn = "CN Ratio: " + str(round(_cn,3))
+				output.append((_name, _value, _light, _root, _cn))
 
 	return prob.objective, pulp_value(prob.objective), output
 
 # Output result to user
 def print_result(objective_value, output):
-	
-	print('\nResult:')
-	print(pulp_value(objective_value))
+	if output:
+		print('\nResult:')
+		print(pulp_value(objective_value))
 
-	print('\nSeed Count by Species: ')
-	pp = pprint.PrettyPrinter(indent=4)
-	pp.pprint(output)
+		print('\nSeed Count by Species: ')
+		pp = pprint.PrettyPrinter(indent=4)
+		pp.pprint(output)
+	else:
+		print("SoilGenerate Error: Problem infeasible. Try removing some data filters or changing CN Target.")
 
 # Convert cn csv value to float
 def cn_str_to_float(str_value):
@@ -157,12 +165,7 @@ def setup(df, count, filters):
 	## Constraints
 
 	# -----
-	## Budget contraint  
-	if filters['budget']:
-		prob += lpSum([variable_dict[i]['seed_price']*plant_vars[i] for i in plant_species]) <= filters['budget'], "Budget contraint in USD"
-
-	# -----
-	## C:N Ratio contraint
+	## C:N Ratio constraint
 	# The Carbon:Nitrogen ratio in plant matter varies by plant, and an ideal ratio for plant matter decomposition is 30:1. 
 	# This contraint acts as a bound on low or high carbon over all plants 
 
@@ -170,9 +173,9 @@ def setup(df, count, filters):
 			lpSum([_cn_target*plant_vars[i] for i in plant_species]), "Carbon Nitrogen Ratio Requirement"
 
 	# -----
-	## Nitrogen contraint
-	# Include at least one nitrogent fixing plant, because this is not an ILP, this could allow for partial plants, but this is unlikely.
-	prob += lpSum([variable_dict[i]['nitrogen']*plant_vars[i] for i in plant_species]) >= 1.0, "Nitrogen fixation contraint"
+	## Nitrogen fixation contraint
+	# Include at least one nitrogen fixing plant, because this is not an ILP, this could allow for partial plants, but this is unlikely.
+	prob += lpSum([variable_dict[i]['nitrogen']*plant_vars[i] for i in plant_species]) >= 1.0, "Nitrogen fixation constraint"
 
 	# -----
 	## Root depth constraint
@@ -193,6 +196,11 @@ def setup(df, count, filters):
 	
 	if root_E_plant_species:
 		prob += lpSum([variable_dict[i]['size']*plant_vars[i] for i in root_E_plant_species]) <= area_sq, "Area upper bound for over 23 inch root systems"
+
+	# -----
+	## Budget contraint  
+	if filters['budget']:
+		prob += lpSum([variable_dict[i]['seed_price']*plant_vars[i] for i in plant_species]) <= filters['budget'], "Budget contraint in USD"
 
 	# Return 
 	return prob, variable_dict

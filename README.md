@@ -1,5 +1,14 @@
 ## Running SoilGenerate
 
+### Install GLPK
+
+This application uses Python PuLP to interface with GLPK. On Ubuntu, install GLPK with:
+
+```
+sudo apt-get install python-glpk
+sudo apt-get install glpk-utils
+```
+
 ### Setup Virtual Environment
 ```
 virtualenv -p python3 env

@@ -2,7 +2,7 @@
 
 ### Install GLPK
 
-This application uses Python PuLP to interface with GLPK. On Ubuntu, install GLPK with:
+This application uses Python PuLP to interface with GLPK's linear programming solver. On Ubuntu, install GLPK with:
 
 ```
 sudo apt-get install python-glpk

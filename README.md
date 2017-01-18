@@ -23,7 +23,7 @@ python3 -m soilgenerate
 
 ## Summary
 
-Cultivated fruits and vegetables require optimal soil conditions for high yields. In a traditional sense, soil optimization focuses on maintaining quantities of chemical nutrients vital to plant growth; however, farmland must also contain sufficient organic matter in soil to store these nutrients. This rich organic matter, called humus, also stores water and beneficial microorganisms. 
+Cultivated fruits and vegetables require optimal soil conditions for high yields. In a traditional sense, soil optimization focuses on maintaining quantities of chemical nutrients vital to plant growth; however, farmland must also contain sufficient organic matter in soil to store these nutrients. This rich organic matter, often called humus, also stores water and beneficial microorganisms. 
 
 Because sandy soil lacks humus, making sandy farmland usable requires physically bringing in organic matter in an extremely labor intensive process.
 

@@ -1,6 +1,3 @@
-## Live Example
-
-An interactive app can be found at: http://soilgenerate.appspot.com/
 
 ## Summary
 

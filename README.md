@@ -1,3 +1,6 @@
+## Live example
+
+An interactive app can be found at: http://soilgenerate.appspot.com/
 
 ## Summary
 
@@ -5,7 +8,7 @@ Cultivated fruits and vegetables require optimal soil conditions for high yields
 
 Because sandy soil lacks humus, making sandy farmland usable requires physically bringing in organic matter in an extremely labor intensive process.
 
-A possible solution to the quick fix of physically adding organic matter is preparing farmland over time by planting fast-growing plants which shed roots and leaves at a rapid rate, thereby increasing organic matter in the soil gradually. Using data on native plant growth rates and optimal growing conditions [1] and processed remote sensing soil data [2], SoilGenerate is a software implementation of Simplex which constrains the financial cost of purchasing seeds [3] for a user specified area to maximize hypothetical plant growth based on soil conditions.
+A possible solution to the quick fix of physically adding organic matter is preparing farmland over time by planting fast-growing plants which shed roots and leaves at a rapid rate, thereby increasing organic matter in the soil gradually. Using data on native plant growth rates and optimal growing constraints [1] and processed remote sensing soil data [2], SoilGenerate is a software implementation of Simplex which constrains the financial cost of purchasing seeds [3] for a user specified area to maximize hypothetical plant growth based on soil conditions.
 
 Resources :
 

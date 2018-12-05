@@ -1,6 +1,6 @@
 ## Live example
 
-An interactive app can be found at: http://soilgenerate.appspot.com/
+An interactive app can be found at: http://soilgenerate.appspot.com/ [inactive]
 
 ## Summary
 
